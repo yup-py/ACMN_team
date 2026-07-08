@@ -4,8 +4,9 @@
     tags=['gold', 'dimension']
 ) }}
 
+
 SELECT
-    listing_id,
+    listing_id AS property_key,
     property_type,
     surface_m2,
     num_rooms,
@@ -17,6 +18,6 @@ SELECT
     heating_type,
     parking,
     energy_rating,
-    CURRENT_TIMESTAMP() as created_at
+    CURRENT_TIMESTAMP() AS created_at
 
 FROM {{ ref('stg_listings') }}
