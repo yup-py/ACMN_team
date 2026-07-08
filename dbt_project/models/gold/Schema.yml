@@ -1,0 +1,58 @@
+version: 2
+
+models:
+  - name: dim_location
+    description: "Location dimension (country / city / neighborhood), one row per distinct location."
+    columns:
+      - name: location_key
+        description: "Surrogate key = HASH(country, city, neighborhood)"
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_property
+    description: "Property characteristics dimension, one row per listing (1:1 with fact grain)."
+    columns:
+      - name: property_key
+        description: "Surrogate key = listing_id"
+        tests:
+          - unique
+          - not_null
+
+  - name: dim_time
+    description: "Calendar dimension built from distinct listing dates."
+    columns:
+      - name: time_key
+        description: "Surrogate key = YYYYMMDD as NUMBER"
+        tests:
+          - unique
+          - not_null
+
+  - name: fact_listings
+    description: "Fact table, one row per listing. Contains FKs to each dimension + measures (price, price_per_m2, days_on_market)."
+    columns:
+      - name: listing_key
+        tests:
+          - unique
+          - not_null
+      - name: location_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_location')
+              field: location_key
+      - name: property_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_property')
+              field: property_key
+      - name: time_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_time')
+              field: time_key
+      - name: price
+        tests:
+          - not_null
