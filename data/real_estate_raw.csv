@@ -1,0 +1,2061 @@
+listing_id,property_type,country,city,neighborhood,surface_m2,num_rooms,num_bathrooms,floor,year_built,price,listing_date,condition,heating_type,parking,energy_rating
+1665, studio,Germany,Berlin,SUBURBS,287,6,2,1,1984,230376,2023-03-12,Old,Electric,YES,G
+1870,house,,Naples,,378,3,4,17,1973,1856023,2022-10-25,Old,electric,,c
+1415,Villa ,France,Lyon,SUBURBS,277,8,3,5,1980,710838,06/02/2020,,Central,1,D
+1504,Villa ,Netherlands,Amsterdam,Suburbs,245,2,4,14,1953,1869348,2019-01-16,,Electric,yes,D
+2333,house,Spain,Valencia,City Center,94,4,2,8,2005,1836672,2023-12-03,New,CENTRAL,NO,b
+1681,duplex,Switzerland,Lucerne,Industrial,286,,2,5,1986,260677,2021-08-30,Renovated,gas,yes,A
+2197, studio,,Lisbon,Historic,82,6,2,11,1992,385119,2023-02-11,Good,CENTRAL,no,A
+1943,apartment,Germany,Düsseldorf,City Center,106,,3,20,,1878533,2021-02-22,Old,Solar,no,C
+2691,apartment,France,Nice,Residential,9999,6,4,9,1992,1061240,2023-08-16,Good,CENTRAL,NO,D
+2582,HOUSE,Portugal,Coimbra,Historic,186,5,2,0,2011,154073,2023-04-14,Good,Electric,YES,G
+1445,HOUSE,Switzerland,Lucerne,,84,1,4,5,1953,203122,2019-05-03,Renovated,Electric,Yes,B
+1043,Penthouse,Switzerland,Geneva,,70,6,3,12,1957,628565,06-08-2024,,Solar,YES,D
+2314,VILLA,Netherlands,Rotterdam,Residential,32,5,2,15,2005,1842992,02-03-2018,,Central,no,E
+1019,VILLA,Switzerland,Lausanne,Industrial,238,8,2,14,2010,593564,2020-08-18,,Electric,yes,C
+1640,apartment,Netherlands,Rotterdam,Suburbs,59,5,1,16,1965,1390685,2022-07-27,Good,Solar,0,C
+1631,duplex,Germany,Hamburg,Suburbs,276,1,,15,,134689,2018-12-30,,Gas,,G
+2182,HOUSE,Switzerland,Lucerne,city center,390,7,4,11,1969,725606,26/02/2023,New,CENTRAL,,B
+2102, studio,Italy,Bologna,SUBURBS,41,7,3,17,2004,1575663,2021-08-19,Renovated,,NO,b
+1970,duplex,Portugal,Porto,Residential,109,1,3,13,1981,1623606,2019-12-28,Renovated,gas,No,F
+2690,Penthouse,Italy,Genoa,City Center,339,,3,14,1986,439,2021-11-17,Renovated,CENTRAL,No,D
+2615,VILLA,Switzerland,Lucerne,,127,3,1,2,1974,882218,2020-04-29,Good,Solar,No,c
+1160, studio,Spain,Seville,Industrial,370,7,1,17,1976,1788011,2021-09-20,Good,,0,B
+1615,apartment,Germany,Munich,,260,,2,16,1971,550352,2018-09-01,Old,Solar,0,E
+2502,duplex,Italy,Venice,,265,3,1,5,1981,918526,2019-11-22,Good,electric,NO,D
+1866,house,Germany,Hamburg,City Center,,7,2,6,2008,428037,2023-07-01,Old,Electric,,C
+1224,Penthouse,Germany,Cologne,Industrial,329,3,1,3,2001,733398,2021/07/03,Old,gas,NO,a
+2981,duplex,France,Strasbourg,Residential,49,6,1,14,2020,79196,2024-05-24,,Electric,Yes,D
+1181,HOUSE,Italy,Venice,Industrial,186,6,3,17,1973,601234,2022-06-29,Good,Solar,No,E
+2595,house,France,Strasbourg,city center,9999,6,3,1,,1488893,2018-04-22,Old,Solar,yes,C
+1890,APT,Portugal,Faro,Suburbs,259,3,4,12,1979,1210674,2024-10-30,Good,electric,1,C
+2310,Villa ,Belgium,Liège,Industrial,,5,2,6,1976,1833601,2022-07-06,New,,0,F
+2985,VILLA,Portugal,Faro,Suburbs,201,7,3,13,2013,925966,2018-08-03,,gas,no,F
+2618,duplex,Germany,Hamburg,City Center,273,3,2,3,1993,1388670,2021-10-13,New,Central,0,E
+2298,Villa ,Italy,Milan,,185,3,3,6,,763456,2024-09-24,Good,Electric,NO,A
+2515, studio,Belgium,Namur,Historic,30,2,2,7,2002,387809 EUR,2022-04-14,New,electric,No,F
+2664,house,Italy,Rome,Industrial,102,8,4,16,1966,1360777,2024-03-24,Good,gas,,A
+2667,VILLA,Switzerland,Lausanne,Historic,92,4,1,1,2011,94322 EUR,2023-05-22,Old,Gas,no,b
+1524,apartment,Switzerland,Basel,city center,,8,4,2,2005,409328 EUR,2021-02-04,New,electric,,C
+1935,duplex,Netherlands,Rotterdam,SUBURBS,28,1,1,14,1973,966324,2023-08-01,Good,CENTRAL,,
+2987,VILLA,Italy,Naples,Historic,210,1,3,13,1963,348255,2019-03-27,Good,Central,yes,b
+2742,VILLA,France,Strasbourg,,101,7,2,11,1996,1143805,2023-06-28,Old,Central,0,A
+1900,apartment,Portugal,Porto,SUBURBS,305,,2,7,1952,1360511,2021-01-08,Old,Gas,no,F
+2094,HOUSE,France,Nantes,Suburbs,375,7,4,0,1961,173466,2019-05-21,,Gas,yes,c
+1253,HOUSE,Germany,Frankfurt,,41,6,,8,2006,825258,01.02.2020,Old,CENTRAL,yes,A
+1757,Villa ,France,Paris,City Center,267,3,2,,1958,440717,2019-05-21,Old,Electric,1,C
+1201,apartment,Switzerland,Lausanne,city center,300,7,3,12,1960,1102399,2023-11-18,Old,CENTRAL,No,B
+1540,VILLA,Netherlands,Utrecht,Residential,229,6,3,12,1977,346393,06.09.2020,Old,Central,YES,G
+1831,apartment,,Munich,Residential,149,6,3,3,2002,1090141,2018-08-09,Good,,no,C
+2303,house,Spain,Barcelona,SUBURBS,289,3,1,1,1992,573298 EUR,2022-06-13,Old,Central,0,C
+1846,Villa ,Netherlands,Amsterdam,SUBURBS,254,3,4,0,2007,1118263,2021-02-04,,electric,,a
+1278,APT,Switzerland,Lucerne,Historic,,7,1,8,1970,1111860,2020-01-23,Good,Central,,D
+2945,duplex,Netherlands,Amsterdam,SUBURBS,166,1,4,20,1980,442409 EUR,2019-11-25,Renovated,CENTRAL,no,C
+1109,APT,Switzerland,Zurich,Suburbs,123,3,3,8,1970,245748,2020-08-17,New,Central,YES,
+1208, studio,Italy,Turin,Residential,371,1,3,15,1960,331200 EUR,25/07/2018,Good,Solar,YES,B
+2930,apartment,Germany,Düsseldorf,city center,399,5,4,19,2001,1414201,2021-06-06,New,electric,,E
+1150,APT,Switzerland,Basel,SUBURBS,96,1,1,16,1970,1830158,2024-03-04,Good,Electric,1,
+2025,VILLA,Spain,Madrid,City Center,193,5,2,15,,1890065,2022-09-20,Old,Solar,Yes,B
+1462,APT,Belgium,Ghent,City Center,150,4,1,3,1969,1582301,2024-08-22,,electric,YES,C
+1914,apartment,Spain,Bilbao,City Center,147,3,2,17,1960,100611,2024-02-07,Renovated,Central,1,a
+1104,house,,Amsterdam,SUBURBS,89,4,4,16,2021,1419586 EUR,2021-04-11,Renovated,Gas,1,b
+1267,duplex,Netherlands,Rotterdam,City Center,338,2,1,15,2016,1712478,14/01/2024,Old,electric,1,A
+1630,VILLA,Spain,Alicante,Suburbs,351,6,1,4,1953,791001,2019-08-29,Old,,1,a
+2921,duplex,,Seville,Suburbs,,6,1,0,1985,719872,2020/09/27,Good,Solar,no,a
+1018, studio,Switzerland,Bern,,387,,4,7,2001,359479,2023-10-23,New,electric,yes,
+1755,Villa ,Belgium,Namur,Residential,241,,3,20,1984,1917080,2022/07/26,Good,electric,1,
+2328,VILLA,Italy,Florence,Industrial,199,8,2,10,2005,1433982,2020-02-14,,Solar,,E
+2216,APT,Portugal,Lisbon,Historic,374,1,4,14,1983,376382,2023-04-07,Renovated,Central,1,A
+1909,house,France,Lyon,Suburbs,9999,6,2,14,1950,1341189,2021-04-04,Good,,1,E
+1214,apartment,Netherlands,Amsterdam,Residential,75,7,2,9,1970,1331548,2024/05/11,Old,Electric,no,
+1066,Penthouse,Netherlands,Groningen,Historic,383,2,3,5,1988,288,2023-07-17,Old,Gas,No,B
+1311,APT,Belgium,Brussels,,377,2,2,8,2021,1891885,2023-01-29,Renovated,CENTRAL,YES,
+2238,duplex,,The Hague,City Center,230,4,4,20,2008,131112,2021-03-15,Good,gas,NO,G
+1026,house,Italy,Venice,Suburbs,,4,4,14,2012,1712900,2024-03-04,Renovated,,no,D
+2141,apartment,Switzerland,Zurich,Residential,185,2,1,16,,1072714,2023/08/12,Old,,0,
+1134,HOUSE,Germany,Munich,Historic,308,2,3,,2018,1891076 EUR,2022-07-04,Renovated,Solar,Yes,
+1840,VILLA,Belgium,Ghent,Residential,92,5,,6,1952,1383625,2020-07-19,Renovated,gas,,
+2916,Penthouse,Spain,Barcelona,Industrial,358,4,4,19,1952,303,2018-08-29,New,CENTRAL,YES,F
+2206,HOUSE,,Lucerne,Industrial,371,8,4,3,1999,1895832,2024-07-19,,CENTRAL,no,A
+2912,Villa ,Spain,Barcelona,Residential,156,8,3,20,1977,1646378,2023-08-21,New,Gas,Yes,D
+2271, studio,Switzerland,Geneva,,25,1,4,1,1983,1586039,2019-05-16,Good,electric,Yes,A
+2174, studio,Italy,Milan,Suburbs,221,5,1,20,,898340,2018-09-25,Renovated,electric,,D
+1295,HOUSE,Belgium,Namur,city center,361,8,2,6,1972,377814 EUR,06-22-2020,,Central,No,F
+2851,Penthouse,,Florence,Residential,318,3,2,11,1972,1503402 EUR,2020-01-04,Good,CENTRAL,No,E
+2507, studio,Italy,Naples,City Center,308,6,2,,1999,1987102,2020-07-30,Old,Central,1,C
+1183,Penthouse,Spain,Alicante,city center,153,,3,17,2021,1748726,2019-12-16,Renovated,electric,1,B
+2389,apartment,Spain,Madrid,SUBURBS,86,2,2,2,1988,1531474,2023-12-23,Good,Gas,No,E
+2401,Penthouse,Belgium,Brussels,city center,127,7,2,2,1990,1885719 EUR,2018-04-21,New,electric,No,D
+2573,Villa ,Switzerland,Lausanne,City Center,,,1,20,2020,308631,2021-08-02,,CENTRAL,No,E
+1077,duplex,Netherlands,Utrecht,Residential,265,4,2,8,2018,1228637,2018-08-04,Old,Electric,yes,A
+1339,apartment,Netherlands,Groningen,City Center,286,7,3,7,,1826151,2020-06-30,Renovated,Gas,1,c
+2452,Villa ,Switzerland,Lausanne,Industrial,159,5,3,7,1952,1476442,2018-12-22,New,Solar,YES,B
+2696,VILLA,Netherlands,Amsterdam,Residential,318,6,1,12,1987,1520607,2020-09-09,Good,Solar,Yes,E
+1474,house,Netherlands,Amsterdam,city center,101,6,1,17,2010,1490295,2021-07-27,Renovated,,,b
+1555, studio,Italy,Turin,City Center,270,8,1,16,,1897020,2020-12-25,Good,,yes,F
+2170,HOUSE,France,Nantes,Industrial,32,5,4,16,1961,1240890,2024-09-20,Old,gas,0,a
+2418,house,France,Toulouse,Historic,110,4,4,19,2002,660832 EUR,2019-07-05,Good,,NO,A
+1444, studio,Switzerland,Bern,Historic,311,3,2,18,2002,1446499,2020-03-22,New,Gas,No,G
+2063,Villa ,Italy,Naples,city center,184,6,1,8,2006,196255,2020-11-06,Good,Electric,yes,D
+2190,house,Italy,Bologna,SUBURBS,316,6,3,18,1958,368,2023-02-11,Good,CENTRAL,,c
+1045,house,France,Toulouse,city center,349,1,1,12,,943960 EUR,2024-07-25,,,1,a
+2600,APT,Italy,Venice,City Center,192,7,1,15,2001,1058203,2018-01-13,Old,electric,yes,F
+1505,Penthouse,Switzerland,Lucerne,Suburbs,182,7,2,,1976,1727283,2019-02-14,New,gas,no,D
+2240,duplex,Germany,Düsseldorf,Industrial,36,8,4,,1953,1214251,2019-04-26,Old,Electric,,C
+2269,house,Germany,Düsseldorf,Suburbs,389,,4,5,2002,1341197,2022-10-16,Renovated,Electric,0,C
+1819, studio,Germany,Cologne,,385,8,2,2,2001,1949551,2023-06-17,Renovated,Solar,Yes,A
+1537,VILLA,Portugal,Coimbra,city center,28,3,,1,,350912,2018-05-25,Old,gas,no,c
+2954,Villa ,Italy,Venice,Residential,244,3,3,10,1988,1788670,2023-06-07,New,CENTRAL,NO,D
+2745,APT,Italy,Genoa,City Center,158,5,3,5,1964,1363369,2022-07-29,Good,gas,No,D
+1038,apartment,Switzerland,Basel,city center,258,5,2,14,1959,774703,2019-03-13,,,no,A
+2409,APT,Germany,Frankfurt,Residential,66,8,3,13,2022,1572340,2023-09-08,Good,Electric,1,E
+1572,HOUSE,France,Strasbourg,Residential,263,5,1,7,1960,1568922,2024-03-13,Good,gas,No,A
+2160,APT,Portugal,Faro,SUBURBS,,3,4,5,2011,1148918,05-15-2023,Renovated,gas,no,A
+1817,Villa ,Netherlands,The Hague,Suburbs,306,7,4,7,1976,1776192,2018-02-18,Good,Gas,,A
+2131,duplex,Portugal,Coimbra,City Center,79,8,,14,2008,1865440,2024-08-01,Good,Electric,1,D
+2143,Penthouse,Italy,Rome,SUBURBS,279,8,,17,,503335,2020-07-27,Renovated,CENTRAL,0,B
+1967,Villa ,Spain,Bilbao,City Center,33,7,4,,2011,266209,2020-04-22,Good,Gas,yes,E
+1548,HOUSE,Germany,Munich,Industrial,,7,2,1,1976,1553614,2020-12-22,Good,Central,No,C
+1816,HOUSE,Portugal,Coimbra,City Center,61,4,,2,2018,626931,2024-06-04,New,electric,1,b
+1506,apartment,,Braga,Residential,160,6,1,7,1968,421947,2021-04-15,Good,gas,yes,C
+2915,apartment,Spain,Zaragoza,City Center,328,2,2,,1998,187916,2024-01-30,New,Central,No,G
+2995, studio,Netherlands,Utrecht,Suburbs,380,5,3,17,1974,775800,2018-12-15,Old,electric,Yes,B
+2313, studio,Switzerland,Lausanne,Suburbs,73,4,4,12,1974,755594,2024-04-08,Renovated,Electric,1,E
+2415,Villa ,,Amsterdam,Industrial,370,8,,16,,363267,2019-10-04,,,NO,C
+2139,VILLA,France,Strasbourg,Residential,237,8,4,5,1953,138171 EUR,2024-12-20,,gas,,D
+2601,Villa ,Belgium,Brussels,SUBURBS,9999,2,1,10,2019,1740145,2022/01/05,Renovated,Electric,NO,A
+1735,apartment,Netherlands,Rotterdam,Industrial,205,7,1,1,1954,904709,2018-08-29,Old,electric,no,A
+1304,Penthouse,Spain,Barcelona,city center,312,5,1,4,2016,296923,05-07-2020,New,CENTRAL,No,A
+1420,HOUSE,Portugal,Coimbra,Residential,168,4,1,11,2010,571621,2024-04-28,,Gas,YES,E
+1435, studio,Belgium,Namur,Industrial,,5,3,16,2019,268896 EUR,2020-08-02,New,CENTRAL,yes,A
+1153,HOUSE,Italy,Bologna,city center,232,1,1,14,,1430883,2023-09-14,,Gas,yes,B
+1599,apartment,Portugal,Braga,Suburbs,190,6,1,7,1989,1070306,2019-11-07,,gas,No,B
+1557,APT,Italy,Venice,Historic,378,,3,6,1983,352114,2022-04-14,Renovated,Electric,no,
+2034,APT,Germany,Berlin,Historic,358,6,2,5,1973,526183,07/11/2021,Good,gas,,C
+2592,Penthouse,France,Paris,Industrial,321,1,3,,1986,1600715 EUR,2021-05-25,Good,electric,No,C
+1413,VILLA,Belgium,Brussels,Suburbs,63,6,,4,1977,882418,2021-04-19,Renovated,electric,0,G
+2285,duplex,Italy,Bologna,city center,234,5,4,0,2004,1947315,2018-12-02,New,CENTRAL,Yes,D
+2795,apartment,Netherlands,Eindhoven,Historic,391,5,,9,1986,596123,2018-09-19,Old,Gas,0,
+1269,Penthouse,France,Marseille,City Center,198,1,3,3,1998,947891,2018-09-26,Good,Central,0,F
+2464,VILLA,Portugal,Coimbra,city center,,4,1,8,1970,1789501,2023-11-05,New,Electric,no,F
+2767,apartment,Germany,Frankfurt,City Center,193,4,1,15,2005,509934,16.11.2021,New,Electric,Yes,F
+2244,duplex,Germany,Munich,,,8,3,10,1987,379,2020-04-09,Good,,Yes,D
+1482,APT,Switzerland,Lausanne,Suburbs,345,6,4,17,2010,76355,13/05/2021,New,electric,0,F
+1878,house,Switzerland,Lausanne,SUBURBS,346,3,3,19,2009,316023,2021-08-09,New,Gas,Yes,E
+2453,APT,France,Lyon,city center,9999,4,3,13,2010,1278127,2024-11-03,Good,Gas,Yes,B
+2984,APT,Germany,Stuttgart,,199,7,2,18,,408817,08-12-2020,Good,electric,0,C
+1574, studio,Switzerland,Bern,,22,7,2,1,1998,683920,2019-02-20,,Central,1,
+1284,Penthouse,Belgium,Bruges,SUBURBS,243,3,3,4,,1215334 EUR,2023-03-29,Old,Central,1,F
+2804, studio,Spain,Bilbao,Suburbs,190,4,3,5,1983,769011,2023-07-27,Good,,1,F
+1587, studio,Italy,Florence,SUBURBS,214,8,1,7,2022,1403663,2022-10-04,Good,,NO,E
+2596,house,Netherlands,Rotterdam,,,3,3,12,1987,548287,2024-07-20,Old,Gas,no,c
+1407, studio,Netherlands,The Hague,City Center,120,1,4,1,2013,625490,2024-06-16,Renovated,Gas,,A
+1260,Villa ,Germany,Berlin,Suburbs,285,5,3,13,2012,763688,2023-11-24,New,gas,1,B
+2520,apartment,Netherlands,Groningen,SUBURBS,110,8,3,13,2015,158256,2024-06-25,Renovated,Gas,no,F
+2876, studio,France,Strasbourg,Industrial,275,2,2,0,1968,970044,2024-02-26,New,gas,yes,F
+2686,HOUSE,Italy,Venice,Suburbs,400,,1,11,1969,1079469,2020-09-13,Renovated,CENTRAL,NO,b
+2055,Penthouse,France,Nice,Residential,273,4,4,,1962,1191837,2021-03-28,Renovated,,,G
+2089,Penthouse,France,Marseille,Suburbs,283,6,2,13,1984,1669936,2018-08-18,,Central,0,E
+2577,APT,Portugal,Braga,Industrial,329,8,3,4,2010,1714414,2023-08-12,New,Solar,yes,F
+1051,house,Netherlands,Rotterdam,Residential,373,6,1,3,2005,560271,2023-02-17,Renovated,Gas,YES,B
+1752,VILLA,Netherlands,Amsterdam,Residential,377,1,3,16,1989,233581,2023-01-04,Good,Central,1,E
+2828,duplex,Spain,Alicante,Residential,153,8,4,5,1993,1832119 EUR,2018-09-30,New,Solar,NO,c
+2801,house,Spain,Malaga,City Center,187,5,2,13,2009,1134792,2020-03-19,Renovated,gas,no,C
+1856,duplex,Netherlands,Utrecht,city center,223,,1,14,1999,1480761,2019-08-05,New,gas,no,C
+1419,apartment,Spain,Bilbao,Industrial,,1,2,,1986,308863,2023-08-19,Good,Electric,no,C
+1256,Villa ,,Basel,Residential,392,7,4,18,1967,332,2018-12-29,Old,Gas,0,
+2279,duplex,,Groningen,city center,232,6,4,6,,206209,2023-03-31,Old,Solar,yes,F
+2373,apartment,Portugal,Braga,Suburbs,339,6,3,1,2010,1561506 EUR,2022-01-04,Good,Electric,no,c
+1382,HOUSE,Belgium,Antwerp,Industrial,185,3,2,11,1999,719653,2022-04-19,,electric,0,a
+1280,VILLA,,Paris,Industrial,351,4,1,6,2009,274,2019-04-26,Old,electric,No,D
+2528,duplex,Netherlands,The Hague,City Center,57,5,1,20,2018,744766 EUR,2018-01-08,New,Central,,G
+2720, studio,Switzerland,Lausanne,SUBURBS,245,8,4,5,1992,1518779,2021-05-16,,Solar,0,F
+1264,VILLA,,Porto,Industrial,136,7,1,3,1990,1027066,2020/08/20,Good,gas,no,G
+1060,house,Italy,Venice,City Center,52,2,4,0,2018,1375305,2018-12-17,,Central,,
+1582,duplex,,Braga,city center,,8,3,8,1968,1320840,2023-07-21,,,0,b
+1308,Villa ,Belgium,Brussels,city center,177,7,2,19,,732184,2019-05-11,,Solar,1,a
+2699,HOUSE,,Zurich,Suburbs,331,3,3,15,2009,155645,2022-08-23,,Gas,0,c
+1685,APT,Netherlands,The Hague,city center,108,4,3,3,2011,337014,2018-06-08,Old,Solar,No,
+2352,Villa ,Spain,Madrid,city center,91,2,4,18,2020,1005828,2020-04-03,New,Gas,,G
+2167,APT,France,Nice,Residential,,8,4,5,,803770,2024/09/01,New,Electric,yes,D
+1690,HOUSE,Netherlands,Rotterdam,Suburbs,182,3,1,19,1982,1326849,2023-07-12,Good,electric,1,c
+2065,duplex,France,Nantes,SUBURBS,205,8,2,1,1985,1229445,2019-01-16,New,Solar,YES,b
+2040,Villa ,,Milan,Residential,257,5,2,15,1978,449,2024-06-17,Renovated,Gas,1,E
+1498,Penthouse,,Ghent,Historic,32,6,4,10,1998,1220353,2023-05-19,New,gas,1,D
+2177,HOUSE,Spain,Barcelona,,246,2,4,1,1956,633075,2022-09-29,Good,,,F
+2796,Penthouse,France,Strasbourg,SUBURBS,,4,1,12,1982,1723206,2024-10-31,New,CENTRAL,0,
+2424, studio,Netherlands,Groningen,Industrial,84,6,4,8,2018,1342962 EUR,2018-06-28,Renovated,gas,No,E
+2623, studio,Belgium,Liège,Suburbs,224,7,2,11,2011,803875,2018-02-25,Old,Central,Yes,D
+1637,Penthouse,Italy,Turin,Industrial,119,5,3,12,,1577672,2024-02-08,Good,Electric,YES,
+1412,Penthouse,Germany,Frankfurt,,217,8,2,6,2001,240,2020-09-12,New,electric,0,
+2281,house,Belgium,Ghent,,305,4,4,11,2015,1337730,04.08.2019,Renovated,Electric,Yes,E
+1881,Penthouse,Germany,Hamburg,Residential,24,2,2,20,1995,900887,02-28-2018,Renovated,Electric,no,b
+1809,Penthouse,Switzerland,Geneva,Industrial,346,4,3,9,1968,969308 EUR,2024-05-28,,Solar,Yes,F
+2178,HOUSE,Germany,Frankfurt,Suburbs,265,1,2,11,1979,561292,2021-11-26,New,electric,1,D
+2602, studio,Belgium,Bruges,,79,7,4,16,,1457434,2023/05/01,New,Central,Yes,E
+2543,APT,Germany,Frankfurt,,146,5,1,1,1965,602998 EUR,08-23-2020,Good,Electric,yes,
+2375,HOUSE,,Stuttgart,Historic,188,7,3,3,2020,971163,2021-05-30,,Electric,No,c
+2958,Villa ,Portugal,Lisbon,Industrial,90,4,4,9,1985,1249782 EUR,2020-10-28,New,gas,yes,G
+2635, studio,Spain,Barcelona,Suburbs,263,2,2,,1987,941901,2023-06-04,Renovated,electric,,A
+1547,HOUSE,Germany,Stuttgart,Suburbs,,4,1,0,1959,1566465,2021-09-17,New,Central,yes,D
+2185,APT,Germany,Berlin,SUBURBS,129,2,4,3,1986,1058084,2022-11-23,Good,CENTRAL,No,G
+2031,VILLA,Netherlands,Eindhoven,city center,74,3,3,19,1993,20,2022-06-24,Renovated,Electric,1,B
+1888,house,Belgium,Namur,City Center,,4,4,2,1984,1419098,2021-01-02,Renovated,Solar,NO,b
+2677,duplex,Netherlands,Amsterdam,Residential,,6,1,,1985,225029 EUR,2020-09-19,,CENTRAL,,A
+2888,duplex,Switzerland,Bern,city center,179,5,1,7,1985,1694328,23.08.2019,Renovated,,Yes,C
+1869,duplex,Germany,Cologne,Industrial,212,4,1,,2006,1231118,2021-08-24,Renovated,CENTRAL,No,b
+1078,house,Portugal,Setúbal,Historic,,4,3,9,1991,1404546 EUR,2022-09-08,New,gas,1,C
+1797,APT,,Madrid,Industrial,342,6,2,20,1950,1935033 EUR,2022-08-06,New,CENTRAL,,b
+1496,HOUSE,Germany,Frankfurt,Industrial,138,4,3,9,2014,721121,03-28-2021,,electric,,E
+2541,APT,Belgium,Ghent,Historic,192,8,4,19,1979,857290,2024-01-27,New,Central,0,A
+1392,APT,Portugal,Porto,SUBURBS,57,4,4,2,2009,781775,2022-11-10,Renovated,CENTRAL,1,D
+2755,duplex,France,Toulouse,SUBURBS,213,2,4,1,1981,1892318 EUR,2022-12-21,,Gas,no,A
+2643,HOUSE,,Setúbal,Suburbs,85,3,1,10,1980,267409,2018-07-01,,,0,E
+2365,house,Netherlands,Utrecht,Industrial,83,3,3,1,1968,1816543 EUR,2019-04-04,,Solar,YES,F
+1335,duplex,,Setúbal,Suburbs,247,1,1,,1956,1658755 EUR,2018-09-16,Good,Gas,Yes,G
+2749,APT,Italy,Naples,SUBURBS,385,8,4,6,,1861920,2020-08-12,Good,Central,1,b
+2043,duplex,Germany,Düsseldorf,,71,3,4,16,1953,590097,2020-08-16,Good,Central,YES,b
+1452, studio,Belgium,Brussels,Historic,77,5,4,10,2007,568827,2023-06-05,,gas,YES,A
+2967,apartment,Netherlands,Groningen,,335,6,4,13,1975,1470240,2019-09-01,Old,Solar,no,D
+1519,apartment,Belgium,Liège,Suburbs,186,8,3,6,1970,1221212,2021-09-29,Good,CENTRAL,no,B
+1905, studio,Germany,Frankfurt,Industrial,184,8,4,16,2021,1023060,2018-07-20,Renovated,Solar,No,F
+2293, studio,Germany,Berlin,,236,1,1,8,,1677335,2022-12-03,New,Solar,no,G
+1663,APT,Spain,Malaga,Suburbs,104,5,1,5,1991,1167866,04-28-2022,Renovated,Electric,YES,a
+1451,APT,Italy,Rome,SUBURBS,54,8,2,1,1972,926943,2020-08-07,Old,gas,NO,a
+1082,apartment,Spain,Barcelona,city center,300,4,2,10,1971,1841987,2023-10-04,,electric,no,A
+2785,Villa ,Portugal,Porto,city center,321,,1,16,1978,1768486,2018-02-09,Renovated,Electric,Yes,a
+1169, studio,Spain,Bilbao,City Center,96,3,2,19,1996,27,2022-08-11,,Gas,yes,c
+1604,Villa ,Germany,Berlin,Industrial,,7,1,10,2012,360730,2018/11/12,New,Electric,1,a
+2584,house,Netherlands,Eindhoven,Industrial,362,1,4,0,1974,1693820,2019-08-12,,electric,No,F
+2716,Villa ,Switzerland,Zurich,Industrial,165,2,1,20,1993,812791,2021-12-07,New,Gas,YES,E
+2239,VILLA,Belgium,Ghent,Historic,363,5,4,7,2013,342,2022-11-28,Good,Solar,no,F
+1675,duplex,Germany,Düsseldorf,Industrial,146,1,3,8,1983,297,2022-12-03,New,Gas,Yes,F
+2098,duplex,Portugal,Braga,city center,124,1,1,10,1999,1364924,2022-04-10,,Solar,No,D
+2721,APT,Germany,Hamburg,Suburbs,95,1,1,11,2003,269487,2023-07-17,Renovated,Solar,YES,D
+1781,APT,France,Strasbourg,SUBURBS,152,8,1,20,2010,1383919,2018-07-24,Good,electric,yes,c
+1053,HOUSE,Netherlands,Eindhoven,Residential,178,8,4,1,1954,823298,2018-06-18,Good,CENTRAL,1,a
+1491,VILLA,Belgium,Ghent,Industrial,284,7,4,11,1971,1400254,2019-12-20,New,CENTRAL,YES,E
+1087,VILLA,Portugal,Coimbra,,88,7,2,6,,742611,2024-10-05,,Solar,1,D
+1360,APT,Spain,Bilbao,Suburbs,375,3,2,20,1959,1586530,11.03.2024,Good,Electric,no,B
+1661,VILLA,Germany,Düsseldorf,,274,3,,16,1990,1259646,12/04/2023,Renovated,gas,,b
+1055,Villa ,Belgium,Ghent,Historic,190,2,2,9,1994,1425846,2023-11-27,,CENTRAL,Yes,F
+1864,VILLA,Italy,Venice,city center,263,1,4,8,1953,408,2020-11-29,,Gas,1,D
+2290,Villa ,Netherlands,Utrecht,SUBURBS,386,,3,0,2019,865078,08/11/2018,Renovated,Electric,,F
+2651,Penthouse,France,Nantes,,88,1,3,12,1978,1742544,2018-05-21,,Central,YES,F
+1867,VILLA,Belgium,Antwerp,Residential,210,2,3,17,1984,897560 EUR,2020-01-04,Old,Central,No,E
+2129,apartment,Netherlands,Amsterdam,SUBURBS,103,2,3,2,1956,365709,2018-02-18,,electric,No,
+1490,Penthouse,Italy,Bologna,City Center,385,5,3,18,1970,1379373,2020-11-19,Good,,yes,b
+1644, studio,Netherlands,The Hague,Residential,264,3,4,6,1955,540203 EUR,2023-09-10,New,,no,b
+2033,Villa ,,Ghent,Historic,287,8,4,20,1994,1021097 EUR,2021-10-24,,gas,Yes,
+2819,Penthouse,Italy,Naples,City Center,,2,4,20,1968,474300,2020-10-13,New,,0,c
+1759, studio,Germany,Leipzig,SUBURBS,378,4,2,9,1950,812504 EUR,2018-12-23,Old,gas,No,A
+2622,duplex,Germany,Stuttgart,Residential,39,2,3,17,1981,1484315,2021-06-29,,Central,Yes,
+1898,house,France,Bordeaux,Residential,43,2,4,,,377314 EUR,2018-09-26,,Gas,,a
+2026,apartment,,Paris,Residential,289,,1,14,2020,1142702,2020-08-02,New,CENTRAL,0,b
+2230,Penthouse,Germany,Leipzig,,359,2,2,12,1982,1928655,2020-09-19,Renovated,gas,No,B
+2529,APT,,Marseille,SUBURBS,23,5,4,20,1952,267902,2019-07-04,New,gas,,c
+1383,APT,,Lisbon,Industrial,289,4,1,11,1980,56010,2019-07-25,,gas,YES,D
+1999, studio,Netherlands,Groningen,Suburbs,89,4,1,20,,383,2022-12-24,Renovated,CENTRAL,YES,c
+2000,house,Spain,Alicante,Industrial,239,7,4,1,1993,772680,11.11.2023,New,Central,yes,C
+1090,Villa ,Germany,Leipzig,Historic,9999,1,1,1,,1652934,20.11.2023,,gas,Yes,A
+2620,Villa ,Portugal,Coimbra,SUBURBS,78,,1,7,2006,1037851,05/10/2018,Old,Gas,,A
+2879,Villa ,Spain,Valencia,Industrial,377,8,2,6,1984,90328,09-23-2018,,Solar,NO,B
+2729,Villa ,Portugal,Setúbal,City Center,80,5,4,13,1952,1807113,2021-08-11,Renovated,Gas,0,b
+1072,Penthouse,France,Bordeaux,City Center,303,5,1,16,1999,994461,2021-10-20,Good,Solar,0,G
+2256,Penthouse,Spain,Alicante,city center,196,3,4,12,2011,128258,18/03/2021,Old,Electric,No,G
+1807,Villa ,Italy,Milan,,379,1,1,12,,317860,2023-03-13,Renovated,Solar,NO,a
+2893,duplex,France,Toulouse,city center,340,6,1,18,1979,1204555,2023-11-13,,gas,Yes,C
+2777,HOUSE,France,Marseille,City Center,122,7,4,13,1958,157695,20/05/2021,Renovated,Electric,Yes,F
+2340, studio,France,Toulouse,,60,8,1,10,1997,1477096,2018-07-09,Good,Electric,,A
+1154,APT,Netherlands,Eindhoven,Residential,234,4,3,10,2000,666926,2024-03-17,,,NO,c
+2935,VILLA,Spain,Alicante,city center,152,5,3,1,1956,377467,2020-04-19,New,,no,a
+2968,HOUSE,Netherlands,Eindhoven,SUBURBS,330,8,4,7,2002,1124258,2020-07-17,Old,gas,yes,a
+1996,HOUSE,Portugal,Porto,Industrial,246,3,,9,,379198,04-19-2023,Good,electric,Yes,G
+2633,duplex,Portugal,Porto,,290,3,2,1,1979,1401028,2020-07-07,,CENTRAL,No,c
+1212,APT,Portugal,Coimbra,SUBURBS,42,3,3,4,2022,389998,2019-04-27,New,,Yes,
+2858,Villa ,Germany,Cologne,Residential,41,,2,1,,887385,04-13-2024,New,,yes,A
+1915,Penthouse,Germany,Düsseldorf,City Center,100,6,1,9,1998,1501332,2024-10-13,New,Central,,
+2235,VILLA,Portugal,Braga,Industrial,243,5,2,15,2006,1193241,2018-04-30,,electric,1,a
+2400, studio,Italy,Naples,SUBURBS,62,5,3,11,1998,253208 EUR,2023-03-01,Good,CENTRAL,,c
+2457,house,France,Marseille,City Center,92,3,1,1,1982,147700,2024-05-15,Good,Gas,No,G
+2820,HOUSE,Portugal,Setúbal,city center,74,3,3,0,2014,684566,15/03/2018,New,Electric,1,G
+2261,Penthouse,Germany,Leipzig,,384,6,1,5,1989,1295535,2023-05-04,Renovated,gas,yes,
+2224,VILLA,Portugal,Lisbon,City Center,183,,4,14,1961,681617 EUR,2024-11-12,Renovated,gas,yes,E
+1694,Penthouse,Spain,Alicante,Suburbs,287,4,4,11,,967855,2020-01-07,New,,,B
+2953,apartment,Germany,Cologne,Industrial,367,8,2,2,2015,1689931 EUR,2024-08-11,New,Central,no,A
+1398,VILLA,Spain,Alicante,Historic,71,8,1,13,1987,494325,2022-08-19,Old,Central,NO,D
+1147,duplex,Switzerland,Basel,,257,1,1,1,1972,1837295 EUR,2019-11-30,,,No,F
+2535,apartment,,Nice,Suburbs,159,8,1,18,1992,108157,2021-03-29,Good,Electric,No,
+1848,APT,Belgium,Namur,Suburbs,398,7,2,4,1964,232201,2018-03-12,Renovated,,No,B
+1583,apartment,,Florence,Suburbs,238,8,1,13,2010,861356 EUR,05/05/2022,Good,Central,Yes,A
+1655,HOUSE,Italy,Florence,Residential,223,8,1,,1968,1603814 EUR,2024-08-09,Good,,0,G
+1747,VILLA,Germany,Munich,Historic,221,6,3,9,1957,1268893,2024-10-12,,gas,NO,A
+1824,house,,Eindhoven,Suburbs,89,8,1,8,2008,1912828 EUR,2021-01-14,New,Solar,no,D
+1980,Penthouse,Belgium,Bruges,Suburbs,174,5,2,6,1957,719518,2020-04-21,New,CENTRAL,1,B
+2621,duplex,France,Marseille,SUBURBS,272,5,3,19,,1147724 EUR,2019-12-15,Good,Gas,yes,b
+1844, studio,Spain,Valencia,city center,,7,1,,1994,312339,2020-11-25,Renovated,Gas,yes,
+1386,VILLA,Belgium,Brussels,Suburbs,213,3,2,19,2001,167433,2022-07-18,Renovated,gas,YES,E
+1240,apartment,France,Marseille,City Center,177,2,4,18,1971,184128,2022-07-05,,Gas,NO,D
+1697, studio,Portugal,Coimbra,Residential,388,5,4,8,1953,1000135,2024-07-03,Old,,0,a
+1365,Villa ,France,Strasbourg,Historic,365,4,,11,1959,1810368,2024-01-18,Renovated,,1,E
+2700,APT,Portugal,Coimbra,Residential,25,,4,,2001,1478019,2023/05/13,,Electric,1,b
+2546,house,Switzerland,Lausanne,SUBURBS,101,7,2,17,1972,1105501,2023-06-12,Good,CENTRAL,No,c
+2213,house,Switzerland,Bern,,103,2,4,2,1973,1206019,2019-10-08,,Gas,No,A
+1056,Penthouse,Germany,Frankfurt,City Center,268,4,2,4,1967,211826,2024-12-06,Good,Gas,yes,
+2805,apartment,Italy,Florence,City Center,257,5,1,10,2014,88705,2021-01-08,Good,Central,,b
+1217,VILLA,Belgium,Bruges,City Center,185,1,,10,1992,880575,2018-05-26,Old,CENTRAL,1,G
+2243,Penthouse,,Bruges,Suburbs,166,2,2,5,1994,1496361,2023-12-10,New,gas,NO,B
+2792, studio,Switzerland,Lausanne,Industrial,246,2,3,1,1963,647307,2020-04-06,Good,,,
+2891,duplex,Switzerland,Lausanne,Residential,246,7,2,16,,1550148,2021-11-01,Old,Electric,NO,B
+2684,HOUSE,Switzerland,Geneva,SUBURBS,329,3,2,7,2020,677872,2019-12-25,,Solar,YES,G
+1047,Penthouse,,Zaragoza,Residential,360,7,1,19,1986,705252,2021-02-15,,Central,no,A
+2407,house,Belgium,Brussels,Suburbs,100,6,3,6,1995,1314692,09.12.2023,Old,Gas,NO,c
+1189,HOUSE,,Cologne,Historic,346,,,19,1984,1081790,2018-02-03,Old,Solar,NO,G
+1928, studio,Switzerland,Bern,Industrial,338,3,2,10,,1416725 EUR,2020-02-13,,,no,C
+1886,duplex,Germany,Berlin,Historic,239,2,4,10,1991,259897,2020-01-19,,Solar,1,E
+2607,Villa ,Italy,Milan,City Center,198,4,4,4,1963,975630,2023-08-03,Renovated,electric,no,F
+2302,Penthouse,Italy,Bologna,,278,8,4,11,1986,1867898,2019-09-03,Good,Gas,NO,D
+2517,duplex,Netherlands,Utrecht,Historic,37,6,2,0,1980,488753,2019-12-18,Old,Electric,YES,G
+2010,VILLA,Portugal,Faro,Residential,124,,2,14,2004,1467035,2018-12-18,Renovated,,no,G
+1093,apartment,Germany,Stuttgart,Suburbs,126,3,4,9,1959,390682,2018-11-18,New,Electric,,D
+1904,duplex,Germany,Stuttgart,city center,310,8,2,1,1967,588071,2023-02-02,Old,Gas,YES,F
+2933,house,Portugal,Coimbra,city center,40,8,1,19,1964,1155309,07.01.2022,,gas,Yes,C
+1642,Villa ,Spain,Barcelona,,238,1,1,1,1974,1141057,2018-10-25,New,Gas,YES,E
+1166, studio,Portugal,Coimbra,SUBURBS,38,5,4,11,1969,873128,2020-09-05,,Gas,0,C
+1122,Penthouse,Germany,Munich,SUBURBS,82,1,4,5,,1988044,05/08/2020,Renovated,electric,,a
+1059,Penthouse,Italy,Rome,City Center,70,6,2,1,1967,651629,2019-03-18,Renovated,Solar,no,B
+1552,Villa ,Portugal,Setúbal,SUBURBS,224,6,1,5,2005,366751 EUR,2021-05-28,Renovated,Solar,YES,
+1426,apartment,France,Strasbourg,Suburbs,201,3,4,8,2008,69126,2023-03-12,Good,,no,G
+1549,VILLA,Belgium,Antwerp,Residential,314,4,1,6,1959,442268,2020-06-12,Good,Central,no,E
+1235,duplex,,Valencia,SUBURBS,170,8,1,8,2008,1663463,2021-09-24,Renovated,Gas,1,B
+1753,HOUSE,Italy,Bologna,city center,156,3,4,9,1965,160392,2021-05-17,Good,Central,1,b
+2246,duplex,,Paris,Industrial,264,5,1,20,,546326,05-24-2024,Renovated,electric,No,D
+2969,house,Spain,Barcelona,Industrial,79,7,3,20,1977,768259,2024-11-25,Good,,0,G
+2731,house,,Lucerne,SUBURBS,246,7,,19,1963,1256398,2018-10-11,,Solar,Yes,a
+1510,APT,Germany,Berlin,,343,1,2,,1973,349797,13.10.2024,Renovated,electric,No,E
+1511,duplex,Netherlands,Rotterdam,city center,194,,4,10,1962,1650691,2019-04-01,Good,CENTRAL,no,
+1586,APT,Portugal,Coimbra,Historic,31,5,,13,2012,1705885,27.10.2018,Good,CENTRAL,NO,G
+2325,house,Italy,Bologna,SUBURBS,355,6,3,16,2010,1287407,2020-01-31,Old,electric,NO,G
+1957,HOUSE,,Porto,Historic,196,6,3,20,1960,1071430 EUR,17/02/2019,Renovated,Electric,YES,E
+2735,house,,Toulouse,City Center,324,,3,9,2005,640185,2019-09-30,New,Electric,yes,G
+2965, studio,Portugal,Porto,City Center,53,2,4,17,2006,1991146,02-20-2024,New,electric,NO,F
+2514,APT,Switzerland,Lucerne,Historic,259,7,4,20,1954,113,2021-06-22,Old,Solar,0,
+2757,Villa ,,Zaragoza,Residential,369,7,4,1,1996,244034,2022/05/25,Renovated,gas,no,c
+1086,duplex,Portugal,Faro,city center,51,3,4,15,2021,148323 EUR,2024-01-13,Renovated,Gas,1,A
+2091,duplex,Portugal,Porto,Suburbs,85,3,3,3,1970,1495225,2019-02-21,Good,electric,YES,E
+2627,house,Netherlands,Amsterdam,Residential,241,4,3,8,1973,279485,2019-02-05,Old,Central,yes,E
+1892,house,France,Nantes,Industrial,378,2,2,5,1973,932124,2023-09-08,Renovated,Central,,
+2789,APT,Portugal,Lisbon,City Center,304,4,3,13,1973,94873,2022-06-28,New,electric,NO,a
+1372,duplex,Netherlands,Rotterdam,Residential,127,7,1,4,1963,1370280,2018-11-03,Renovated,electric,YES,a
+1044,duplex,,Berlin,Industrial,94,3,3,3,1972,1436338,04/09/2021,,Electric,1,a
+1305,duplex,Switzerland,Lausanne,city center,309,8,3,15,1998,1799989,2021-08-25,,gas,,D
+1813,HOUSE,France,Paris,Historic,44,6,4,18,1979,85571,2023-11-09,Renovated,gas,no,a
+1067,house,Portugal,Setúbal,Residential,289,7,4,2,2023,312829,2020-01-16,,Central,No,a
+1660,HOUSE,France,Strasbourg,city center,202,3,2,,2019,988641,2024-11-20,Old,electric,0,
+1517,house,France,Lyon,,144,8,2,8,2005,268031,2018-06-22,New,Electric,No,D
+2339,APT,Netherlands,The Hague,city center,9999,2,4,6,2021,476848,2024-11-14,,Electric,Yes,a
+1163,Penthouse,,Antwerp,Industrial,128,7,2,5,1970,513025,2024-02-27,Renovated,Electric,no,B
+2354,Penthouse,France,Paris,Industrial,,7,4,13,,1264350 EUR,2024-09-18,Good,CENTRAL,YES,b
+1973,HOUSE,Netherlands,Utrecht,SUBURBS,100,8,4,20,1975,406,2024-06-24,,Gas,no,b
+2395,house,Germany,Berlin,city center,345,2,3,14,1975,1222144,2021-08-02,New,electric,0,b
+1424,HOUSE,France,Marseille,City Center,,2,2,3,1976,1043509,2024-02-18,Old,Electric,,C
+1016,HOUSE,Netherlands,Utrecht,Industrial,360,6,3,9,1965,1113512,2019-12-14,,Central,no,E
+2784,Villa ,France,Toulouse,SUBURBS,157,5,3,5,1950,786954,2024-08-04,Old,Electric,Yes,D
+1984,VILLA,Spain,Alicante,Historic,325,5,3,12,2004,1317747,2021-10-27,Old,Solar,NO,F
+1528,VILLA,Switzerland,Geneva,Residential,131,6,1,19,1969,834687,26/09/2018,Renovated,Electric,NO,c
+1732,house,Germany,Hamburg,Historic,180,6,1,5,,1853407,2020-11-22,,CENTRAL,Yes,
+1731,house,Spain,Barcelona,Suburbs,279,7,1,4,1952,738985,2024-12-18,Renovated,Electric,yes,A
+1185, studio,France,Marseille,SUBURBS,358,,1,,1976,882664,05/10/2020,Renovated,Solar,YES,E
+1960,VILLA,Belgium,Bruges,Residential,40,2,2,13,2006,1211249,2021-05-31,Renovated,,Yes,b
+1037,HOUSE,Portugal,Lisbon,Historic,247,3,3,1,1953,730262,28.10.2018,,Gas,YES,
+1268,Villa ,Germany,Cologne,City Center,271,7,2,12,1989,1072267,09.07.2018,Renovated,,NO,A
+2679,house,,Lisbon,Residential,192,5,1,5,2016,1095729 EUR,2018-03-28,Renovated,CENTRAL,1,A
+2902,Villa ,Portugal,Setúbal,SUBURBS,248,1,3,16,1980,1182826,2021-01-16,Renovated,Solar,Yes,C
+2505,house,Portugal,Faro,Historic,231,6,2,5,2015,330761,2018-04-08,,,0,E
+1765, studio,Spain,Zaragoza,Historic,322,,4,,2020,800261,2018-10-19,New,Gas,No,C
+1049,duplex,France,Lyon,Residential,246,7,4,13,2006,622872,2020-06-22,New,Solar,no,D
+1887,house,Belgium,Brussels,City Center,106,4,3,13,1994,1687676 EUR,2021-04-16,Good,gas,yes,G
+1309,apartment,Spain,Bilbao,Residential,182,8,4,15,1958,110621,2019-05-30,New,Solar,yes,F
+2337,duplex,Portugal,Braga,City Center,388,2,4,4,2004,464141,2018-05-03,Old,electric,no,b
+2750,VILLA,Netherlands,Utrecht,City Center,386,5,2,17,1965,304865,04/04/2023,,electric,no,G
+2672,VILLA,Switzerland,Geneva,SUBURBS,269,8,3,17,2013,854362,2024-12-16,Good,,No,F
+1827,duplex,Switzerland,Lucerne,Residential,71,4,2,11,1984,1687420,2019-08-14,Old,Central,0,
+2863, studio,Switzerland,Bern,City Center,,3,3,16,1974,377574,2023-02-07,Good,Solar,NO,b
+1734,duplex,Spain,Madrid,,198,3,1,13,,145645,2021-10-11,Good,CENTRAL,NO,D
+2066,house,Italy,Venice,Industrial,34,8,,15,1965,1427540,2021-01-12,Good,Central,,c
+2124,apartment,Italy,Venice,SUBURBS,120,,4,9,2000,1032962 EUR,2023-03-20,Renovated,Central,1,G
+1259,APT,Belgium,Ghent,,345,6,1,9,1987,1160677,2021-07-19,Renovated,,NO,B
+2774,HOUSE,France,Toulouse,Industrial,280,1,2,9,1986,893362,09-15-2024,Good,Electric,no,b
+1289,APT,,Liège,Suburbs,60,8,3,,1969,1485110 EUR,04.07.2021,Renovated,CENTRAL,no,b
+2961,HOUSE,Switzerland,Zurich,city center,214,4,2,8,1994,985832,2019-11-13,Old,Gas,yes,A
+1244,house,,Berlin,SUBURBS,283,2,1,14,1980,1292995,2022-08-17,Good,Electric,1,b
+1502,Villa ,,Lucerne,SUBURBS,353,6,1,20,1973,1256331,01/07/2024,Renovated,Solar,NO,a
+1947,house,Switzerland,Zurich,,339,1,,7,1971,1038862,2024-01-30,,,1,
+2329,house,Spain,Zaragoza,City Center,,6,3,8,1983,1913859,2023/01/15,Renovated,Gas,,b
+2057,APT,France,Toulouse,Suburbs,,7,4,,2015,1994002,2020-07-22,New,CENTRAL,yes,C
+2839,VILLA,Germany,Leipzig,Residential,334,2,3,8,1992,1983863,2023-10-15,Renovated,,Yes,A
+1438, studio,Portugal,Braga,SUBURBS,87,1,3,2,,162,2024-10-26,Renovated,,yes,
+2205,apartment,Netherlands,Groningen,City Center,256,7,3,10,2014,994640 EUR,2021-06-21,Renovated,Central,1,D
+2773,VILLA,Spain,Zaragoza,City Center,293,6,,12,2001,535268,2018/05/18,New,gas,NO,G
+1842,duplex,Spain,Alicante,Suburbs,372,6,2,7,2009,1706055,2020-02-06,Good,CENTRAL,No,a
+2974, studio,Switzerland,Lausanne,Suburbs,375,1,3,11,2013,1056819,2020-10-03,,,,F
+2475,house,,Bilbao,Residential,62,,1,3,1963,1938258,2021-03-18,,Solar,yes,B
+2877,apartment,Italy,Venice,,70,1,2,18,,256333,15/10/2023,Good,electric,no,B
+1323, studio,Germany,Frankfurt,SUBURBS,292,7,,19,1990,950811,2018-08-07,Good,electric,YES,B
+1488,house,,Strasbourg,,391,1,3,1,2000,812048,2024-07-02,Good,CENTRAL,,c
+2412,Villa ,Switzerland,Basel,City Center,125,4,3,6,1983,1959779,2024-10-26,Good,Electric,NO,B
+2540,Villa ,Netherlands,Rotterdam,Suburbs,327,8,2,0,1987,245018,2023-01-16,,Central,,
+1679,HOUSE,Italy,Genoa,city center,331,2,2,1,2000,1378106,2019-07-26,New,Electric,No,G
+2020,APT,,Utrecht,SUBURBS,253,7,3,19,1955,1328004,2019-10-24,Good,gas,NO,D
+1951,house,Belgium,Bruges,,43,4,3,13,1955,254,2023-01-02,New,Gas,YES,B
+1351,HOUSE,Belgium,Brussels,City Center,65,6,2,18,1964,821200,2022-10-02,Good,Solar,No,G
+2813,HOUSE,,Liège,Residential,34,8,2,5,1994,7,2020-02-29,Old,Electric,0,D
+2082,house,Switzerland,Bern,,201,2,3,11,2006,468845,23/11/2018,New,gas,NO,G
+2120,VILLA,Portugal,Lisbon,Residential,109,6,2,7,2003,1930991,2022-05-18,New,Gas,yes,D
+1002, studio,Belgium,Brussels,Industrial,71,7,3,20,2008,1799256,06.04.2023,,Solar,NO,A
+2447,Villa ,Italy,Genoa,Residential,,8,4,1,2002,622555 EUR,08-05-2024,New,Solar,NO,c
+2782,Penthouse,France,Nantes,,262,5,1,18,2002,1200875,2022-03-02,,,NO,D
+2872,duplex,,Coimbra,Historic,85,2,,15,2015,694644,2022-12-05,New,,yes,A
+1395,APT,Portugal,Faro,Suburbs,25,4,1,10,1968,1442640,04.06.2024,Old,Gas,1,c
+2282,duplex,,Geneva,,234,7,3,15,1982,1712569,2021-08-26,New,CENTRAL,,G
+2793,APT,Switzerland,Zurich,SUBURBS,261,,3,18,2007,298030,2021-02-11,,Gas,,b
+2277,VILLA,Portugal,Braga,Residential,227,1,4,7,2008,674247,2022-01-07,New,Solar,0,F
+2471,VILLA,Germany,Munich,SUBURBS,292,5,2,12,1988,548360,2024-11-05,Old,,yes,b
+2855,apartment,,Seville,,22,5,3,19,2017,333544,2020-07-12,Renovated,gas,YES,a
+1662,apartment,Switzerland,Lausanne,Industrial,35,2,2,17,1985,418904,10-10-2020,Good,,,D
+2116,Penthouse,,Eindhoven,SUBURBS,41,,4,11,1986,1547124 EUR,2018-05-08,New,electric,Yes,G
+2059,Penthouse,France,Strasbourg,Suburbs,366,8,3,15,,1925671 EUR,28.09.2020,Renovated,Electric,0,b
+2676,Villa ,Spain,Bilbao,Residential,231,3,1,19,2020,1838535,2022-04-11,,gas,,A
+1497,duplex,Belgium,Liège,Industrial,209,3,3,11,1992,1789024,2021-12-19,Old,,Yes,D
+2323,house,Belgium,Liège,Suburbs,,7,3,13,2000,1613567,2019-04-02,New,,No,A
+1428,duplex,Spain,Madrid,city center,78,,1,11,2006,1321992,2020-03-12,Renovated,Solar,YES,C
+2928,Villa ,Spain,Alicante,Historic,,6,1,8,1981,355365 EUR,2022-04-05,New,Solar,Yes,C
+1636,duplex,Portugal,Faro,Industrial,282,1,2,11,1963,556343,2018-09-10,Renovated,Central,no,D
+2746,VILLA,Switzerland,Zurich,Residential,367,7,1,,2005,1292817,03-20-2023,,gas,Yes,E
+2077,Villa ,Belgium,Brussels,,189,1,2,10,2018,1877234,2021/04/17,Old,Central,,D
+1466,house,Switzerland,Lausanne,Historic,271,3,4,3,2019,130097 EUR,2019-05-05,New,CENTRAL,No,a
+1092,VILLA,Portugal,Braga,City Center,263,1,1,2,1971,1098279,2024-05-10,New,,0,b
+2148,duplex,Belgium,Antwerp,Industrial,261,7,1,1,1953,1240394,12-25-2021,Good,Central,YES,G
+2196,VILLA,France,Paris,city center,167,5,3,0,2020,259405,2024-07-29,Renovated,Central,NO,A
+1363, studio,France,Nice,Industrial,367,7,4,14,1973,792394,2018-12-23,Renovated,Electric,No,B
+1332,house,,Düsseldorf,,216,3,1,1,2000,552677,2023-07-15,New,CENTRAL,No,B
+2835,house,Portugal,Coimbra,Suburbs,342,,2,6,,71141,19.12.2024,Good,Electric,NO,E
+1138,duplex,France,Bordeaux,Suburbs,331,5,3,12,2004,1835905 EUR,2022-03-13,Renovated,,No,
+2843,apartment,France,Lyon,Residential,38,7,2,20,,1015117 EUR,2019-01-11,Good,Solar,,a
+1703,apartment,Spain,Zaragoza,Historic,136,7,2,10,2003,340,2018-07-21,Renovated,Gas,no,a
+2825,APT,Netherlands,Groningen,Industrial,,1,2,18,1953,1172283,2021-08-10,,electric,1,b
+1761,duplex,Belgium,Bruges,Residential,226,8,2,14,1991,1630731 EUR,01/09/2023,Good,CENTRAL,0,c
+2291,HOUSE,Spain,Valencia,city center,80,7,1,17,1958,221691,2020-06-26,Renovated,electric,yes,A
+2495,Penthouse,Spain,Malaga,Suburbs,232,7,1,13,2003,1223729,2018-02-27,Renovated,Electric,,B
+2108,house,Netherlands,Utrecht,city center,398,3,3,5,1955,229288,2018-03-22,Renovated,Gas,No,C
+2053,Penthouse,,Bruges,city center,,6,1,6,1973,1012126,2022-01-21,,electric,yes,b
+2717,apartment,Belgium,Ghent,Industrial,386,8,1,0,2015,919068,2024-01-21,Renovated,CENTRAL,Yes,
+2262,apartment,Germany,Berlin,City Center,77,7,1,6,2007,618122,2021-12-07,Renovated,electric,No,c
+2257,duplex,Spain,Barcelona,Historic,217,1,2,2,,237330,2021-12-07,Old,Solar,,a
+1209,house,Switzerland,Lausanne,city center,372,6,4,13,1981,899067,2018-06-07,New,Solar,0,a
+1531,VILLA,Spain,Bilbao,Residential,108,6,1,0,2018,149001,2020-01-01,New,Solar,No,
+2041,APT,Portugal,Setúbal,Suburbs,113,6,1,16,1956,812267 EUR,2022-11-02,New,Solar,NO,B
+2936,HOUSE,Switzerland,Zurich,Suburbs,295,2,4,16,1958,403990,2021-04-09,Good,Solar,No,c
+2758,VILLA,,Lyon,Residential,74,1,2,5,1977,54594,2019-04-05,New,electric,NO,B
+2484,APT,,Genoa,Industrial,381,4,3,,1970,646262,2024/04/07,,electric,0,
+2989,VILLA,Italy,Bologna,Suburbs,358,5,1,18,2005,778651,2021-08-10,,Central,No,a
+2722, studio,Switzerland,Lausanne,,56,,3,10,2013,1930607,26/01/2024,,gas,no,c
+1548,HOUSE,Germany,Munich,Industrial,,7,2,1,1976,1553614,2020-12-22,Good,Central,No,C
+2209,APT,Spain,Seville,SUBURBS,178,5,3,8,2022,1726296,2019-08-28,New,gas,NO,A
+2885, studio,Netherlands,Groningen,city center,397,2,3,11,2007,1401875,2020-03-21,Old,electric,no,a
+1742,Villa ,Spain,Zaragoza,Historic,280,8,,8,,745622,03-18-2018,Good,Gas,yes,A
+2435,apartment,Switzerland,Lausanne,Historic,66,1,2,2,2013,1322378 EUR,11-15-2022,Renovated,Electric,Yes,c
+1836,Villa ,Italy,Venice,Industrial,121,6,2,17,,614166,2021-01-28,New,Gas,No,C
+1328,APT,,Rotterdam,City Center,377,7,2,14,2006,1838753,2021-10-23,Old,,NO,b
+2286,VILLA,Netherlands,The Hague,,229,2,1,9,1955,307159,2019-02-16,Renovated,Central,Yes,C
+1197,Villa ,Netherlands,Groningen,City Center,293,8,3,17,1990,730849,2024-03-03,Old,electric,,A
+2637,HOUSE,Netherlands,Rotterdam,City Center,9999,8,,8,1956,58592,2023-01-08,,CENTRAL,yes,b
+2719,apartment,France,Strasbourg,City Center,338,6,1,4,2001,857046,2022-10-17,Old,Central,no,
+1924,HOUSE,Portugal,Braga,,181,7,1,16,1994,972825,2018-08-20,Renovated,Solar,No,c
+1195,house,Italy,Milan,Historic,118,2,1,,2023,1803847,16/11/2019,Renovated,gas,NO,A
+1368,APT,Germany,Düsseldorf,City Center,400,6,1,6,1970,1055154 EUR,2022-06-26,Old,Gas,No,B
+1494,house,Italy,Genoa,city center,70,1,3,6,1959,1053065,2019-04-02,Good,electric,Yes,E
+2576,Villa ,Belgium,Namur,Historic,218,,4,1,1991,483726,2020-01-17,Old,Electric,Yes,
+2949,Penthouse,Germany,Hamburg,City Center,146,5,1,14,,742792,2022-01-31,,Solar,,G
+1691,VILLA,Portugal,Braga,SUBURBS,169,2,,3,1998,361300,2020-01-20,,,No,b
+2614,Villa ,Belgium,Bruges,city center,314,5,3,2,1974,472060,2020-12-03,New,CENTRAL,YES,G
+1423,house,Belgium,Bruges,Suburbs,373,6,1,18,1965,1464346 EUR,2019-09-26,New,electric,YES,B
+1544,Villa ,Netherlands,Amsterdam,Historic,89,5,4,3,1969,461,2023-07-20,Good,CENTRAL,no,D
+2557,house,Germany,Cologne,Suburbs,40,2,1,8,,1157349,2020-10-25,Renovated,Electric,yes,G
+1232,Villa ,,Amsterdam,city center,324,3,4,12,2002,549011,2018-08-04,Renovated,electric,0,D
+1028,duplex,Spain,Madrid,SUBURBS,260,8,4,5,,157744,10/10/2024,Old,Solar,0,G
+1447,apartment,Switzerland,Basel,SUBURBS,308,7,,12,1991,718107,2024-11-25,Good,Electric,no,E
+1895,Penthouse,Portugal,Setúbal,Historic,124,,4,14,1961,1596728,2019-12-23,Good,Electric,YES,F
+1194,VILLA,Switzerland,Zurich,City Center,214,,1,19,1996,550771,2020/06/14,New,Central,yes,C
+2924,HOUSE,Belgium,Bruges,Industrial,379,1,1,2,1959,395394,2022-05-18,Good,Solar,0,c
+2653,duplex,Portugal,Braga,SUBURBS,24,3,1,,1964,1404736 EUR,2018-11-18,,Central,,c
+1352,Villa ,Switzerland,Basel,city center,171,4,4,,2008,1311364,2021-01-25,Old,Solar,1,E
+1237,apartment,Netherlands,Utrecht,Suburbs,283,8,4,12,2005,1820099,2022/06/11,New,CENTRAL,0,F
+1855,VILLA,Germany,Cologne,city center,,6,3,16,2009,116013,2019-10-27,,Central,,b
+1376,apartment,Netherlands,Amsterdam,city center,202,4,3,8,1972,82796,2024-10-11,Good,CENTRAL,no,D
+1233,duplex,Portugal,Braga,Industrial,94,7,1,14,,851120,2021-01-21,New,,,
+2490,APT,Belgium,Brussels,,310,6,4,11,1971,401752,2019-10-21,Renovated,Electric,no,b
+1020,Villa ,Portugal,Setúbal,Industrial,9999,4,1,13,2003,743908,2024-06-16,Renovated,,,G
+2894,Villa ,Netherlands,Rotterdam,Industrial,371,4,1,6,1994,96471,2023-10-17,Renovated,Central,0,c
+2519,HOUSE,Spain,Barcelona,city center,181,7,4,7,1981,1189689,2021-09-01,Good,Electric,YES,E
+2612,Penthouse,Belgium,Antwerp,Suburbs,92,8,3,11,1950,892977,08-03-2019,New,Gas,YES,
+1769,HOUSE,Switzerland,Basel,,234,4,4,13,,1498348,2022/12/13,Old,electric,No,B
+2126,APT,Spain,Barcelona,Suburbs,38,6,2,12,1952,1695482,2019-06-20,New,electric,Yes,B
+1698,duplex,France,Bordeaux,Residential,293,7,2,13,1955,338273 EUR,2024/02/03,New,Solar,NO,c
+1646,HOUSE,Germany,Stuttgart,City Center,170,1,3,19,2022,1711570,2019-08-02,,Central,,b
+2845,apartment,Italy,Rome,City Center,47,3,3,8,1995,899785,2023-09-15,Renovated,Electric,no,F
+2335, studio,Belgium,Brussels,SUBURBS,190,1,4,19,2002,807306,09-25-2018,Renovated,,1,
+2648,VILLA,Switzerland,Bern,city center,,6,4,7,1995,1024120,2023-01-02,Old,electric,Yes,c
+2748,VILLA,Portugal,Lisbon,Suburbs,55,2,1,,2008,642118,2023-06-18,Renovated,Solar,1,C
+2107,apartment,Belgium,Liège,Residential,196,4,2,1,2000,1339862 EUR,06-24-2023,Renovated,Electric,No,b
+2032,VILLA,Netherlands,Utrecht,Residential,318,4,1,18,1967,1859783,2022-10-22,Renovated,Central,Yes,b
+1516, studio,,Basel,Suburbs,287,2,1,7,1996,1873182,2021-02-03,Renovated,gas,no,F
+2947,house,Belgium,Antwerp,,258,1,2,14,2003,1989091,2021-01-28,Renovated,gas,Yes,E
+1411,HOUSE,,Namur,Suburbs,,,2,2,1959,1087263,2023-12-02,Renovated,electric,yes,a
+1099,VILLA,France,Nice,city center,324,,1,11,1981,398837,2018-02-13,,Solar,1,F
+1215,Penthouse,Spain,Bilbao,SUBURBS,289,7,2,19,1976,172021,2021-03-22,Renovated,CENTRAL,yes,b
+1436,house,Switzerland,Lucerne,Historic,78,1,4,8,,632939 EUR,2022-12-24,Good,gas,0,A
+1982,duplex,Switzerland,Bern,Suburbs,239,,1,17,1980,1703851,2021-03-18,New,CENTRAL,no,A
+2035, studio,Switzerland,Basel,Historic,260,5,1,15,1991,1904154,2023-07-25,,electric,YES,F
+1726,HOUSE,France,Strasbourg,Industrial,240,6,1,15,1950,587763,2020-07-18,,electric,,b
+2663, studio,Netherlands,Utrecht,,271,5,3,8,2020,798550,2021-10-17,New,CENTRAL,Yes,b
+2470,apartment,Netherlands,Utrecht,Historic,165,5,3,11,1996,1726070,2018/08/11,,CENTRAL,1,c
+2686,HOUSE,Italy,Venice,Suburbs,400,,1,11,1969,1079469,2020-09-13,Renovated,CENTRAL,NO,b
+2469, studio,Portugal,Braga,Industrial,145,5,1,8,1964,1499460,2020-05-17,,gas,yes,D
+1772,duplex,Belgium,Liège,City Center,28,3,2,1,1978,1294284,2023-11-10,New,Solar,yes,B
+2542,Penthouse,Spain,Alicante,SUBURBS,239,5,2,15,1954,1844086,2022-10-05,New,gas,NO,a
+1912,APT,France,Strasbourg,,184,2,1,20,2010,121546,12/10/2022,Renovated,Central,No,a
+2990,duplex,Switzerland,Lucerne,SUBURBS,9999,8,2,,1958,216849,2018-08-09,Renovated,gas,No,b
+1475,house,,Malaga,Residential,362,1,,7,1972,824127,2018-07-01,Renovated,gas,yes,G
+2442,APT,Germany,Berlin,Residential,354,6,1,0,1955,1553954,26.10.2024,Good,Central,Yes,
+1030,VILLA,Portugal,Lisbon,Historic,135,3,3,2,1968,175070,2021-01-20,New,Central,,F
+2935,VILLA,Spain,Alicante,city center,152,5,3,1,1956,377467,2020-04-19,New,,no,a
+2586,APT,Switzerland,Basel,Suburbs,398,,3,10,1953,1188620,2023-06-16,Renovated,,1,G
+2726, studio,Netherlands,Utrecht,Suburbs,,7,3,20,1950,982600,2019-01-03,Good,Central,1,F
+2993,duplex,Spain,Zaragoza,Residential,77,4,3,5,1962,1763678,2022-02-01,Old,Central,,b
+1858,APT,Belgium,Brussels,Suburbs,327,2,1,7,1990,148253,2021-04-06,Good,CENTRAL,YES,E
+2399,duplex,Italy,Rome,Historic,136,2,4,19,2006,1297388,04/09/2024,New,Electric,0,G
+1297,Villa ,France,Lyon,Residential,9999,2,2,5,1996,1577459,15.04.2024,Old,CENTRAL,no,a
+1710,VILLA,Switzerland,Basel,City Center,334,8,1,14,2007,1939891,18.09.2024,Old,CENTRAL,Yes,c
+2950,VILLA,,Lausanne,SUBURBS,130,4,3,16,1956,471574,2022-05-13,,Central,0,A
+2946,house,Italy,Turin,City Center,48,3,1,12,,212318 EUR,2022-10-17,Renovated,,no,B
+1246,HOUSE,Germany,Frankfurt,City Center,,8,2,14,2010,635463,2024-06-07,New,Central,1,a
+2701,HOUSE,Germany,Cologne,Industrial,,,4,,1951,308602,2020-11-24,Old,Central,no,a
+1880,Penthouse,Italy,Naples,Residential,378,7,4,12,1967,1703680,2021-07-30,,gas,yes,a
+2826,Villa ,Belgium,Liège,Residential,170,5,1,,2004,862940,05.04.2023,,electric,Yes,b
+2589,HOUSE,Portugal,Porto,SUBURBS,158,6,4,7,2007,909181 EUR,2023-06-09,Old,CENTRAL,YES,b
+1408,apartment,,Groningen,Industrial,55,8,1,9,2003,626032,2023-07-14,New,CENTRAL,No,A
+2509,HOUSE,,Lucerne,city center,316,1,3,10,2001,1078408,2020-04-04,Renovated,Central,NO,E
+2450,apartment,Netherlands,Groningen,Historic,291,6,3,10,1973,1700730 EUR,2019-08-08,Good,electric,YES,c
+1940,VILLA,Italy,Venice,,,,,15,1990,1868782,2019-09-23,Old,Central,yes,A
+1148,APT,Germany,Munich,Residential,224,8,3,15,1999,1727509,2022-08-26,Old,CENTRAL,Yes,c
+1175,house,Spain,Valencia,Historic,327,7,1,8,1958,515085,2018-08-24,Old,electric,Yes,D
+2703,VILLA,Switzerland,Lucerne,Suburbs,24,4,4,5,2017,1984300,2023-12-01,New,CENTRAL,NO,
+1677, studio,Switzerland,Basel,Suburbs,374,6,3,7,1973,1386781 EUR,13/04/2020,,CENTRAL,No,
+1863,APT,France,Strasbourg,Residential,239,5,2,14,1951,1418816,2024-02-25,Old,Gas,NO,b
+1641,duplex,Italy,Genoa,City Center,191,6,4,2,1959,585082,2018-03-29,Old,gas,,G
+1173,apartment,Belgium,Antwerp,SUBURBS,383,1,1,0,2016,836494,2022-10-01,Old,Solar,,a
+2125,Villa ,Spain,Zaragoza,Historic,68,8,2,9,1955,1194206,06.11.2024,Old,,,
+1418,APT,Netherlands,Utrecht,Historic,161,5,2,18,1955,1140682,08-22-2018,Renovated,Gas,no,
+2076,apartment,Belgium,Ghent,Suburbs,350,6,4,18,2002,1708821,2022-11-16,,Gas,NO,
+2202,duplex,,Strasbourg,SUBURBS,219,2,1,18,1981,1317304,2022-06-02,Good,Solar,0,c
+1402,duplex,,Valencia,Residential,154,3,1,,1959,1821304,2023/07/13,Good,Gas,no,A
+2226, studio,Netherlands,Eindhoven,Residential,104,2,,18,1995,393,2023-12-19,Good,Gas,,E
+1585,HOUSE,Switzerland,Zurich,Residential,146,7,2,14,1980,1328438,2022-05-03,New,gas,1,
+2702,APT,Italy,Florence,City Center,182,7,4,,1967,175576,2018-08-18,,electric,no,D
+2823,house,Germany,Frankfurt,Historic,398,1,1,0,1983,1899363,2019-02-04,Good,Gas,YES,A
+2338,HOUSE,Portugal,Faro,,99,3,4,15,1968,883200,2023/01/02,,Solar,no,F
+2683,apartment,Switzerland,Bern,city center,,8,3,17,1964,1896705,2019-02-25,Old,electric,Yes,G
+2115,Villa ,Italy,Venice,,,4,3,0,2006,680368 EUR,2023-07-12,Good,,No,a
+2166,duplex,Portugal,Faro,Historic,231,7,2,19,2015,1091300,2022-07-14,Good,Central,yes,D
+2367,HOUSE,Switzerland,Lausanne,SUBURBS,78,3,2,18,2001,1842003,15.02.2019,New,Solar,no,c
+1554,Penthouse,Belgium,Ghent,,,3,3,15,2022,182382,2023-05-05,,CENTRAL,YES,C
+1969,VILLA,Netherlands,Rotterdam,city center,213,2,2,7,1970,1587081,2021-05-05,New,Gas,no,b
+2765,Villa ,Netherlands,Utrecht,Suburbs,189,1,3,1,1995,1611704,2019-09-28,,Gas,0,G
+2432,Penthouse,,Nantes,SUBURBS,148,6,3,15,2016,720632,2020-11-02,,Solar,NO,B
+2434,HOUSE,France,Lyon,city center,396,7,2,13,1983,1314073,2019-07-17,New,electric,1,D
+1944,house,Italy,Milan,city center,360,8,4,17,1986,966007,2023-11-11,,Gas,NO,c
+1210,VILLA,France,Nantes,Residential,342,1,2,14,1987,884750,2023-03-14,,Electric,yes,b
+1837,Villa ,Switzerland,Lucerne,Suburbs,27,,,6,1950,1646692,2020-09-07,New,Electric,No,E
+2939,VILLA,Switzerland,Basel,city center,201,7,3,20,1969,896314,2018-04-07,New,Central,,E
+1825,VILLA,,Geneva,city center,260,8,3,7,2015,1585740,2024-12-25,Renovated,Solar,0,c
+1822,apartment,Portugal,Faro,Industrial,,2,1,17,1974,1196854 EUR,2019-02-24,Renovated,electric,No,a
+2242,Penthouse,Netherlands,Utrecht,Suburbs,331,7,3,18,2009,1450448,2021-08-20,Old,Gas,No,
+2649,HOUSE,,Turin,Industrial,71,2,,3,1961,1287912,2020-08-01,Old,Central,YES,
+1578,APT,Italy,Florence,SUBURBS,50,7,1,12,1991,108018,2023-09-19,Good,Solar,0,E
+1337,house,Portugal,Faro,SUBURBS,72,3,3,19,1962,730220,2021-07-26,New,CENTRAL,Yes,b
+1530,VILLA,,Eindhoven,Industrial,287,7,2,10,1986,334113 EUR,20.08.2022,Renovated,Central,0,A
+1405,HOUSE,Netherlands,Eindhoven,,330,7,4,,1975,790117,2023-12-13,Good,CENTRAL,,C
+2680,VILLA,Portugal,Braga,Suburbs,215,6,1,8,1983,1589565,26/08/2021,Renovated,Central,No,F
+1719,Penthouse,France,Paris,SUBURBS,307,4,4,17,2003,474258,2023-12-03,,Electric,1,a
+1966, studio,Germany,Düsseldorf,Suburbs,9999,,,5,1983,1532117,2021-10-04,Renovated,Gas,yes,E
+2892,house,Spain,Zaragoza,Historic,226,1,4,2,1955,91380,2022-02-22,Good,Solar,0,F
+1862,Villa ,Italy,Rome,Historic,246,5,1,16,,1825608,2023-12-04,Old,Gas,0,a
+2570,VILLA,Netherlands,Groningen,city center,324,5,4,1,2010,1896458,2018-08-12,Renovated,,,B
+2099,Villa ,France,Nantes,,9999,1,1,6,1962,265,2024-11-25,Renovated,Electric,no,a
+1772,duplex,Belgium,Liège,City Center,28,3,2,1,1978,1294284,2023-11-10,New,Solar,yes,B
+1635,house,Belgium,Brussels,Historic,40,7,3,5,1999,793809,2024-02-05,New,Electric,1,G
+1048,duplex,Belgium,Namur,Residential,193,,1,4,1973,1237661,2019-10-07,,Electric,Yes,C
+1891,Penthouse,France,Toulouse,Industrial,40,8,4,,1952,545321,2024-08-22,Old,electric,1,c
+1722,duplex,Germany,Düsseldorf,,110,3,2,10,2011,1124217,2019-06-25,Renovated,CENTRAL,1,A
+1860,HOUSE,Switzerland,Basel,Historic,9999,4,3,15,2022,1112605,2020-07-19,Renovated,,,F
+2719,apartment,France,Strasbourg,City Center,338,6,1,4,2001,857046,2022-10-17,Old,Central,no,
+2741, studio,,Munich,Historic,311,6,,13,2023,733453,2021-08-27,New,,0,C
+2252,duplex,Netherlands,Eindhoven,Industrial,226,7,,4,1981,1656141,2024-07-03,Renovated,Central,0,G
+1628,Villa ,,Setúbal,Suburbs,,3,2,7,,1954216,06-18-2020,Old,Solar,yes,D
+1492,duplex,Italy,Naples,Historic,331,2,,15,1995,1013267,2022-01-29,New,CENTRAL,0,B
+2889,VILLA,France,Marseille,Industrial,352,5,4,10,1995,1276257,2024-06-17,,electric,no,F
+2783,house,Switzerland,Bern,city center,385,8,3,4,2022,1492824,2020-02-25,,Gas,YES,b
+2818,Penthouse,,Toulouse,city center,129,4,,,1977,603099,2021-12-02,Good,gas,no,B
+2819,Penthouse,Italy,Naples,City Center,,2,4,20,1968,474300,2020-10-13,New,,0,c
+1645,duplex,France,Strasbourg,Industrial,318,3,4,19,2023,1362738,2023-02-12,Good,CENTRAL,,c
+1546,Penthouse,Portugal,Faro,Suburbs,282,7,4,4,1993,776116 EUR,2021-07-29,New,Gas,No,D
+1430,house,Germany,Munich,Industrial,238,7,1,2,2022,316741,2020-10-26,Good,,No,a
+1562,Penthouse,,Rotterdam,City Center,153,7,1,14,1986,110434,2024-04-07,Good,,NO,
+1144,Penthouse,Netherlands,Utrecht,Suburbs,116,3,4,7,1952,520435,2023-05-25,New,Electric,Yes,A
+2524,Penthouse,France,Bordeaux,city center,225,4,1,5,1975,1109242,2024-02-18,New,gas,0,b
+2345,apartment,Italy,Florence,city center,98,7,1,18,2021,1738634 EUR,2024-01-12,Good,Solar,yes,E
+2231,APT,Portugal,Coimbra,city center,89,3,2,14,,109187,2019/08/21,Old,Gas,1,B
+1084,Villa ,Netherlands,Amsterdam,City Center,,7,2,0,1978,1635823,2021-02-03,New,Central,,b
+1491,VILLA,Belgium,Ghent,Industrial,284,7,4,11,1971,1400254,2019-12-20,New,CENTRAL,YES,E
+1657,HOUSE,Portugal,Setúbal,,252,8,1,,2001,544822,03-06-2023,Good,Electric,,c
+1800,Penthouse,Belgium,Bruges,City Center,371,5,4,2,1985,1117573,2021-11-07,,Electric,,E
+1803,APT,France,Nice,City Center,,7,1,20,1995,476363,2024-01-27,Renovated,gas,1,b
+2222,Penthouse,Germany,Leipzig,Residential,339,8,3,20,2008,1441693,2020-11-08,Good,gas,no,c
+1434,Villa ,Germany,Leipzig,,164,1,3,19,1994,1424072 EUR,2020-04-23,Renovated,Solar,1,E
+2367,HOUSE,Switzerland,Lausanne,SUBURBS,78,3,2,18,2001,1842003,15.02.2019,New,Solar,no,c
+2135,VILLA,,Seville,Suburbs,87,7,4,19,1954,1659626,2022-07-23,Old,Gas,1,B
+2191,HOUSE,Portugal,Lisbon,Industrial,,,,6,1970,486195,2019-11-09,Good,Electric,Yes,
+2353,apartment,Netherlands,Utrecht,Suburbs,109,4,2,2,2001,1946513,03-02-2021,New,Gas,1,F
+1524,apartment,Switzerland,Basel,city center,,8,4,2,2005,409328 EUR,2021-02-04,New,electric,,C
+1178,house,Switzerland,Lucerne,SUBURBS,320,1,4,8,1964,191671,2020-12-14,Renovated,Electric,0,C
+2619,house,Spain,Malaga,Suburbs,334,8,,4,2000,1537083,2022-06-09,,Solar,,a
+2811,duplex,Germany,Berlin,Suburbs,,1,4,6,1986,1268474,2020/11/26,New,electric,YES,c
+1358,Villa ,Spain,Madrid,Residential,314,,2,17,1961,588465,2018-01-01,,,0,
+2128,Penthouse,France,Strasbourg,Industrial,161,1,2,6,1979,1670474,2020/08/08,Renovated,,,b
+2436,APT,Netherlands,Groningen,Industrial,,5,3,5,2003,365630,2023-11-08,Good,gas,yes,F
+2253, studio,Italy,Naples,,172,4,1,10,2001,1915526,2020-09-23,New,electric,yes,C
+1525,duplex,Italy,Genoa,Residential,295,5,3,18,1979,1724400 EUR,2022-01-07,New,Electric,0,G
+2610,apartment,Portugal,Porto,Residential,328,4,2,7,2006,1296189 EUR,2021-02-26,Old,,no,A
+2472,house,,Cologne,Residential,392,4,3,20,1977,1952987,26/06/2021,New,Solar,no,
+2068,HOUSE,Netherlands,Groningen,City Center,,7,1,13,1993,624545,2019/08/02,Renovated,CENTRAL,No,c
+2413,APT,France,Marseille,Suburbs,20,8,4,2,1971,589932,2021-11-07,Renovated,CENTRAL,1,D
+2132,Villa ,Italy,Turin,City Center,155,7,4,15,1992,1929335,28.12.2020,New,Electric,NO,G
+2392,house,Portugal,Braga,Suburbs,209,2,2,15,2014,1024586,2019-10-21,Good,Central,no,F
+1468,duplex,France,Toulouse,Industrial,307,6,1,14,,1241545 EUR,2018-03-24,Good,CENTRAL,1,B
+1071,house,Switzerland,Basel,city center,31,2,,14,2014,554844,2019-03-17,Renovated,gas,NO,A
+1823,apartment,Netherlands,Rotterdam,Industrial,314,7,1,15,2003,893331 EUR,2022/09/25,Renovated,CENTRAL,NO,B
+2705,Villa ,Portugal,Braga,Residential,36,5,1,16,2006,625126,2019-04-24,,CENTRAL,,F
+1507,HOUSE,Germany,Stuttgart,City Center,103,1,4,9,1976,896524,14/03/2024,,Gas,yes,B
+2024,Villa ,Portugal,Faro,,285,3,3,17,2000,205,2019-08-02,New,,,A
+2194,Villa ,France,Strasbourg,City Center,86,4,3,4,1954,1614102,2023-02-15,New,gas,yes,a
+1682,APT,Netherlands,The Hague,Residential,53,1,2,19,,774018 EUR,2022-10-03,,CENTRAL,,E
+2631,HOUSE,France,Nantes,Suburbs,125,1,1,4,1963,997776,2019-06-16,Old,,Yes,A
+2951,Penthouse,Netherlands,Utrecht,Residential,142,1,,5,1956,1751978,2024-12-09,Good,electric,No,E
+2948,apartment,Spain,Barcelona,Residential,227,6,4,5,1980,1856637,06.12.2022,New,gas,no,C
+2559,APT,France,Nice,city center,383,4,3,13,2016,1749445 EUR,2024-05-17,Good,Electric,yes,E
+2259,VILLA,Germany,Frankfurt,City Center,212,8,3,3,1966,1416573,2018-08-15,Old,Central,YES,E
+2994,HOUSE,Germany,Düsseldorf,Suburbs,,7,3,,1953,324,2019-07-18,Renovated,CENTRAL,,b
+2900,APT,,Faro,,195,3,2,15,1998,809053,2023-09-21,Good,electric,NO,b
+1713,Villa ,Italy,Milan,Historic,294,8,3,12,2018,1735911,2021-06-07,,Gas,1,B
+2161,VILLA,Italy,Rome,city center,133,1,4,16,2006,1644328,2023-03-06,Old,,Yes,G
+2018,house,Italy,Naples,Industrial,263,8,4,3,1964,1893018,01.01.2022,New,Gas,no,C
+2430,VILLA,France,Toulouse,city center,285,8,2,16,2021,1072677,2018-06-16,,electric,YES,c
+2296,Villa ,Belgium,Liège,Industrial,288,7,1,9,2010,1459907,13/08/2024,Good,gas,,A
+2941,Penthouse,France,Nantes,City Center,41,7,4,10,1964,1969467,26/01/2023,New,gas,1,G
+2869,APT,Italy,Turin,Residential,156,3,3,6,1991,1549774,2020-06-22,Good,electric,No,F
+1883, studio,,Bologna,Suburbs,295,3,2,,1970,1803961,2019-08-12,Renovated,gas,no,G
+2849,apartment,Netherlands,Eindhoven,City Center,296,5,2,19,1960,918765,22/04/2020,Renovated,CENTRAL,1,E
+1691,VILLA,Portugal,Braga,SUBURBS,169,2,,3,1998,361300,2020-01-20,,,No,b
+2727,Penthouse,Belgium,Ghent,Historic,232,7,,12,,99,2018-11-29,Renovated,CENTRAL,1,G
+2062,VILLA,Switzerland,Lausanne,Historic,188,,1,9,1955,1495455,2020-07-10,Good,Electric,yes,
+2446, studio,,Paris,,381,4,4,4,1990,432391,2019-06-08,Renovated,CENTRAL,1,b
+1700,Penthouse,Spain,Zaragoza,City Center,352,1,2,8,1987,109254,2022/03/23,,Central,0,a
+2639,APT,Belgium,Brussels,Residential,110,,1,17,2015,1592889,06-20-2022,Good,Solar,YES,B
+2650,HOUSE,France,Nantes,,295,3,1,9,1951,1978418,2019-06-05,Old,Solar,yes,F
+1119,APT,Spain,Madrid,Suburbs,359,3,2,8,1987,1834495 EUR,2024-07-22,Old,electric,NO,G
+2613,APT,Italy,Naples,SUBURBS,260,3,4,7,1981,374326,2023-09-15,Renovated,gas,0,
+1812,duplex,Italy,Florence,City Center,215,8,1,14,2011,1606730,2024-08-04,Old,gas,no,F
+1744,house,Germany,Leipzig,SUBURBS,203,3,1,11,1981,1555445,2018-01-12,Renovated,Solar,1,
+2991,apartment,,Brussels,City Center,380,6,4,16,1996,486075,10/09/2023,Old,CENTRAL,no,b
+2136, studio,France,Strasbourg,city center,203,2,,19,2020,929635,11-25-2019,,Solar,no,E
+2892,house,Spain,Zaragoza,Historic,226,1,4,2,1955,91380,2022-02-22,Good,Solar,0,F
+2332,apartment,France,Bordeaux,,197,5,3,6,2007,1969357,2021-01-14,Renovated,Solar,0,B
+1784,HOUSE,Germany,Stuttgart,Residential,320,5,3,19,1972,717606,2020-10-20,Good,Central,NO,E
+1161,APT,Belgium,Liège,City Center,250,7,4,0,1990,866844,2022/02/10,Old,gas,,c
+2016,Villa ,Portugal,Setúbal,city center,,8,4,17,1992,140836,04-01-2024,Good,electric,yes,
+2853,APT,,Marseille,Residential,126,4,3,8,2000,204846,24/12/2020,Good,CENTRAL,No,
+1108,Penthouse,Spain,Alicante,SUBURBS,52,7,2,6,2004,1087492,2018-07-18,Old,Central,No,C
+1997,apartment,Germany,Stuttgart,City Center,130,2,2,16,,144702,04-21-2022,Old,electric,No,b
+1684,Penthouse,Spain,Malaga,,153,3,1,9,1978,117912,2022-02-18,,Electric,NO,
+2955,HOUSE,Netherlands,Amsterdam,city center,220,4,2,14,2022,581842 EUR,2021/03/25,New,Solar,YES,b
+2133,Villa ,Netherlands,The Hague,Residential,267,1,4,18,1996,1556004,2021-06-10,Renovated,gas,NO,
+1211,Penthouse,Portugal,Braga,Residential,250,1,2,18,2008,1930343,2019-05-22,Renovated,Electric,0,G
+1736,duplex,,Lausanne,SUBURBS,9999,3,2,18,1974,1828968,2019-10-06,Good,CENTRAL,Yes,B
+1378,house,,Porto,,350,,1,4,2017,1574135,2019-06-26,Good,Central,Yes,B
+1956,Villa ,Belgium,Namur,Historic,136,4,2,2,1988,838351,2018-04-09,Renovated,,,
+2295,Villa ,Spain,Bilbao,city center,360,1,3,14,1995,1852281,2022-05-19,Renovated,Solar,Yes,B
+2177,HOUSE,Spain,Barcelona,,246,2,4,1,1956,633075,2022-09-29,Good,,,F
+2964,duplex,Germany,Leipzig,Suburbs,,1,4,7,1997,1737342,2023-01-22,Old,Gas,Yes,E
+2530,house,Belgium,Ghent,,133,3,1,11,2005,167395,2018-02-27,New,electric,yes,b
+2917, studio,France,Nice,,111,6,4,9,1972,1470105,2021-05-15,Renovated,gas,no,a
+1359,Penthouse,Switzerland,Lucerne,SUBURBS,,6,2,1,1962,547235,2024-12-23,Renovated,gas,yes,G
+1723,Villa ,Portugal,Coimbra,Residential,,3,2,15,,1791694,2021-01-31,Good,Gas,no,
+1670, studio,Germany,Leipzig,Suburbs,236,,4,20,1987,916709,2018-10-13,Good,Electric,yes,D
+1130, studio,Netherlands,Rotterdam,SUBURBS,,5,3,7,1988,251150,2024-09-24,Good,Gas,no,B
+1853,house,Spain,Seville,Suburbs,194,4,3,5,2017,1530943,2023-04-01,Good,electric,No,G
+1687, studio,France,Strasbourg,Historic,190,2,1,11,1986,1162946 EUR,2021-11-30,Renovated,electric,,G
+2258,house,Italy,Genoa,SUBURBS,65,5,1,9,1975,8,2018-04-28,New,gas,yes,C
+2111,APT,Portugal,Faro,Historic,183,1,4,11,1952,733972,2023-04-13,Old,Gas,yes,A
+1247,APT,Portugal,Coimbra,Residential,265,,4,7,2013,224255,11-10-2021,,Central,1,
+2374,Villa ,Germany,Berlin,City Center,,5,1,10,2012,887518,2021-10-07,Good,gas,,F
+2366,HOUSE,France,Bordeaux,Historic,145,8,2,10,1955,1395100,2022-10-01,,,0,
+1242,house,Portugal,Setúbal,Suburbs,9999,3,2,,1968,618222,2021-05-18,Good,Solar,No,a
+2007,Penthouse,Belgium,Liège,Historic,22,3,2,9,1975,1922713 EUR,2023-07-12,Good,CENTRAL,No,a
+1180,duplex,Switzerland,Lausanne,City Center,271,,3,7,2000,1623219,2019-12-17,,electric,NO,A
+2918,HOUSE,Netherlands,The Hague,Suburbs,369,7,2,9,1970,116248,2023/10/07,New,Solar,0,c
+2245,HOUSE,,Naples,,106,5,3,5,1951,1272114,2023-02-27,Good,CENTRAL,1,b
+1131,APT,Spain,Bilbao,city center,261,8,3,,1961,1191114,2024-04-30,New,Electric,NO,a
+2605,apartment,France,Paris,Industrial,153,6,2,0,2020,622994,10/02/2020,Old,Central,0,
+1931,apartment,France,Strasbourg,City Center,,6,1,12,1980,1722626 EUR,2023-04-22,New,Gas,1,E
+1559,house,,Marseille,Residential,52,2,2,3,1969,1146350,2021-09-02,Good,Electric,YES,
+1634, studio,Portugal,Faro,Historic,99,2,2,19,2001,1471665,2022-09-16,,gas,YES,B
+1720,apartment,,Malaga,Historic,,7,2,14,1996,1819771 EUR,2022-01-08,,Gas,,A
+1450,APT,Netherlands,Amsterdam,Suburbs,71,6,2,20,2021,124734,2023-06-08,Renovated,Gas,YES,c
+1354,HOUSE,Italy,Venice,Residential,87,6,1,14,1988,1422866,2018-02-07,New,Gas,,G
+1032,APT,Switzerland,Basel,Historic,301,1,4,10,1961,579318,2020-02-08,Old,electric,Yes,D
+1664,Penthouse,Portugal,Faro,SUBURBS,,8,3,17,1999,730266,2019-05-07,,Electric,No,
+1859,Penthouse,Spain,Madrid,SUBURBS,28,2,3,13,2013,594371 EUR,2024-03-10,New,Gas,0,B
+1213,apartment,Switzerland,Lausanne,Historic,331,8,2,18,1977,1433010,2020-04-30,Renovated,Central,yes,A
+1380,Penthouse,Portugal,Porto,Residential,355,5,2,3,1999,1081422 EUR,2018-12-14,Good,gas,0,F
+1746,HOUSE,,Florence,city center,337,7,4,,1970,1240110,2022-09-07,Old,Central,,D
+1329,Villa ,France,Marseille,Industrial,189,7,4,12,1976,183607 EUR,2022-03-02,New,gas,no,D
+2151,APT,Germany,Hamburg,SUBURBS,,5,4,12,1980,730415,2023-01-31,Renovated,,yes,
+1456, studio,Spain,Zaragoza,SUBURBS,,5,3,16,2004,1609197,09.09.2021,,Solar,,A
+2628,house,Italy,Bologna,,,8,3,9,1960,1266298,2023-07-14,Renovated,Gas,,B
+2266,house,Germany,Cologne,Suburbs,128,6,2,15,1980,1563330 EUR,2019-05-11,Good,CENTRAL,No,C
+2656,Penthouse,France,Lyon,City Center,309,,1,7,1989,278273 EUR,2021-01-29,Old,Solar,No,c
+1409,Villa ,France,Paris,city center,73,6,4,5,1978,234584,2018-06-26,New,,NO,b
+2036, studio,Belgium,Ghent,city center,150,6,1,12,1985,1424298,2021-01-01,,Solar,NO,c
+1605,Penthouse,Italy,Naples,SUBURBS,368,5,4,,2017,1334429,2023-02-13,Old,Electric,1,G
+2908,house,Netherlands,Amsterdam,,67,1,4,13,1953,1006742,2021-05-04,Good,gas,no,C
+2304,VILLA,Belgium,Ghent,Historic,248,2,2,20,1957,1041193,05.12.2024,New,electric,no,B
+2088,HOUSE,Belgium,Ghent,Industrial,28,3,2,15,2014,1402956,2023-07-29,New,Solar,NO,B
+2456,Penthouse,Switzerland,Bern,SUBURBS,128,3,3,16,1989,550082 EUR,2023-07-12,New,electric,Yes,a
+1021,duplex,Switzerland,Geneva,City Center,243,8,1,10,1999,1452729 EUR,2024-04-30,Old,Gas,1,C
+1125,Penthouse,Italy,Bologna,Residential,9999,1,3,18,2022,348010,08/10/2019,,Solar,yes,F
+1155,HOUSE,Germany,Stuttgart,City Center,200,8,4,9,,1890203,2019-10-22,Good,Central,no,D
+1286,duplex,Netherlands,Amsterdam,Residential,368,2,4,18,,1998565,2024-08-30,New,electric,NO,b
+2330,Villa ,Spain,Malaga,City Center,125,1,2,12,2001,460692,2018-01-14,,Electric,NO,E
+2181,VILLA,Portugal,Setúbal,Residential,9999,4,3,,1983,683884,2021-09-04,Good,Solar,no,c
+1027,HOUSE,Italy,Bologna,SUBURBS,400,3,2,15,1977,629861,12-18-2018,,,yes,c
+1302,VILLA,Germany,Düsseldorf,city center,397,4,1,16,1991,1271316 EUR,2019-06-17,Renovated,gas,0,a
+1708,APT,Belgium,Antwerp,Residential,58,3,1,1,1971,477590,2023-12-21,Good,CENTRAL,no,a
+1353,Villa ,France,Nice,Historic,386,4,2,5,1956,1846795,2023-04-24,Old,Electric,0,E
+1348, studio,Portugal,Setúbal,Industrial,21,6,1,1,1996,1743571,2023-05-05,New,gas,no,b
+2797,house,Switzerland,Zurich,SUBURBS,203,1,1,18,1974,1421638,2023-05-13,Old,Solar,No,
+2816,VILLA,Germany,Berlin,Industrial,358,5,4,1,2018,1573402,2021-09-17,Renovated,electric,Yes,D
+1182, studio,Portugal,Braga,SUBURBS,94,3,4,5,1951,933992,2024-05-14,Good,Central,YES,E
+2493,HOUSE,France,Toulouse,SUBURBS,256,8,1,7,2013,615915 EUR,2024-12-06,New,gas,no,F
+1865,house,Spain,Malaga,Historic,239,5,1,6,1990,1479862,2020-11-09,,Central,YES,a
+1569,Villa ,Belgium,Bruges,Suburbs,398,4,3,3,2012,732596,2019-03-12,Good,Solar,Yes,a
+2539,Villa ,Switzerland,Basel,City Center,153,2,2,7,1993,1072329,2024-12-31,,CENTRAL,yes,G
+2383,Villa ,Portugal,Setúbal,,365,2,2,7,1990,705279 EUR,2018-01-26,Renovated,,,D
+2408, studio,Switzerland,Basel,,,7,1,4,1977,829580,2023-12-16,Good,electric,0,b
+1341,APT,Spain,Malaga,Historic,213,3,4,13,2006,1109675,10-18-2020,Old,electric,no,
+2005,house,Netherlands,Utrecht,city center,230,5,4,9,2015,1284552 EUR,2019-07-20,,Gas,,F
+2565,Penthouse,Italy,Bologna,Industrial,345,8,1,4,,1924889,2018-03-14,,,no,
+1991,Penthouse,Netherlands,Utrecht,City Center,323,5,1,8,2019,441270,2019-09-20,Old,Central,,B
+2008,apartment,France,Strasbourg,SUBURBS,124,4,2,9,1961,999555,2018-08-18,Renovated,CENTRAL,No,G
+2575, studio,Belgium,Bruges,Industrial,42,6,1,3,2008,1279609,2020-08-08,Old,electric,1,
+1520,house,Portugal,Faro,Suburbs,347,3,4,8,1975,1845111,2022-05-17,Good,gas,No,D
+1136,VILLA,Belgium,Namur,SUBURBS,226,3,1,6,1972,1885386,2023-08-31,New,Solar,NO,
+1344,HOUSE,Germany,Berlin,Historic,67,7,4,16,1960,1958301,2021-06-15,New,Electric,NO,C
+1500,apartment,Belgium,Namur,City Center,91,2,3,14,1996,1617145,2018-04-05,Old,gas,1,A
+2049,apartment,Belgium,Ghent,Industrial,25,3,1,,1966,841221,2018-08-15,Old,electric,,A
+1597,Penthouse,Netherlands,Eindhoven,City Center,260,5,3,16,1991,376313,2022-11-13,,,1,G
+1571,Penthouse,,Toulouse,city center,218,6,2,13,,1348677,28.08.2023,Old,CENTRAL,1,A
+1832,HOUSE,Netherlands,Rotterdam,City Center,351,7,1,10,1968,429760,2021-06-03,Old,Gas,,b
+1265,Penthouse,Spain,Alicante,Industrial,111,1,4,12,1963,968674,2019-11-23,Renovated,Solar,,B
+1485,house,Switzerland,Basel,,100,3,4,0,1986,1167080,2020-02-13,Good,Electric,,A
+1672,house,Netherlands,Utrecht,Residential,184,5,3,20,2021,607067,2023-02-01,Good,Electric,,A
+1291,HOUSE,France,Nantes,City Center,26,3,4,12,2008,1871964,2022-06-06,Good,Central,YES,B
+2298,Villa ,Italy,Milan,,185,3,3,6,,763456,2024-09-24,Good,Electric,NO,A
+2014,VILLA,Portugal,Coimbra,city center,375,4,4,13,1963,245892 EUR,2022-04-28,,Solar,YES,C
+1052,Villa ,Belgium,Antwerp,City Center,328,3,1,20,1972,1086238,2021-07-18,Old,,no,b
+2865,APT,France,Toulouse,Industrial,100,4,2,8,2008,286845,2023-01-05,Renovated,Electric,Yes,F
+2881,APT,France,Nantes,Industrial,76,2,1,8,2020,53450,2020-06-05,,gas,YES,D
+2425,apartment,Italy,Genoa,City Center,46,5,1,9,,1920108,2023-02-21,Renovated,electric,1,E
+2183, studio,Spain,Alicante,SUBURBS,307,5,,2,2015,342164,2021-05-25,,Central,0,G
+2626,house,,Zurich,,81,5,3,,2009,146890,14.06.2024,Renovated,Gas,,D
+2978, studio,Spain,Barcelona,,198,5,4,16,1973,869340,2024-12-26,Old,CENTRAL,No,E
+1814,Penthouse,Switzerland,Lausanne,Industrial,244,3,3,10,2012,1381921 EUR,19.12.2021,New,Gas,no,a
+2937,house,Netherlands,Utrecht,Industrial,187,5,1,10,1977,631510 EUR,2018-09-07,New,,NO,F
+1725,apartment,Netherlands,Eindhoven,City Center,66,2,3,19,1950,423293 EUR,2022-01-25,Old,Central,yes,D
+1307,apartment,Spain,Valencia,Residential,160,4,2,2,2006,1742236,2022/06/13,,Gas,no,C
+1509,VILLA,Germany,Frankfurt,,86,3,2,3,1960,1554220,2024-08-16,Renovated,Gas,NO,G
+2496,Penthouse,Italy,Turin,Historic,232,4,2,8,1966,1950647 EUR,19.07.2023,,gas,1,a
+2868,HOUSE,Belgium,Namur,City Center,76,1,3,13,1995,423165,2024-05-22,Renovated,gas,no,
+2874,apartment,Portugal,Braga,,240,8,3,,1964,293302,08-02-2021,,gas,No,B
+1802,VILLA,Italy,Rome,Industrial,296,4,1,15,1992,478,07-28-2020,Renovated,Central,Yes,A
+1745,HOUSE,Netherlands,Utrecht,Historic,332,4,2,0,1959,1416842,2024-10-26,,Solar,No,A
+2127,HOUSE,Netherlands,Eindhoven,city center,116,7,2,14,2000,72596,2021-10-28,New,Gas,yes,B
+2388,HOUSE,Italy,Turin,,28,7,2,1,1980,1762138 EUR,2023-12-22,Good,gas,no,a
+2164,HOUSE,Germany,Berlin,SUBURBS,93,5,1,11,1967,1765605,2018-05-30,,Solar,1,G
+1203,house,Spain,Bilbao,City Center,261,1,3,17,1976,494334,17/11/2022,Good,,Yes,
+1288,Villa ,Belgium,Namur,Suburbs,203,2,3,6,2015,1076813,03/07/2023,Good,Gas,1,a
+1114,APT,Italy,Milan,city center,,8,,5,1989,300490,2022-03-04,Renovated,Electric,Yes,F
+2743,Villa ,,Eindhoven,city center,366,3,4,,1968,1532126,12-01-2021,Renovated,electric,1,F
+2864,house,Portugal,Porto,,368,1,3,3,1955,632799,2018-04-18,,Solar,YES,c
+1263,Villa ,Netherlands,The Hague,city center,,4,1,18,1962,1650638,28.09.2019,Old,Electric,yes,F
+1978,duplex,Italy,Florence,City Center,130,8,4,6,2011,1487914 EUR,2018-07-16,Renovated,Electric,No,G
+1907,HOUSE,Italy,Florence,Residential,28,4,4,4,1991,1939813,2019-10-17,Good,,Yes,F
+2890,Villa ,Spain,Madrid,Industrial,139,5,4,2,2002,1696045,2018-06-01,,CENTRAL,1,F
+1873, studio,France,Marseille,Industrial,203,2,1,11,,1949743,2018-05-17,,,YES,b
+1606, studio,Italy,Bologna,Historic,250,5,3,,1954,1451803,2022-10-28,Renovated,gas,Yes,a
+1137,VILLA,Germany,Leipzig,Residential,,,2,2,1983,647833,2022-08-05,New,electric,yes,c
+2171,apartment,Belgium,Brussels,Suburbs,132,5,1,2,1985,465244,2021-11-01,Good,Gas,NO,c
+2344,house,Spain,Alicante,Residential,174,5,2,12,1989,1154097,2021-10-03,Renovated,gas,,E
+2317,house,Netherlands,Eindhoven,city center,73,6,3,19,2006,459928,2023-03-26,Good,gas,Yes,b
+1190,house,Switzerland,Basel,Industrial,376,1,3,4,1960,167520,08.12.2024,New,Solar,1,B
+2416,APT,Netherlands,Eindhoven,Historic,39,3,2,2,1976,90,2024-12-18,,Central,,A
+1111,Penthouse,Germany,Leipzig,Historic,389,4,2,19,2002,1489833,2019-07-27,Good,,Yes,c
+1282,APT,Germany,Stuttgart,city center,,4,,19,2004,587344,2024-09-16,New,,0,b
+1938,HOUSE,Germany,Berlin,Historic,234,6,3,14,1990,1485256,2023-07-15,Good,,1,G
+2973,Villa ,,Hamburg,Industrial,,3,3,6,,1346426,2022-12-31,Renovated,CENTRAL,NO,C
+1336,VILLA,Netherlands,The Hague,Industrial,340,4,2,12,2019,947330,2018-09-28,,CENTRAL,Yes,B
+1611,apartment,Switzerland,Geneva,City Center,312,6,1,20,1997,760359,2019-04-23,,CENTRAL,No,b
+1234,Villa ,Italy,Bologna,Residential,180,1,1,0,1958,912451 EUR,11-27-2022,New,Electric,yes,G
+1347,Penthouse,Switzerland,Bern,SUBURBS,329,7,3,10,1997,67,12-13-2021,Renovated,Solar,NO,
+2188,duplex,France,Nantes,Suburbs,32,1,3,15,2021,1054331,2019-11-15,,Central,yes,F
+1062,apartment,Belgium,Antwerp,,122,1,3,16,1989,885136,2021-09-21,Old,gas,1,G
+2372,duplex,Portugal,Porto,Historic,191,6,3,5,2003,433,2023/04/19,Old,Solar,no,D
+2195,APT,,Zaragoza,SUBURBS,133,2,4,19,,858466,2018-09-21,Old,gas,no,b
+1252,VILLA,Netherlands,Utrecht,Residential,300,8,4,18,1988,326728,2020-08-06,Renovated,Gas,yes,c
+2121,Villa ,Spain,Bilbao,Residential,185,3,4,3,1960,1278052,2021-07-28,Renovated,gas,NO,D
+2096,apartment,Germany,Berlin,city center,350,8,3,10,2021,1341184,2020-02-02,Renovated,Central,yes,c
+2714, studio,Belgium,Antwerp,Industrial,387,3,3,14,1994,1151634,2023-04-20,Old,,1,C
+2044,house,Spain,Zaragoza,City Center,50,5,3,10,1954,1562263,2019-02-14,Good,,YES,a
+2831,APT,,Alicante,Industrial,378,6,3,,2002,1743264,2020-06-29,New,Gas,0,c
+2599, studio,Belgium,Brussels,Residential,262,2,4,0,1980,1876191 EUR,2023-08-18,,Electric,,
+1754, studio,Italy,Genoa,,73,1,1,20,2018,1489188 EUR,2023-01-04,Renovated,CENTRAL,yes,D
+2479,apartment,Spain,Malaga,City Center,163,,1,10,1980,1745523,2018-03-03,Renovated,,1,G
+2830,house,Portugal,Lisbon,Historic,294,4,2,19,1994,650101,2024-01-26,New,Solar,NO,D
+1829,apartment,France,Strasbourg,City Center,9999,,4,1,1971,367606,2020-04-14,Old,electric,NO,A
+1403,Penthouse,France,Lyon,Industrial,197,8,1,16,1970,75,2020-06-07,Good,,no,
+2972,HOUSE,Switzerland,Basel,City Center,361,1,1,,2000,791628,2022-07-30,Renovated,Electric,No,
+2788,house,Italy,Milan,Historic,213,7,1,9,1971,662098,2022-05-05,Renovated,electric,NO,F
+1391,duplex,France,Nice,Historic,225,7,2,11,2006,1124746,2024-12-17,Good,Central,yes,B
+2588,Penthouse,Spain,Barcelona,SUBURBS,9999,3,2,9,2012,483556 EUR,2021-08-01,Old,Gas,,A
+2427,Villa ,Belgium,Namur,Historic,62,3,2,7,1976,1258466,27/12/2021,New,,no,a
+1648,APT,France,Nice,Suburbs,359,2,2,19,2022,960474,2020-12-25,,gas,NO,G
+2064,VILLA,France,Lyon,,222,4,3,8,1995,254824,2018-02-05,,gas,0,c
+2011,APT,,Nice,,163,1,1,4,1974,598512,2018-01-04,Renovated,gas,No,
+1193,Villa ,Portugal,Faro,,148,1,4,17,2006,668061,2024-03-21,Old,,no,a
+1643,APT,Netherlands,Amsterdam,Industrial,280,3,4,3,2023,1067928,2018-06-15,,Central,0,
+2117,apartment,Belgium,Bruges,SUBURBS,270,7,2,10,2017,708119,2024-07-25,Good,CENTRAL,YES,G
+1658,VILLA,France,Nice,Historic,249,2,3,18,2001,365286,2024-08-30,,,YES,G
+1457,VILLA,Portugal,Faro,city center,385,2,4,18,1978,102202,2019-01-26,Old,Solar,No,C
+1149,HOUSE,Switzerland,Bern,Industrial,230,8,1,8,1958,1423579,2021-10-17,,Electric,,c
+1296,HOUSE,Spain,Seville,Suburbs,307,,4,10,1983,1696024,2018-07-26,Old,Electric,No,b
+1579,apartment,Spain,Zaragoza,Residential,233,2,1,20,1968,133778,2021-06-16,Old,gas,0,c
+2815,APT,Germany,Cologne,SUBURBS,398,5,3,3,2010,129978,2024-12-08,,Electric,Yes,A
+2404, studio,France,Marseille,Suburbs,88,4,,11,2021,1293950,2023-09-12,Old,CENTRAL,Yes,
+2794,duplex,Portugal,Coimbra,Industrial,81,4,4,15,1999,615258 EUR,2023-10-24,New,,No,a
+2369,house,France,Marseille,,100,1,3,1,2015,1587365,2020-03-18,,gas,1,A
+1014,apartment,Germany,Düsseldorf,Historic,111,6,4,8,1981,383862,2020-07-21,Old,CENTRAL,no,B
+2494,house,Netherlands,Rotterdam,SUBURBS,196,5,2,6,2014,1872852,2022-09-29,,Electric,NO,F
+2477,apartment,Belgium,Liège,SUBURBS,348,8,2,5,2012,567348,2021-08-12,,,1,F
+1230,VILLA,,Nice,Historic,25,8,4,15,2015,1253692,2024-04-27,,Gas,Yes,c
+2552,APT,Germany,Berlin,City Center,216,8,4,10,2001,650806 EUR,2024-05-04,Good,gas,No,
+2911,duplex,Portugal,Setúbal,Residential,362,5,3,3,2014,113665,27/07/2018,,,yes,b
+1142,Penthouse,Switzerland,Geneva,City Center,386,3,,10,2012,1373371,2024-02-05,Old,electric,,A
+1036,Villa ,Switzerland,Zurich,Suburbs,229,3,1,8,2010,760014,2023-06-22,New,Solar,no,D
+1015,VILLA,Netherlands,Groningen,Industrial,224,6,,8,1964,424483,2019-04-19,Renovated,Central,,A
+1968, studio,,Nice,Residential,320,3,2,1,1972,831059 EUR,2020-11-14,,Electric,YES,D
+2501,Penthouse,Portugal,Setúbal,city center,278,7,2,17,,752212,2023-03-27,Good,gas,,G
+2221,HOUSE,,Amsterdam,City Center,37,1,1,,2010,1759686,2023-04-24,Good,Gas,Yes,B
+2449,house,Italy,Florence,Residential,226,8,1,14,1956,1110697,2018-01-20,Renovated,Solar,0,G
+2042,duplex,Switzerland,Lucerne,city center,,6,3,14,1978,1514939,2022-04-28,New,CENTRAL,1,F
+1659,Villa ,France,Marseille,SUBURBS,39,6,1,17,1979,958383,2024-11-02,New,,NO,
+1031, studio,France,Lyon,city center,365,1,3,1,2023,1650355,2019-01-09,Renovated,Electric,yes,F
+1063,house,Germany,Leipzig,city center,208,5,1,2,2004,953048,2022-10-12,Old,Central,NO,b
+1094,APT,,Eindhoven,Suburbs,187,1,3,15,2007,528440,2018-10-29,Good,gas,NO,F
+2075,Penthouse,Portugal,Braga,City Center,,7,3,20,,760319,2020-01-11,Renovated,gas,0,F
+2558, studio,Switzerland,Lausanne,Suburbs,24,1,,16,1991,1186320,2020-02-28,New,CENTRAL,Yes,a
+1618, studio,Belgium,Liège,Industrial,345,3,2,11,1999,444266,2019-10-12,New,electric,0,E
+2378, studio,Spain,Malaga,city center,,2,1,3,1962,449901,2020-08-23,New,Gas,yes,E
+1911, studio,Italy,Genoa,Suburbs,127,8,1,9,1974,388,2022-11-02,Old,Gas,YES,F
+1908, studio,France,Marseille,Residential,192,4,1,15,2022,944699 EUR,2024-02-12,New,CENTRAL,,a
+2465,APT,Switzerland,Lucerne,Residential,257,8,4,18,,1854623,2021-06-09,Old,electric,Yes,C
+1821,Villa ,,Zurich,Historic,298,7,4,0,2002,769565,2018-05-24,Old,CENTRAL,YES,F
+1123,duplex,France,Lyon,City Center,216,3,4,,1975,1905250,2023-06-09,Renovated,gas,no,C
+2970,Villa ,France,Strasbourg,Residential,286,6,3,3,1985,986743,2019/02/12,New,gas,1,G
+1777,APT,,Cologne,Historic,318,1,2,20,1961,1439707,2019-09-28,Renovated,Central,yes,C
+1804,apartment,Switzerland,Lucerne,Historic,354,,4,13,1970,1891691 EUR,2021-04-25,Good,Central,,
+1771,APT,Portugal,Setúbal,Industrial,146,5,3,9,1983,1613068,2020-09-28,Renovated,,1,E
+1620, studio,,Berlin,Historic,350,8,4,17,1978,1118913,2021-06-24,,Electric,YES,E
+1760,APT,,Marseille,city center,330,8,1,5,2014,1790143,2024-03-17,,Gas,No,
+1839,house,Spain,Zaragoza,,152,7,2,1,1955,98355 EUR,15/04/2024,New,CENTRAL,No,c
+1449,Villa ,,Lausanne,Suburbs,252,5,1,14,1965,1914115,24/04/2024,Renovated,electric,0,c
+2403,duplex,Netherlands,Groningen,Historic,158,3,4,17,1960,627161,2019-06-06,New,Electric,no,b
+1023,house,Italy,Naples,Industrial,362,2,2,8,2009,1658301,2021-07-01,Old,gas,YES,B
+1981, studio,Switzerland,Zurich,,89,2,,4,1952,686391 EUR,2019/09/15,New,Solar,,
+2214,house,Italy,Rome,SUBURBS,,3,2,1,2003,1865907,2018-08-10,Renovated,electric,0,a
+2518,duplex,Portugal,Braga,,377,6,1,10,1989,529995,2023-12-19,Good,gas,Yes,B
+2431,apartment,Belgium,Brussels,Historic,9999,8,,13,1989,1855313 EUR,04-19-2023,New,Electric,No,a
+2027,apartment,France,Bordeaux,SUBURBS,154,4,4,,2003,235640 EUR,2022-10-24,,,1,E
+1961,Penthouse,Italy,Turin,Residential,52,8,3,11,2000,960753,2019-02-19,Old,CENTRAL,NO,b
+2296,Villa ,Belgium,Liège,Industrial,288,7,1,9,2010,1459907,13/08/2024,Good,gas,,A
+2764, studio,Italy,Turin,SUBURBS,332,7,1,17,1953,393166 EUR,2022-04-17,Old,electric,,E
+1794,apartment,Netherlands,Groningen,city center,187,3,3,16,1981,1935642,2024-10-25,,gas,yes,
+2654,duplex,France,Lyon,,,,,,1989,589771,2024-12-27,Good,,0,
+2642,Villa ,Netherlands,Eindhoven,Suburbs,359,6,2,18,1950,813648,2020-01-17,Renovated,electric,yes,D
+1345,duplex,Italy,Venice,Industrial,23,3,4,3,1950,196468,17/03/2021,Good,Solar,Yes,C
+1414,HOUSE,France,Bordeaux,Historic,132,2,1,18,1954,608216,2021-01-03,Good,CENTRAL,no,b
+1739,Villa ,Netherlands,Eindhoven,SUBURBS,,3,4,5,1989,878881,06-17-2020,Old,Central,yes,A
+2658,HOUSE,Germany,Munich,Historic,143,8,2,8,1984,1659404,2020-12-26,,,Yes,A
+1473,VILLA,,Bruges,Residential,121,3,2,1,1992,239579 EUR,2021-05-19,Good,gas,No,D
+1558,duplex,Italy,Genoa,City Center,103,3,3,3,1952,159940,2022-06-09,New,,NO,b
+2706,duplex,Netherlands,The Hague,Industrial,96,5,3,13,,892846,2021-01-16,New,CENTRAL,no,B
+1962,house,,Leipzig,Historic,,5,1,19,1988,144332,2021-11-07,Good,,no,c
+2579,HOUSE,Portugal,Setúbal,,113,7,1,19,1983,1513118,2022-12-13,Renovated,Solar,Yes,b
+1561, studio,Spain,Madrid,Historic,,1,2,18,1979,1080676,2024-12-25,,gas,yes,D
+1164,Penthouse,Switzerland,Basel,city center,85,4,1,19,1986,196399,2021-07-19,Renovated,Solar,YES,c
+1279,HOUSE,Netherlands,Eindhoven,Industrial,76,3,2,20,2016,1650468 EUR,2022/06/26,Good,gas,,b
+2837,duplex,Switzerland,Lucerne,Suburbs,335,6,3,1,1961,1327952,2019-09-01,Renovated,gas,YES,c
+2299,Penthouse,Germany,Berlin,Historic,394,4,3,2,1975,445140,2019-09-04,New,Central,No,C
+1362,duplex,Belgium,Bruges,Historic,331,2,1,10,1971,1626791,2019-06-07,Good,Gas,yes,G
+1070,VILLA,Netherlands,Eindhoven,SUBURBS,74,6,,3,2009,610928,2021-09-03,Good,Gas,1,a
+2113,VILLA,Belgium,Namur,,267,3,2,11,1995,1032092,2022-05-31,Renovated,electric,YES,b
+2554,Penthouse,France,Nice,city center,,1,3,19,1970,833247,2024-07-31,,gas,yes,F
+2748,VILLA,Portugal,Lisbon,Suburbs,55,2,1,,2008,642118,2023-06-18,Renovated,Solar,1,C
+1389,HOUSE,Switzerland,Zurich,Suburbs,387,4,2,5,1968,1101973,2022-10-31,Old,Solar,YES,b
+2488,VILLA,Italy,Rome,city center,336,3,2,6,1981,1419023,2018-04-27,Renovated,Central,,C
+2240,duplex,Germany,Düsseldorf,Industrial,36,8,4,,1953,1214251,2019-04-26,Old,Electric,,C
+2768,house,,Zurich,,37,6,4,9,1987,780542,2022-11-13,Renovated,Solar,No,c
+2175,apartment,,Lyon,Historic,293,7,3,13,1987,1700050,2022-06-27,,gas,0,b
+1766, studio,Spain,Seville,city center,386,7,4,17,2009,1238098,2018-11-24,Good,Gas,1,c
+2103,HOUSE,Netherlands,Rotterdam,Residential,138,6,2,15,1960,726074,2023-02-17,New,,0,G
+1080,Penthouse,Portugal,Coimbra,Historic,64,7,1,4,1973,1051293,2018-02-16,Good,Central,No,
+2866,Penthouse,France,Toulouse,Historic,307,8,3,11,2023,174142,2018-08-01,,gas,no,a
+1091,VILLA,Belgium,Brussels,city center,377,7,2,3,1963,1149715,2024-05-03,Renovated,Electric,Yes,B
+1897,VILLA,Switzerland,Lucerne,,77,7,4,0,2014,860265,2018-08-01,Renovated,Gas,0,B
+2433,HOUSE,Italy,Genoa,city center,356,4,3,12,1994,939641,2024-01-10,Old,Gas,NO,c
+1936,Villa ,,Valencia,city center,124,8,4,10,1957,1428383,2020-11-12,Renovated,electric,0,E
+1101,Penthouse,Spain,Madrid,Industrial,351,2,2,16,1981,319,2022-06-09,Old,gas,,A
+1008, studio,,Seville,SUBURBS,117,8,2,5,2004,634151,2018-03-02,Good,Gas,,
+2438,VILLA,Italy,Naples,Industrial,,8,1,8,,615874 EUR,2020-08-23,Good,Gas,1,
+1467,Penthouse,Italy,Rome,Residential,364,6,2,16,1996,79719,2018-12-10,,Solar,0,G
+2355,Penthouse,,Rome,City Center,159,,3,13,1960,743836,2020/03/13,Renovated,CENTRAL,No,b
+1374,VILLA,Germany,Leipzig,City Center,,7,4,6,,436015,2020-11-26,Renovated,Electric,yes,D
+2497,VILLA,Switzerland,Lausanne,Residential,341,,2,18,1960,940990,2020-01-21,,Electric,,E
+1079,duplex,France,Paris,city center,310,2,3,14,1986,177,11-09-2021,,Solar,yes,b
+2737,apartment,Germany,Cologne,Historic,150,,4,15,1991,420439,2023-01-07,Old,Gas,yes,c
+1811,apartment,Switzerland,Geneva,SUBURBS,166,7,2,2,1990,707375,2023-09-28,New,CENTRAL,,c
+1074,HOUSE,Netherlands,Groningen,SUBURBS,233,5,1,8,2010,1424873,2022-04-07,New,Electric,YES,A
+1406, studio,Italy,Milan,city center,,6,3,10,1968,306489,2020-10-07,,Electric,,c
+1654,HOUSE,,Utrecht,SUBURBS,117,4,4,17,1959,672284,2018-06-26,Renovated,,Yes,D
+1477,apartment,Portugal,Braga,Historic,175,7,3,19,1964,1742663,2022-10-03,New,Gas,Yes,F
+2791,HOUSE,,Antwerp,,371,3,1,,1975,1832291,2024-03-31,New,gas,YES,G
+2693,Penthouse,Spain,Madrid,Residential,67,,1,0,1966,1545657,2024-07-05,Good,Gas,1,G
+1238, studio,Switzerland,Basel,SUBURBS,110,1,4,9,1974,1509370,12-19-2018,,,1,a
+2862,apartment,France,Strasbourg,SUBURBS,,1,4,7,1981,840034,08-24-2018,Renovated,CENTRAL,0,b
+2670,house,Portugal,Porto,City Center,388,8,2,20,,1203209,2018-11-21,New,gas,yes,F
+1000,duplex,Spain,Madrid,Historic,145,,2,17,1963,232323,2022-09-15,New,Gas,,F
+2319,APT,France,Marseille,,122,3,4,15,2000,1429617,2022-05-06,,,1,B
+2896,Penthouse,France,Bordeaux,city center,364,1,1,16,,947168,2022-04-21,Old,electric,YES,D
+1716,APT,France,Strasbourg,Residential,82,1,1,6,1987,831548,2018-12-15,Old,,,a
+1925,apartment,Switzerland,Lausanne,SUBURBS,183,8,1,2,2023,1640629,2020-05-29,New,Solar,YES,F
+1226,duplex,Switzerland,Lausanne,City Center,219,8,2,10,1976,678590,17.10.2018,New,CENTRAL,0,A
+2986,apartment,Spain,Malaga,city center,,3,3,16,2002,1007073 EUR,2018-07-12,Old,gas,Yes,c
+1005,Villa ,,Bruges,Residential,279,2,3,19,2014,467146,08/05/2020,New,Electric,1,B
+1680,Villa ,Spain,Valencia,Residential,41,2,1,4,2007,1566239,2021-04-17,Renovated,Solar,0,A
+2616,HOUSE,Spain,Madrid,Historic,223,7,,0,2019,380342,2024-11-22,Good,Electric,No,F
+2929,apartment,Spain,Seville,City Center,27,2,1,2,1976,640749,2022-03-01,Good,Gas,1,
+2625,APT,Germany,Berlin,Suburbs,,3,4,18,1956,484251,2021-04-14,Good,Solar,No,A
+1619,duplex,Portugal,Lisbon,SUBURBS,,5,3,13,1972,1662822,2021-02-02,Renovated,Gas,1,D
+2944,APT,Spain,Alicante,SUBURBS,373,,4,,1977,1650084,2020-05-01,Good,Gas,YES,
+1377, studio,Germany,Leipzig,Suburbs,393,7,3,15,1968,246484,2021-06-24,Old,Solar,No,C
+2999,apartment,Italy,Florence,city center,134,1,3,18,2010,407704 EUR,2019-10-31,Renovated,Gas,1,b
+1495,Villa ,,Liège,,188,8,3,8,1988,1868778,17.06.2018,Old,,No,
+2544,HOUSE,Germany,Cologne,city center,339,7,1,9,2017,259548,07.05.2024,,CENTRAL,NO,b
+1373, studio,France,Marseille,Suburbs,234,5,3,14,1996,1370921 EUR,2019-06-13,New,Solar,,
+1835,apartment,Portugal,Lisbon,city center,276,5,3,8,2008,99567,2024-12-13,Old,,Yes,A
+1425, studio,Germany,Hamburg,Historic,107,4,4,9,2011,657018 EUR,2022-10-07,New,gas,Yes,b
+1783,HOUSE,,Munich,Industrial,44,2,4,1,2015,544311,2018-10-30,Old,,Yes,c
+1751,duplex,Portugal,Coimbra,Historic,389,6,2,7,1996,965587,2018-09-18,Good,Electric,yes,F
+1613,Penthouse,France,Toulouse,Historic,114,2,2,19,2017,1307338,2018-11-19,,Electric,0,b
+1536,apartment,Switzerland,Geneva,Suburbs,220,7,2,,1987,183482,2021-03-24,Renovated,Central,No,c
+2681,VILLA,Italy,Genoa,Suburbs,356,7,2,16,2002,578621,2021-04-22,New,electric,,c
+1792,Villa ,Spain,Seville,Historic,28,5,1,9,1955,392035,2019-04-04,Old,Gas,,b
+1135,Penthouse,Netherlands,Amsterdam,Suburbs,175,5,3,3,2012,1872215,27.04.2021,Renovated,Central,0,C
+2760,VILLA,France,Toulouse,Suburbs,268,2,1,12,1979,1692059 EUR,2023-04-06,Old,,NO,D
+1828,APT,Portugal,Faro,Industrial,124,3,2,2,,1090206,2018-02-18,Old,gas,No,G
+2932,Villa ,,Antwerp,Historic,378,6,2,20,1980,1555200,2022-11-02,,electric,no,c
+1427,house,Switzerland,Bern,city center,330,3,3,,1966,1284912,22.08.2018,Good,Electric,yes,G
+2603,VILLA,Belgium,Brussels,city center,320,3,2,0,2011,901732,2022-11-26,,Central,YES,c
+2052,VILLA,France,Bordeaux,Industrial,,2,4,12,1981,1308779 EUR,09/02/2019,New,electric,No,G
+1223,HOUSE,Spain,Alicante,SUBURBS,253,5,4,7,2010,519330,2021-08-23,Old,Electric,NO,
+2860,apartment,Italy,Naples,,27,1,1,4,1974,988664 EUR,2023-06-24,Good,CENTRAL,YES,C
+1740,Penthouse,,Barcelona,Suburbs,102,4,1,6,1973,954814,2019-05-25,New,CENTRAL,No,G
+2512,house,Belgium,Namur,Historic,164,4,4,7,2023,1770254,2023-08-02,New,Solar,Yes,F
+1979,HOUSE,Belgium,Bruges,Industrial,32,1,3,1,1970,365667,2018-10-24,Good,,yes,B
+1808,Penthouse,Netherlands,Eindhoven,Historic,107,3,3,11,1971,343481 EUR,17/01/2020,Renovated,electric,1,E
+2847,Villa ,Italy,Turin,Suburbs,167,2,4,2,2009,219828,2018-05-18,,CENTRAL,yes,
+1254,duplex,Belgium,Liège,City Center,313,,4,,1993,1584361,2021-08-29,,Solar,no,D
+2003,VILLA,Netherlands,Eindhoven,Historic,214,7,2,15,1966,1633277,2021-10-28,Good,Central,No,B
+2208,Villa ,Italy,Naples,Historic,145,5,4,2,2012,662408,2018-06-21,New,gas,No,
+2370,APT,Netherlands,Amsterdam,Suburbs,313,5,2,8,1984,1731633,2020-03-01,Good,Electric,Yes,B
+2101,VILLA,Switzerland,Zurich,Residential,150,7,4,12,1992,1494448,2023-11-23,New,Electric,0,D
+2006,Villa ,,Amsterdam,Suburbs,364,1,4,14,1966,1886719,2020-11-20,Good,Electric,yes,b
+1176,VILLA,Italy,Rome,,284,4,2,11,1954,551757,2018-03-04,New,,0,b
+1566,duplex,Spain,Bilbao,Suburbs,388,8,2,,1984,1457697,2022-11-19,Good,Central,no,F
+2772,HOUSE,Portugal,Lisbon,Suburbs,75,5,4,5,1998,102790,2021-08-18,Old,,1,D
+1089, studio,Portugal,Lisbon,Residential,399,3,1,17,1983,1274803,2021-10-14,Old,electric,yes,F
+1937,VILLA,France,Nice,city center,239,8,3,12,2022,454326,2018-07-27,Good,gas,No,G
+2110,Villa ,Netherlands,Amsterdam,SUBURBS,313,5,3,9,1962,1316711,2020-09-28,,electric,no,
+2134,Villa ,Switzerland,Geneva,city center,9999,4,3,10,2014,612798,2021-11-29,Old,gas,yes,c
+2348,apartment,,Leipzig,,208,7,1,13,,794765,2020-10-21,Renovated,Gas,Yes,D
+2692,Villa ,France,Nice,Historic,,6,1,11,1990,190,2021-11-16,,Electric,0,c
+1988, studio,France,Nice,City Center,183,8,,20,1971,1162775,2023-06-28,Old,Solar,Yes,C
+2172,apartment,Switzerland,Lausanne,,178,5,4,16,,807404 EUR,2023-08-24,New,Solar,No,E
+2109,duplex,,Düsseldorf,,131,6,,20,2011,1123738,2024-04-23,,Electric,1,
+2380,duplex,Portugal,Braga,SUBURBS,46,8,4,2,1967,349,28/06/2024,,electric,yes,E
+2402,apartment,Italy,Rome,Suburbs,204,3,2,9,1959,605280,2024-04-14,Old,Electric,No,G
+2443,APT,Germany,Leipzig,city center,9999,4,3,14,1970,1116637,2019/04/18,,Central,Yes,c
+2406,duplex,Germany,Düsseldorf,City Center,299,7,2,11,2008,1740781,2021-04-03,,Electric,yes,B
+1478,APT,Italy,Genoa,Historic,44,8,3,3,1955,1870111,2024-02-02,Old,Central,1,F
+1614,APT,Belgium,Brussels,Residential,40,5,4,,1961,614234 EUR,2022-07-21,,Solar,No,F
+2225,duplex,Netherlands,Utrecht,city center,155,6,1,19,2022,1261228,23/02/2018,New,,,c
+1318,HOUSE,Switzerland,Bern,Residential,193,1,4,10,,1282733,2020-11-15,,electric,yes,D
+2288,Penthouse,France,Nice,Suburbs,81,2,2,13,2023,1166219,2019-08-28,Good,CENTRAL,Yes,
+1061,duplex,Portugal,Faro,City Center,28,6,1,7,1994,1587088,2023-03-19,Good,Gas,No,
+2483,apartment,Switzerland,Basel,Suburbs,,,2,10,2016,614563,2022-08-27,Renovated,Solar,0,F
+1120,house,Netherlands,Rotterdam,city center,177,8,3,2,1965,380543 EUR,2021-12-28,Renovated,,yes,A
+2919,house,Portugal,Braga,,245,1,3,2,1969,1114012,2024-10-18,New,Gas,NO,a
+1701,VILLA,Portugal,Braga,SUBURBS,94,2,3,14,1960,618055,2020-12-21,,Solar,,b
+1625,apartment,Germany,Frankfurt,City Center,395,,2,,1976,328141,2021-05-12,New,Gas,1,G
+1877,apartment,Italy,Rome,SUBURBS,,3,3,4,1990,617242 EUR,12-25-2019,Renovated,Solar,Yes,a
+1593,house,France,Bordeaux,SUBURBS,149,8,4,14,,829232,2018-08-06,Old,Electric,no,F
+2192,house,,Valencia,city center,137,,3,17,,781771,2020-11-03,Good,electric,,D
+2228,Villa ,France,Toulouse,SUBURBS,318,4,4,15,1963,1562168 EUR,2020/09/02,Good,gas,1,G
+1262,apartment,,Bern,Historic,120,2,,,2015,174288 EUR,2024-08-03,Renovated,Central,No,C
+1592,apartment,Switzerland,Geneva,Residential,125,2,3,3,,1317509,2019-08-26,Good,,,D
+2072,Villa ,Germany,Düsseldorf,City Center,303,6,,14,1952,614109,2023-11-13,,,1,c
+2840,VILLA,,Porto,Residential,284,7,,0,,1906548,08-10-2022,Renovated,electric,NO,c
+2673,VILLA,Italy,Milan,Suburbs,,3,1,0,1986,603380,2020-10-14,Good,gas,NO,
+2498,HOUSE,Italy,Rome,city center,88,,3,18,2001,1972489,2022-10-08,New,CENTRAL,NO,D
+1959,VILLA,Germany,Munich,Industrial,116,7,4,14,2007,308189,2020-09-12,New,Gas,yes,C
+1355,Penthouse,,Lyon,city center,262,3,1,16,1965,1413353,2024-09-07,Old,Electric,1,c
+2906,duplex,Germany,Hamburg,,257,3,2,15,1982,898966,2021-01-01,Old,Gas,NO,
+2880,Penthouse,,Milan,city center,252,3,1,5,2021,1458936,2019-09-11,New,Gas,,c
+2356,duplex,Germany,Berlin,Industrial,,2,,17,1989,1107854,2022-09-03,Renovated,electric,NO,E
+2306, studio,Italy,Turin,Suburbs,,,,19,2005,1030215,2022-02-01,Renovated,gas,No,a
+1433,APT,Germany,Düsseldorf,City Center,301,3,1,3,2006,1931453 EUR,2021-12-25,New,Solar,Yes,B
+2391,duplex,Switzerland,Lausanne,SUBURBS,88,1,4,4,1968,1473998 EUR,2018-11-11,,electric,0,
+1953,house,Spain,Bilbao,SUBURBS,46,,2,20,1979,1713626,2023-12-27,,electric,1,b
+2104,Penthouse,Portugal,Braga,Industrial,81,2,4,8,2004,751801,2024-11-09,Old,Solar,Yes,A
+2736,apartment,France,Nantes,,347,7,1,9,1987,1853834,06/05/2022,New,Central,NO,a
+1404,VILLA,Spain,Malaga,Historic,353,5,4,13,2013,1125118,10-10-2024,Old,gas,1,G
+1705,VILLA,Italy,Turin,City Center,331,1,4,7,1966,1847337,2021-03-30,Renovated,CENTRAL,YES,A
+1227,duplex,Netherlands,Amsterdam,City Center,35,4,4,20,2000,717161,2022-01-15,Good,Gas,Yes,B
+1922,Penthouse,Spain,Zaragoza,city center,342,6,2,9,1986,1648216 EUR,2018-08-03,New,Solar,,B
+1502,Villa ,,Lucerne,SUBURBS,353,6,1,20,1973,1256331,01/07/2024,Renovated,Solar,NO,a
+1241,HOUSE,Germany,Stuttgart,Historic,81,5,2,5,2003,254,2019-10-09,New,Gas,No,c
+1945,APT,Belgium,Brussels,city center,101,4,2,13,1971,115280,2023-10-16,Old,Solar,Yes,G
+1958,apartment,Switzerland,Bern,city center,,5,2,14,2012,653563,2020-04-04,Good,gas,NO,A
+1704,duplex,Germany,Berlin,,212,7,3,19,2021,962068,2022-01-31,,Central,1,E
+2604,APT,Italy,Turin,Industrial,169,8,2,9,1971,810888,2021-04-30,Renovated,,,G
+1623,Villa ,Switzerland,Lucerne,Historic,133,4,2,3,1997,126789,04/10/2019,,Solar,Yes,
+1542,Penthouse,Spain,Malaga,city center,123,3,2,2,1989,811140,2019-10-17,Old,Electric,0,b
+2028, studio,France,Nice,city center,57,2,,17,1994,494786,2019-07-26,New,,yes,c
+2278,house,Belgium,Antwerp,,215,3,2,10,1963,789182,2020-11-19,Renovated,Central,YES,a
+2925,duplex,Portugal,Coimbra,,70,5,2,9,1989,874351 EUR,2023-09-30,,Central,NO,b
+2307,APT,Switzerland,Lausanne,Industrial,47,3,1,18,1996,1288920,2018-07-04,New,Gas,yes,C
+2903,duplex,Italy,Bologna,city center,158,3,3,,1957,1340358,2024-12-14,,Central,0,
+1849,VILLA,Switzerland,Geneva,city center,301,2,2,7,2009,55287,2020-01-03,Renovated,gas,0,A
+2473,Penthouse,Italy,Rome,city center,,3,3,6,1991,209844,2022-04-22,New,Electric,no,c
+2624,HOUSE,Switzerland,Geneva,,342,2,2,18,1996,1531875,2019-04-19,New,Electric,YES,D
+2704, studio,Italy,Genoa,SUBURBS,385,2,3,3,1971,1813141,2019-04-01,Old,Solar,Yes,F
+2358,HOUSE,Italy,Genoa,Suburbs,249,6,,3,2017,1002134,2020-09-05,New,CENTRAL,NO,b
+1143,apartment,Italy,Bologna,Residential,184,4,1,20,1950,1588477,2021-05-06,,CENTRAL,,c
+2761,Penthouse,Belgium,Ghent,Suburbs,201,,1,4,1956,1367282,2020-11-07,Good,,YES,G
+1889,house,France,Bordeaux,,293,2,3,1,,689054,2020-05-19,Old,Electric,0,
+2156,HOUSE,Switzerland,Lausanne,city center,320,2,2,0,1994,782527 EUR,2023-04-11,Renovated,CENTRAL,1,B
+2092,APT,,Bilbao,Historic,65,4,2,10,1960,1901059 EUR,2018-02-12,New,Central,,F
+1774,APT,Belgium,Bruges,,175,7,1,19,1968,518600 EUR,2023-03-06,Renovated,gas,YES,F
+2572, studio,Switzerland,Geneva,Suburbs,343,6,1,19,1961,638847,2021-12-17,,electric,1,b
+2533,duplex,Italy,Naples,Industrial,327,2,2,7,1987,163617,2019-09-15,Good,,no,A
+2421,duplex,Spain,Zaragoza,Industrial,,3,3,14,1981,1196265 EUR,2023-01-06,Good,gas,yes,A
+1801,Penthouse,,Ghent,Suburbs,25,3,,10,1951,283,2018-09-08,,,NO,a
+1854,VILLA,Portugal,Lisbon,City Center,373,2,4,4,1969,1924344,2023-06-11,Old,gas,0,B
+1791,VILLA,Switzerland,Lucerne,Residential,265,4,3,10,2016,1677260,2019-06-14,New,Gas,,C
+2593,apartment,Italy,Turin,city center,228,6,2,11,1975,1889793,2024-05-25,,Gas,No,b
+1471,house,,Geneva,City Center,320,,3,12,2022,1430565,2019-02-15,Good,electric,0,C
+2553,HOUSE,Netherlands,Eindhoven,SUBURBS,142,1,3,7,2007,441728,2021-09-22,New,CENTRAL,No,A
+1612,duplex,Netherlands,Rotterdam,City Center,294,7,3,3,1954,165160,2018-11-01,Old,,no,G
+2905,apartment,Spain,Bilbao,Suburbs,377,4,1,3,2022,884250,2023-11-12,Old,electric,,C
+2393,Penthouse,Belgium,Ghent,,398,7,1,7,2008,638354,2018-06-14,New,CENTRAL,1,F
+1399,duplex,Belgium,Namur,city center,,7,2,13,1950,118523,2022-10-28,Good,gas,Yes,b
+2021,Villa ,,Naples,Suburbs,,,3,19,1981,1525179 EUR,2024-07-31,Renovated,Central,No,A
+1022,Penthouse,Belgium,Liège,Residential,128,8,3,,,633546,2018-10-09,New,Solar,YES,A
+2001,APT,Spain,Barcelona,city center,264,8,1,20,1999,1782049,2018-10-21,,,0,F
+2045,Penthouse,Belgium,Bruges,Residential,66,5,2,4,,824472,2020-10-05,Renovated,electric,,
+1364,apartment,Spain,Valencia,Industrial,63,5,4,13,1951,1469841,2024-11-29,New,gas,0,F
+2527,house,,Namur,Historic,164,2,1,7,2005,582943,2022-05-10,Old,Gas,yes,a
+2060,HOUSE,France,Nantes,Suburbs,272,4,3,7,2002,248627,2022-08-25,,gas,YES,
+1629,HOUSE,Germany,Leipzig,SUBURBS,236,2,,5,2008,1478871,2018-05-05,,Electric,No,D
+2459,house,Germany,Düsseldorf,SUBURBS,367,1,1,12,1960,985191,2022/01/06,Old,,yes,G
+2249,APT,,Setúbal,Residential,,1,3,15,1958,228417,2021-04-05,New,Electric,YES,D
+2834, studio,France,Marseille,Residential,,,,,2003,362,2023-09-26,New,CENTRAL,YES,
+1920,apartment,France,Bordeaux,City Center,,2,,7,1957,1390278,2024-05-17,Good,Electric,yes,G
+2856,VILLA,Spain,Valencia,city center,9999,4,,16,1988,1707185,2020-04-09,,Gas,,c
+2300, studio,Belgium,Namur,Suburbs,,2,3,8,1959,1857995,15.11.2024,Renovated,Central,yes,B
+2272,APT,Italy,Venice,,327,4,2,15,1967,961161,2020-08-03,Good,electric,yes,C
+2814,Villa ,,Malaga,Industrial,311,1,1,9,2013,195679,2019-08-31,New,gas,1,C
+2305,apartment,Belgium,Antwerp,,345,2,1,2,1999,631672,2020-04-18,,electric,No,B
+1266,house,,Setúbal,city center,162,5,4,15,1995,382,2019-07-06,New,electric,Yes,C
+2590,house,Netherlands,Eindhoven,SUBURBS,173,6,3,3,2007,563257,2022-11-18,Good,CENTRAL,1,E
+2682,apartment,Switzerland,Lucerne,City Center,42,7,1,7,1983,943252,2018-07-14,Old,Electric,NO,A
+1820,HOUSE,Netherlands,Utrecht,Residential,207,5,4,2,1981,1414536,08.05.2021,Good,Solar,1,
+1034,VILLA,Italy,Genoa,,,7,2,4,2015,1861995 EUR,2024-08-01,Good,electric,0,
+2357,apartment,,Lucerne,Industrial,21,5,1,8,2001,539238,2018-09-09,,Gas,0,c
+2186,apartment,Portugal,Faro,Historic,144,3,2,2,2023,1545305,2022-07-06,Good,gas,YES,
+2301,Villa ,Portugal,Coimbra,city center,136,2,2,19,2012,1236672,2019-09-09,Old,CENTRAL,1,a
+1397,Penthouse,Portugal,Coimbra,city center,78,3,4,11,2004,420976,2019-02-11,New,Electric,Yes,b
+1255,HOUSE,Spain,Alicante,city center,282,7,2,10,2012,1314943,2021-03-11,Old,Electric,YES,
+2740,HOUSE,Spain,Malaga,Historic,127,6,,5,1981,1949310,2021-08-02,Good,Gas,no,D
+2485,VILLA,Switzerland,Geneva,Historic,111,7,3,6,1974,1500271,04-27-2019,Renovated,,No,a
+2709,apartment,Portugal,Setúbal,SUBURBS,,7,1,19,,1692464,2021-08-16,Good,Central,Yes,B
+1588, studio,,Hamburg,city center,319,4,1,11,,150618 EUR,2023-01-30,Old,,yes,D
+2428,house,Netherlands,Utrecht,city center,267,2,3,3,,1589494,2019-02-09,Renovated,CENTRAL,1,c
+2200,APT,Netherlands,Eindhoven,Suburbs,246,6,4,19,2013,1323530,2021-09-19,Old,,NO,c
+2931,house,Switzerland,Geneva,City Center,381,7,2,18,1977,911672,2021-12-29,New,Electric,yes,
+2747,Penthouse,Switzerland,Lausanne,City Center,378,8,1,7,1957,933968,2023-01-22,Good,Solar,NO,C
+2187,Villa ,Netherlands,Rotterdam,Industrial,180,3,4,8,1982,681839,2023-09-09,New,Electric,no,D
+1767,Penthouse,France,Strasbourg,Suburbs,376,8,4,7,1995,1812991,2022-04-15,,CENTRAL,yes,D
+1501,APT,Netherlands,Amsterdam,SUBURBS,36,6,4,18,1986,749929,2018-12-26,Good,Electric,,E
+1440, studio,Germany,Berlin,SUBURBS,78,1,2,14,2014,1266118 EUR,2021-12-18,Good,CENTRAL,No,B
+1857,house,Spain,Madrid,City Center,24,4,2,1,1996,1755760,2020-06-28,Renovated,Electric,YES,A
+1283,Penthouse,Belgium,Liège,Historic,87,1,2,5,,1106433,2019-06-08,Renovated,CENTRAL,,E
+1515,HOUSE,Belgium,Bruges,Residential,341,8,2,9,,1774363,2018-06-17,New,electric,,b
+2153,Penthouse,France,Toulouse,city center,128,3,3,16,1972,1033165,2023-05-26,Good,Central,yes,D
+2510, studio,Switzerland,Lucerne,,387,,3,16,2016,949164,2022-09-15,Old,Central,Yes,b
+2730,VILLA,Switzerland,Lucerne,Suburbs,55,7,2,1,,1256912,08.01.2022,Renovated,Central,no,B
+2809,house,Spain,Malaga,City Center,300,8,2,0,2017,1473657,2024-02-18,,,,c
+1673,house,Switzerland,Zurich,Suburbs,109,2,4,6,1977,978825,2019-12-08,,Solar,,C
+2898,VILLA,Spain,Alicante,Industrial,,8,3,,2013,475650,01/05/2021,Good,CENTRAL,,c
+2659,VILLA,Portugal,Faro,City Center,150,7,2,,1969,1620297,2023-05-10,,electric,YES,
+1678, studio,,Rotterdam,Suburbs,392,2,1,20,1969,1260451,2023-09-26,Good,Central,,
+2780,duplex,France,Lyon,SUBURBS,217,8,1,8,1960,1525879,2019-10-12,Old,Gas,no,a
+2444,Penthouse,Italy,Naples,,283,7,4,10,2007,644933,2021-01-28,Good,Gas,no,G
+1539,APT,France,Strasbourg,Industrial,383,4,4,20,1966,790171,2022-06-22,Good,Solar,YES,b
+2052,VILLA,France,Bordeaux,Industrial,,2,4,12,1981,1308779 EUR,09/02/2019,New,electric,No,G
+1290,house,France,Lyon,City Center,111,3,4,2,1955,922942,2020-02-06,,,No,G
+2398,VILLA,France,Lyon,City Center,257,8,1,7,1979,379316,22.07.2024,,electric,no,b
+2425,apartment,Italy,Genoa,City Center,46,5,1,9,,1920108,2023-02-21,Renovated,electric,1,E
+1320,HOUSE,Italy,Turin,Industrial,194,4,4,19,2009,1502097,2018-06-22,Good,Solar,1,b
+1564,duplex,France,Paris,Industrial,20,5,4,18,1998,384468,2021-05-03,Renovated,Gas,no,
+1321,Penthouse,Italy,Genoa,Historic,398,7,2,5,,1782424,2022-01-14,Good,,yes,D
+2609,APT,Netherlands,Rotterdam,SUBURBS,153,5,3,20,2014,350803,2019-04-15,Old,Central,no,b
+2710,Villa ,Belgium,Liège,city center,355,8,3,0,1970,1961205,2020-03-19,Good,Gas,No,G
+1647,APT,Switzerland,Geneva,Historic,347,2,4,0,2003,1396237,2024-10-03,,Gas,0,A
+1799,apartment,Portugal,Setúbal,SUBURBS,247,5,2,14,1952,612282,2022-06-12,,electric,no,c
+1617,apartment,,Turin,city center,394,2,4,6,1967,629965 EUR,2019-08-15,New,CENTRAL,NO,G
+1518,apartment,,Braga,Industrial,197,8,4,16,2023,128173,10.02.2020,Renovated,CENTRAL,NO,F
+1669,HOUSE,Italy,Turin,SUBURBS,141,3,1,10,1991,195212,2021-03-08,,gas,,b
+1319,Villa ,France,Paris,Industrial,179,7,3,18,1989,1906444,2019-08-16,,Central,,F
+1040,APT,Netherlands,Groningen,Suburbs,109,4,2,11,2019,1163278,2019-04-17,Good,gas,0,F
+2289,Villa ,Portugal,Lisbon,,322,4,2,2,1967,1648881,2018-08-02,Old,Electric,1,
+1128,apartment,Netherlands,Utrecht,Suburbs,155,4,,11,1958,588250,2021-12-09,Old,Solar,yes,
+2476,HOUSE,France,Nantes,Residential,155,5,2,1,1997,1833558,2018-05-13,Renovated,Electric,no,E
+1298,Penthouse,Spain,Bilbao,,386,7,3,4,1981,1629588,2022-01-21,New,Electric,No,F
+1913,Penthouse,,Nice,Historic,9999,2,1,14,1991,150,2023-04-21,Good,Central,no,F
+1886,duplex,Germany,Berlin,Historic,239,2,4,10,1991,259897,2020-01-19,,Solar,1,E
+1248,Penthouse,Portugal,Porto,city center,340,8,1,12,1959,1923667,2018-11-28,New,CENTRAL,Yes,B
+1789, studio,Spain,Seville,Suburbs,390,2,2,1,2018,141455 EUR,2019-01-22,New,CENTRAL,no,a
+2038,Penthouse,Portugal,Coimbra,SUBURBS,294,1,3,9,1953,719258,2018-07-29,,Solar,Yes,
+1674,HOUSE,Portugal,Faro,Industrial,347,5,2,17,2020,351723,2024-03-27,New,electric,1,
+2980,apartment,Belgium,Bruges,Residential,111,5,4,16,2000,1341289,2023/02/21,Renovated,,1,b
+1020,Villa ,Portugal,Setúbal,Industrial,9999,4,1,13,2003,743908,2024-06-16,Renovated,,,G
+2241,APT,Italy,Bologna,Suburbs,301,,3,2,2020,330,2023-02-21,Old,Gas,0,
+2162,Penthouse,Portugal,Braga,City Center,55,6,4,2,1962,941261,2019-01-02,Old,Solar,yes,A
+2203,VILLA,Netherlands,Rotterdam,Historic,207,7,1,8,2019,1677269 EUR,2019/08/19,Renovated,,NO,
+2580,APT,Spain,Malaga,,225,4,1,20,1957,875996,28/08/2022,,Electric,No,D
+2934, studio,,Antwerp,Suburbs,226,3,3,16,1993,1177691,2023-07-29,New,CENTRAL,1,c
+2504,duplex,Netherlands,Rotterdam,Suburbs,338,5,1,11,2014,385488,19.05.2018,,Electric,YES,G
+2144,Penthouse,France,Lyon,SUBURBS,42,2,,19,2013,1826336 EUR,2024-03-01,Good,Solar,yes,b
+2857,apartment,France,Toulouse,Industrial,175,5,4,0,1997,265146,2018-06-09,Old,electric,yes,C
+2492,house,,The Hague,City Center,24,,4,19,2012,1491778,2020-07-24,Renovated,Central,yes,a
+1871,Villa ,Germany,Leipzig,City Center,303,5,3,18,,1076035,2018-01-12,Renovated,gas,Yes,C
+1167,Villa ,Germany,Hamburg,Historic,396,,3,7,,1646923,2023-02-06,Renovated,Electric,0,c
+1162,VILLA,Switzerland,Geneva,Suburbs,132,3,4,9,2019,1379690,2024-03-23,,gas,0,a
+1017,Penthouse,Portugal,Coimbra,Suburbs,258,8,4,16,1977,1042343,2024/04/22,New,Central,YES,
+2564,apartment,Spain,Valencia,Suburbs,241,7,3,19,1998,461344,2024-01-17,Old,CENTRAL,YES,E
+1225,house,Germany,Munich,Residential,78,8,3,3,2021,1773907,2018-09-09,,Central,yes,c
+2426,Penthouse,Netherlands,The Hague,Industrial,276,7,4,16,,362980,2020-10-23,,electric,yes,G
+1132,APT,Italy,Rome,Residential,287,7,4,7,,1048794,2019-08-27,Good,Gas,YES,D
+1976, studio,Portugal,Porto,city center,326,2,4,18,1967,1854755,06.02.2023,Renovated,electric,No,b
+2061,VILLA,Spain,Seville,Suburbs,,1,4,5,,1513181,2019-12-05,Good,gas,No,D
+1893,duplex,Portugal,Porto,SUBURBS,368,3,4,0,2001,1605858,15/12/2018,Old,Electric,0,G
+1948,house,,Brussels,Historic,235,8,3,6,1990,1294341,2023-10-08,Renovated,electric,Yes,a
+1782,VILLA,Germany,Stuttgart,Suburbs,52,3,2,19,1990,134102,2019-08-27,Good,electric,No,C
+1010,VILLA,Germany,Berlin,Historic,61,3,1,7,1958,896778,2020-12-04,Good,,,C
+1229,apartment,Netherlands,Amsterdam,Historic,310,8,3,18,1964,1059847,2023-11-14,Old,Electric,0,b
+1550,HOUSE,Spain,Madrid,SUBURBS,272,6,,2,2005,1463553,2024-10-16,Renovated,CENTRAL,1,F
+2982,HOUSE,France,Toulouse,SUBURBS,390,,2,4,2012,1115771,2021-08-31,New,Gas,,D
+2468,house,Belgium,Antwerp,Suburbs,147,4,3,11,2000,324455,06-28-2019,New,gas,yes,A
+1775,VILLA,,Zurich,Residential,240,2,2,8,1958,1530204,2022-02-28,Good,Solar,,C
+1589,VILLA,Belgium,Antwerp,,54,4,1,18,1956,1422841,20/04/2018,Good,Electric,1,a
+2861,house,Portugal,Lisbon,Industrial,230,3,3,8,2016,905425,2023-02-21,Old,Electric,no,A
+2410,HOUSE,Switzerland,Lucerne,,,4,2,8,1968,1942123,2021-01-13,Renovated,Central,no,G
+2938,HOUSE,France,Paris,SUBURBS,268,4,1,3,1983,367409,2019-06-05,Renovated,Gas,NO,B
+1073,Villa ,France,Paris,,385,6,4,14,2016,362351,2021-10-09,Old,,1,A
+2463, studio,France,Nantes,SUBURBS,216,,1,11,,111803,2018-11-15,Old,,0,F
+1652,apartment,Germany,Stuttgart,Suburbs,,2,4,12,2010,1985860,2023-12-26,Good,Solar,1,D
+2331, studio,Germany,Leipzig,Suburbs,103,1,1,,1968,1327706 EUR,2019-07-28,Old,Gas,Yes,E
+1446,house,Switzerland,Bern,Historic,399,7,3,4,2011,1588141,2023-02-01,,,No,D
+2146,Villa ,Spain,Bilbao,Historic,173,8,2,5,2002,858407,2023-04-09,Old,electric,1,C
+1810,VILLA,Switzerland,Lausanne,SUBURBS,35,4,2,16,1965,506703,2018-09-16,,Electric,NO,C
+2265,apartment,Spain,Alicante,Historic,365,5,1,15,,1576142,2019-02-27,Good,Central,1,F
+2655,APT,Germany,Stuttgart,,29,5,2,12,1986,941287,2019-01-01,New,gas,NO,C
+2943,house,Germany,Berlin,City Center,43,5,2,1,1960,1005106,2020-02-28,Renovated,Gas,0,G
+1287,duplex,,Rome,city center,185,1,1,19,2020,849834,2022-07-07,Good,Electric,no,
+1306,apartment,Netherlands,Eindhoven,City Center,,8,3,5,1961,1533123 EUR,2024-01-29,,Solar,1,a
+1012,HOUSE,Germany,Cologne,city center,74,3,3,19,1986,491722,02/05/2021,Renovated,Gas,1,a
+1205,APT,Netherlands,Utrecht,Residential,100,1,3,11,1995,1361204,2018-05-01,Good,Gas,NO,G
+2662,house,Belgium,Ghent,Residential,264,8,1,1,1984,795406,2018/06/12,,CENTRAL,1,F
+1127,duplex,Portugal,Faro,Suburbs,85,3,,12,2023,1834166,2023-07-26,Good,CENTRAL,NO,C
+2023,duplex,Germany,Munich,city center,312,7,4,2,2022,1765894,2020-09-10,Good,Electric,1,C
+1013,HOUSE,France,Lyon,Residential,373,3,1,18,1997,1208729,2020-10-19,,gas,yes,D
+1083, studio,,Brussels,Residential,,2,1,11,,1518813,2022-09-18,Old,gas,,B
+2790,duplex,Belgium,Brussels,Historic,347,1,2,7,2003,691322,2024-11-13,,Solar,Yes,b
+1499,HOUSE,Portugal,Lisbon,Historic,48,6,3,11,2018,968813,2019-10-10,Good,CENTRAL,0,c
+2437,apartment,,Bilbao,Industrial,140,1,4,10,1990,1843331,2020-02-16,Old,,NO,A
+2078,apartment,Netherlands,Rotterdam,city center,388,2,1,4,1960,971226,2023-08-26,Old,electric,NO,a
+1006,VILLA,Germany,Leipzig,City Center,104,5,4,17,1977,1633905,11/02/2019,Good,Central,No,c
+1192,Villa ,Switzerland,Lucerne,City Center,210,2,2,15,1970,241682,2019-03-16,,CENTRAL,1,D
+1773,apartment,Switzerland,Geneva,Historic,373,3,1,1,2011,1054389,2024-07-26,New,Solar,Yes,A
+2707, studio,Germany,Leipzig,Industrial,305,7,2,19,1980,333028,2023-08-15,Old,gas,No,A
+2114,Villa ,Germany,Frankfurt,Suburbs,294,6,3,17,1994,87020,2023-08-17,New,Gas,0,E
+1146,VILLA,,Florence,Industrial,123,6,4,5,1987,132639 EUR,11-16-2022,New,Electric,no,c
+1780,Villa ,Belgium,Liège,,140,1,2,4,1984,147867,2019-01-08,Good,Gas,no,A
+2487,duplex,Switzerland,Bern,Industrial,,6,3,19,1992,1907290,2019-03-31,Old,Solar,NO,F
+2466,duplex,Italy,Rome,SUBURBS,380,6,2,14,1989,1108645,2024-08-05,Renovated,electric,YES,F
+1270,APT,Switzerland,Lucerne,city center,,7,3,15,1952,1283102,2023-07-28,Renovated,Gas,no,F
+2641,house,Netherlands,Groningen,City Center,139,8,,,1973,1468165,2022-02-22,,,yes,F
+2051,HOUSE,Portugal,Lisbon,city center,299,5,2,0,1969,256653,2018-11-11,,Electric,,D
+1129,apartment,France,Toulouse,Suburbs,183,5,1,10,1959,406736,2018-05-07,,gas,yes,A
+2696,VILLA,Netherlands,Amsterdam,Residential,318,6,1,12,1987,1520607,2020-09-09,Good,Solar,Yes,E
+1946,HOUSE,Germany,Frankfurt,Industrial,210,2,1,17,2009,1099944,2018-04-06,Good,Gas,1,C
+2217,house,Portugal,Faro,SUBURBS,259,8,1,2,2005,348381,03-17-2022,New,gas,no,B
+2926,Villa ,France,Toulouse,Suburbs,288,2,4,7,,883099,2019-05-16,Renovated,Electric,NO,
+1105,duplex,Spain,Barcelona,city center,298,6,1,17,2006,508315,2018-12-23,Good,Solar,NO,b
+2414,Villa ,France,Nice,Historic,,4,1,14,,515528,2020-07-21,Old,Solar,no,B
+1963,Villa ,Portugal,Braga,SUBURBS,112,4,1,15,1988,1633409 EUR,2021-04-12,Renovated,Electric,No,E
+1906,Villa ,Italy,Milan,Suburbs,,7,1,0,1953,1930736,2018-10-03,Good,Central,no,b
+2957,Penthouse,Portugal,Faro,SUBURBS,47,7,2,18,2005,1507647,2022-01-17,,Electric,,G
+1818,HOUSE,Spain,Seville,City Center,25,4,2,15,2023,694609,2024-01-01,New,Central,no,F
+1033,house,Germany,Cologne,SUBURBS,377,8,1,20,,1326896,11-27-2018,,,,
+2506,Penthouse,,Florence,SUBURBS,254,8,4,2,2000,1563786,2018-05-20,New,CENTRAL,NO,G
+1172,VILLA,France,Nantes,city center,235,6,1,13,2017,531267,2022-10-09,Good,Electric,no,b
+1096,Villa ,Germany,Düsseldorf,,,5,3,15,1984,356047,2024-08-29,Good,,Yes,G
+1847,duplex,Belgium,Bruges,City Center,262,8,,18,1970,176016,2021-05-19,Renovated,,YES,E
+1359,Penthouse,Switzerland,Lucerne,SUBURBS,,6,2,1,1962,547235,2024-12-23,Renovated,gas,yes,G
+2004,Penthouse,France,Nantes,city center,103,7,4,5,1987,954045,2021-11-15,Good,electric,NO,c
+1346,house,Belgium,Liège,Historic,340,2,2,9,1960,229740 EUR,2024-01-22,Good,Central,,b
+2248,VILLA,France,Marseille,Industrial,328,1,1,13,1998,683378 EUR,2023/04/07,Good,Electric,1,C
+1706,Villa ,Portugal,Porto,Historic,80,3,2,5,1987,45,2022-05-18,New,Electric,NO,a
+1916,Villa ,Switzerland,Zurich,Suburbs,41,2,1,20,2019,1907501,2020-09-09,Good,gas,YES,C
+2687,APT,Netherlands,Amsterdam,City Center,244,7,1,13,2005,368082,2018-08-11,Old,electric,YES,C
+2169,VILLA,Belgium,Bruges,city center,221,4,,14,1981,542213,22.07.2019,Renovated,Electric,YES,c
+1852,VILLA,Spain,Alicante,Suburbs,232,1,1,4,1999,1645009,2021-03-12,,CENTRAL,NO,A
+2351,house,Netherlands,Rotterdam,city center,29,3,3,3,2004,287112,2023-05-17,Renovated,Electric,YES,A
+1442,Penthouse,Spain,Seville,SUBURBS,281,6,2,18,1998,118366,2024-06-10,,Electric,0,A
+2971,VILLA,Belgium,Antwerp,SUBURBS,204,8,3,9,1954,97374,15.05.2020,Good,Central,1,c
+1479,Penthouse,France,Lyon,Suburbs,394,1,4,5,1981,226259,2023-11-15,Renovated,CENTRAL,Yes,C
+1975,apartment,Switzerland,Lausanne,,304,3,4,18,1985,486221,2020-01-24,Good,Gas,,E
+2448, studio,Belgium,Namur,SUBURBS,330,3,2,1,1997,232345,2022-11-07,Renovated,Solar,Yes,a
+2130,apartment,Spain,Alicante,SUBURBS,118,1,3,16,2002,997705 EUR,05-18-2021,,CENTRAL,YES,D
+2384,VILLA,Switzerland,Bern,Industrial,233,7,2,7,1959,1196794,2021-02-12,Renovated,CENTRAL,NO,B
+2210,Villa ,Portugal,Lisbon,City Center,106,3,2,,1953,859927,2021-10-25,Old,Solar,NO,G
+1939,apartment,France,Paris,Industrial,217,8,3,13,2016,1745246,09/05/2020,Old,,Yes,C
+2808,Penthouse,Netherlands,Groningen,,381,6,4,16,1968,682361,2024-08-31,Renovated,Solar,No,A
+1541,Villa ,Belgium,Namur,,348,7,2,13,1969,713729,2018-05-25,New,Central,Yes,A
+2083,duplex,Germany,Frankfurt,City Center,389,5,3,16,1981,1728749,2022-10-27,New,Central,no,
+1207,VILLA,Netherlands,Amsterdam,Historic,,2,2,4,1990,1574796,2021-01-26,Good,Gas,Yes,b
+2756, studio,Belgium,Brussels,Historic,193,7,4,7,1993,545979,2024-10-14,,Central,Yes,A
+2267,Villa ,France,Marseille,City Center,227,8,1,12,2002,913889,2022-01-18,Old,Gas,No,A
+1057, studio,Portugal,Faro,Residential,247,5,4,17,1979,551572,2021-02-28,Old,Gas,YES,b
+1992,APT,Portugal,Faro,City Center,255,,2,8,2007,828577,2021-05-09,Good,CENTRAL,YES,c
+1508,HOUSE,Netherlands,Rotterdam,Industrial,234,2,1,14,2010,920479,2019-06-10,,Electric,1,
+1069, studio,France,Toulouse,Residential,312,7,1,20,2013,1194158 EUR,16.07.2021,Renovated,CENTRAL,NO,G
+2806,HOUSE,Portugal,Lisbon,City Center,339,6,,20,1977,971969,2020-10-22,Good,Central,NO,E
+1158,VILLA,Spain,Malaga,Industrial,132,3,1,5,2014,922271,2024-12-07,New,Electric,NO,
+1934,duplex,,Amsterdam,Historic,325,4,2,13,2003,672012 EUR,2024-07-27,New,Electric,NO,b
+1187,duplex,,Alicante,,,7,3,9,1969,72137,2023-05-09,Renovated,Solar,Yes,a
+2344,house,Spain,Alicante,Residential,174,5,2,12,1989,1154097,2021-10-03,Renovated,gas,,E
+2486,APT,,Venice,,47,3,,2,1975,516654,2022-08-20,Old,electric,YES,G
+1545,Penthouse,France,Strasbourg,Historic,105,1,2,8,1989,199,2024-10-01,Old,gas,,A
+2211,house,Switzerland,Bern,Residential,295,5,2,20,1979,337096,12-24-2019,Good,gas,Yes,C
+2073,APT,Italy,Venice,city center,165,6,2,19,1991,251591,2022/10/11,Old,Solar,no,E
+1314,VILLA,Spain,Bilbao,City Center,272,3,2,19,2022,1235184,2021-01-28,,,0,
+2478,house,Portugal,Porto,Historic,379,3,2,10,1953,709326,2023-04-06,New,CENTRAL,YES,b
+2163,VILLA,Germany,Stuttgart,SUBURBS,197,7,3,7,,1665919,2024-08-21,New,CENTRAL,no,a
+1793,VILLA,Spain,Valencia,City Center,377,4,1,0,2020,169565 EUR,2020-03-16,Good,gas,YES,B
+1029,APT,Switzerland,Basel,Industrial,176,1,1,20,1976,492551,2018-05-14,Old,Electric,YES,E
+2086,VILLA,Netherlands,Amsterdam,Historic,348,2,3,7,1971,1500506 EUR,2023-05-25,Old,Gas,yes,B
+2759,house,Portugal,Braga,Residential,344,6,1,12,1985,247433,2022/11/14,,electric,yes,A
+2521,HOUSE,France,Nice,city center,182,6,,20,2017,329921,2019-08-19,,gas,yes,a
+1875,Villa ,Netherlands,Eindhoven,Residential,48,2,2,15,1981,891982,2021-01-03,Old,CENTRAL,No,b
+1432,Villa ,Spain,Alicante,city center,158,1,1,15,1954,1114523,2024-04-18,New,electric,Yes,G
+1117,apartment,Spain,Alicante,City Center,208,4,3,9,2022,1601003,2020-10-01,New,Solar,0,F
+2363,apartment,Germany,Hamburg,Historic,201,2,2,12,1997,553648,2019-12-17,Renovated,Electric,,
+2499,Villa ,France,Nantes,Residential,108,4,1,6,2002,780433,2023-11-04,Renovated,Central,Yes,D
+2155,Penthouse,Spain,Malaga,City Center,,8,1,20,1984,1514366,2022/10/06,Good,CENTRAL,YES,a
+1322,VILLA,Germany,Stuttgart,Residential,145,3,2,5,1952,1817650,2023-02-12,Good,gas,No,B
+2988,APT,Belgium,Namur,Industrial,88,8,4,10,1981,1557725,2023/10/11,,Solar,0,F
+2273,apartment,Italy,Milan,,139,4,4,0,1956,1189211,2020-02-22,New,Solar,0,E
+2371,HOUSE,Portugal,Coimbra,Residential,129,3,2,14,1997,723100,2021-05-12,New,gas,no,c
+1560, studio,Spain,Bilbao,city center,142,1,,20,1956,1817675 EUR,2022-05-07,New,,1,A
+1834,HOUSE,Germany,Munich,SUBURBS,314,2,3,18,2018,1983967,2022-08-22,,gas,yes,D
+1638,Penthouse,Germany,Düsseldorf,Industrial,135,1,4,2,1954,225878,2022-07-26,,Central,Yes,C
+1590,VILLA,Germany,Hamburg,SUBURBS,115,4,1,5,1991,1657151,2020-09-17,,,1,D
+1133,HOUSE,France,Nantes,Residential,369,7,2,19,,590826,2018-02-20,,gas,No,G
+2350,Villa ,France,Toulouse,City Center,126,4,1,12,1950,135054 EUR,2022/02/17,Renovated,gas,NO,b
+2292,HOUSE,Germany,Frankfurt,Suburbs,165,6,4,16,,1520342 EUR,2024-02-21,New,CENTRAL,yes,B
+2751,Villa ,Italy,Rome,city center,371,4,1,2,1967,1076181,2024-02-09,,CENTRAL,yes,A
+2966,HOUSE,Belgium,Liège,Residential,242,2,,17,1979,1823513,2022-12-08,New,,No,E
+2556, studio,Germany,Leipzig,Residential,156,5,3,20,2017,91720,13/11/2020,Old,CENTRAL,YES,C
+1503,Villa ,Italy,Bologna,Industrial,,3,2,5,1989,261595,2020-07-31,Good,gas,no,D
+2360,APT,France,Strasbourg,city center,,1,3,5,2000,1873155,2019-10-18,Old,Electric,No,a
+1085,HOUSE,Italy,Turin,Industrial,,1,4,7,1956,1603027,2024-06-17,Renovated,Solar,no,C
+1370,Villa ,,Frankfurt,Suburbs,137,2,2,1,2001,624329,2020-08-05,New,gas,Yes,E
+2537,APT,Italy,Venice,Industrial,393,1,3,8,2010,267132,2019-06-28,,,Yes,E
+2500,apartment,Switzerland,Geneva,City Center,131,3,3,5,2017,1537820,2022-08-20,Good,Central,YES,a
+1113, studio,France,Toulouse,City Center,40,1,4,9,2014,1368208,09-07-2018,New,,,D
+1926,VILLA,Belgium,Namur,,255,7,1,14,1997,153129 EUR,2018-01-25,Good,Gas,Yes,b
+1718,APT,Portugal,Braga,SUBURBS,236,5,1,0,,233,2021-03-01,New,gas,no,b
+2728,APT,Switzerland,Basel,Historic,348,7,3,6,2008,1570681,2018-03-28,Good,Solar,YES,A
+2145, studio,France,Toulouse,Historic,264,6,2,10,1963,1173079,2022-12-23,New,electric,NO,
+2522,duplex,Switzerland,Lucerne,Historic,,7,2,20,1977,1034388,2022-08-20,Good,Electric,yes,C
+2460,Villa ,Italy,Rome,Historic,107,1,3,15,1960,1488162,09/09/2022,Old,CENTRAL,NO,A
+1390,HOUSE,Germany,Leipzig,SUBURBS,27,3,3,2,2020,1096294 EUR,09.08.2024,Old,Gas,No,b
+1789, studio,Spain,Seville,Suburbs,390,2,2,1,2018,141455 EUR,2019-01-22,New,CENTRAL,no,a
+2472,house,,Cologne,Residential,392,4,3,20,1977,1952987,26/06/2021,New,Solar,no,
+2254,VILLA,Germany,Stuttgart,Industrial,192,5,3,,1990,493700,2020-08-21,Good,electric,YES,G
+2646,VILLA,,Namur,City Center,306,4,1,14,1975,1387876,2020-10-21,Renovated,CENTRAL,NO,E
+2275,duplex,,The Hague,Industrial,392,3,1,15,1997,1446048,2024-08-07,,Solar,no,C
+1773,apartment,Switzerland,Geneva,Historic,373,3,1,1,2011,1054389,2024-07-26,New,Solar,Yes,A
+1017,Penthouse,Portugal,Coimbra,Suburbs,258,8,4,16,1977,1042343,2024/04/22,New,Central,YES,
+1041,duplex,Portugal,Lisbon,Residential,294,2,4,8,1997,1275911,2024-11-03,Old,,,B
+1216,Villa ,Switzerland,Bern,Historic,,4,3,0,1974,297898,2024-04-14,Good,,no,B
+2461,VILLA,,Rotterdam,Industrial,169,7,4,,2007,537975,2018-04-08,Renovated,Central,NO,a
+2897,Villa ,Spain,Bilbao,,149,8,3,11,1960,1653232 EUR,2019-10-03,Good,gas,no,a
+1350,house,Belgium,Namur,Suburbs,363,2,2,20,2018,1571304 EUR,2022-04-13,Old,Solar,YES,E
+1688, studio,Switzerland,Zurich,City Center,81,1,3,6,1975,1322893,2018-11-20,Good,Gas,1,A
+1950,HOUSE,,Düsseldorf,city center,281,3,1,0,2012,1969750,2019-08-25,,Solar,YES,E
+1316,Villa ,Italy,Turin,SUBURBS,188,,1,0,1962,1056562,2018-08-11,Good,Electric,1,B
+2215,apartment,Germany,Hamburg,SUBURBS,224,4,2,16,1970,1791883,2020-11-25,,CENTRAL,yes,E
+2263,house,,Lyon,,26,8,1,19,,645318,2024-05-08,Renovated,Gas,YES,F
+2152,Penthouse,Italy,Bologna,city center,153,1,3,20,1972,571319,2021-01-01,Good,,YES,c
+2810,Penthouse,Switzerland,Basel,,,3,3,20,,1030959,2021-09-06,New,Gas,Yes,
+2322,house,Belgium,Brussels,Industrial,133,8,2,8,1957,233209 EUR,05.12.2024,,electric,,D
+1145,APT,Portugal,Braga,Industrial,83,,4,6,1969,1507923,2019-03-06,Renovated,Electric,No,
+2491,Penthouse,Spain,Zaragoza,,339,2,3,12,1990,1427433 EUR,2022-02-26,,gas,1,a
+1845,APT,Italy,Florence,Residential,32,2,1,7,1992,64352,2021-12-03,Old,gas,0,C
+1854,VILLA,Portugal,Lisbon,City Center,373,2,4,4,1969,1924344,2023-06-11,Old,gas,0,B
+2606,apartment,Spain,Alicante,SUBURBS,322,2,,17,2002,1960569 EUR,02/06/2018,Old,gas,yes,F
+2555, studio,Germany,Düsseldorf,Suburbs,180,7,1,12,,1409284,2022-01-27,Old,,NO,D
+2233,VILLA,Netherlands,Eindhoven,Historic,189,7,4,11,1979,958084,2019-02-06,,Central,NO,b
+2302,Penthouse,Italy,Bologna,,278,8,4,11,1986,1867898,2019-09-03,Good,Gas,NO,D
+1221,Penthouse,Belgium,Bruges,City Center,245,2,3,5,1969,623858,2021-03-06,Renovated,CENTRAL,0,
+2423,Penthouse,Belgium,Antwerp,city center,218,7,1,18,1950,1181732,2020-04-21,Renovated,Electric,YES,c
+1535,HOUSE,Portugal,Porto,,9999,2,2,19,,827837,2021-07-26,Good,CENTRAL,no,C
+2219,Villa ,,Milan,city center,9999,3,3,11,,230,2024-03-28,New,electric,Yes,a
+2069,HOUSE,Germany,Düsseldorf,,361,2,1,10,1975,853903,2022-04-13,Old,Gas,yes,b
+1899,VILLA,Belgium,Ghent,city center,187,1,1,4,2008,1132843,2022-01-14,Old,Electric,yes,
+1827,duplex,Switzerland,Lucerne,Residential,71,4,2,11,1984,1687420,2019-08-14,Old,Central,0,
+1205,APT,Netherlands,Utrecht,Residential,100,1,3,11,1995,1361204,2018-05-01,Good,Gas,NO,G
+1011,HOUSE,Switzerland,Basel,Suburbs,24,8,1,17,,497016,2021-05-24,,Central,0,E
+2405,Penthouse,Switzerland,Geneva,city center,152,5,2,5,1995,638248,2020-10-01,New,Central,,A
+1683,duplex,,Rome,Historic,58,3,1,15,1968,162859,03.12.2023,Old,Solar,yes,C
+2673,VILLA,Italy,Milan,Suburbs,,3,1,0,1986,603380,2020-10-14,Good,gas,NO,
+2481,Penthouse,Netherlands,Utrecht,,143,6,2,,1985,562065,2022-01-24,Good,electric,no,a
+1116,VILLA,Germany,Berlin,,385,7,2,7,1991,922953 EUR,2023-10-14,New,electric,no,E
+2583,house,Spain,Malaga,Residential,266,2,2,16,1958,607659 EUR,2022-02-02,Good,Solar,NO,F
+1650,apartment,Switzerland,Geneva,Historic,23,7,4,2,1999,165659,2018-04-15,,Central,no,B
+2821,Villa ,Italy,Bologna,Industrial,63,6,2,,2003,473575,2021-01-27,Renovated,Electric,no,
+1985,house,,Hamburg,City Center,9999,2,4,12,,897684 EUR,09/11/2020,Old,gas,yes,E
+1882,APT,France,Paris,Industrial,9999,3,4,4,1955,909642,2018/08/27,Good,Electric,Yes,B
+2312,HOUSE,Switzerland,Lausanne,Industrial,262,1,3,7,,1705249,2024-03-12,,,yes,B
+2070,VILLA,Italy,Turin,Residential,216,2,3,2,1961,1360955,2021-02-22,Renovated,Central,,G
+1927, studio,Portugal,Braga,Residential,131,4,2,6,2011,1698642,27.03.2019,Old,gas,yes,E
+1126,apartment,Netherlands,Amsterdam,Residential,95,3,1,11,2017,202109,2023-06-19,,CENTRAL,YES,c
+1671,Villa ,Germany,Frankfurt,Residential,350,1,3,1,1961,840954,2023-12-22,,Electric,1,C
+2081,duplex,Netherlands,Eindhoven,City Center,370,5,2,16,1986,1544980,16.04.2024,Renovated,Central,no,C
+2376,VILLA,Germany,Cologne,Historic,77,5,1,0,1986,1625128,2024/03/14,Good,Central,No,
+2013,house,Switzerland,Basel,Suburbs,183,6,1,1,1975,1359598,2024-02-27,,Central,yes,
+2198,Villa ,Switzerland,Bern,Historic,194,4,3,3,1955,232325,2024-02-04,New,Solar,No,
+2534,APT,,Lucerne,,201,5,2,4,,1817850,2019-01-29,Good,Gas,Yes,a
+2054,APT,Netherlands,The Hague,Industrial,78,3,4,15,2004,214096,2021/04/19,Old,gas,1,a
+1826,VILLA,France,Marseille,City Center,85,,2,8,1994,1701558,2021-12-29,Renovated,,No,A
+1668,Penthouse,Belgium,Bruges,,9999,7,3,19,1990,654048,2019-07-12,New,Central,yes,E
+2895,Penthouse,Italy,Florence,Residential,56,3,2,11,1982,623307,2021-06-13,Old,,YES,a
+1343,Villa ,Portugal,Coimbra,Industrial,119,7,3,16,1994,1537150,21/06/2024,Renovated,electric,yes,E
+2085,house,Belgium,Liège,,9999,2,4,15,2015,1452847,2019-08-27,Renovated,Gas,NO,G
+1787,duplex,Portugal,Porto,,114,8,4,10,,1716796,2022/03/01,Good,,No,B
+1436,house,Switzerland,Lucerne,Historic,78,1,4,8,,632939 EUR,2022-12-24,Good,gas,0,A
+2766,VILLA,France,Marseille,,196,6,1,7,1982,1158790,2022-08-04,,Electric,0,A
+1118,APT,,Amsterdam,city center,397,5,1,16,1976,549473,2022-08-19,New,Electric,0,C
+2327,Penthouse,Switzerland,Zurich,City Center,375,1,4,,1958,1366945 EUR,2021-09-07,,,0,D
+2189,duplex,Germany,Berlin,SUBURBS,219,4,4,3,1971,914983,2024-01-06,,electric,1,D
+2294,Penthouse,Belgium,Ghent,Historic,35,7,1,16,1992,122837,2024-02-16,New,electric,no,C
+1331, studio,Switzerland,Basel,Industrial,23,3,4,12,1958,1318459,2023-02-13,Renovated,gas,yes,G
+2132,Villa ,Italy,Turin,City Center,155,7,4,15,1992,1929335,28.12.2020,New,Electric,NO,G
+1715,APT,Switzerland,Zurich,City Center,,4,2,16,2016,359,2018-01-09,Old,gas,,B
+1272,VILLA,Belgium,Liège,Industrial,180,4,4,8,2001,1360644,2023-03-30,,gas,Yes,a
+1532,HOUSE,Italy,Bologna,Residential,385,,4,18,1976,1393060,2021-09-16,Good,CENTRAL,,A
+2899,APT,Netherlands,Eindhoven,Residential,84,8,,15,2021,1051555 EUR,2020-03-02,New,Gas,0,c
+2778,APT,Italy,Milan,Historic,266,2,2,16,2017,1453414,2018-08-26,Good,electric,0,B
+2176,HOUSE,Belgium,Bruges,SUBURBS,259,1,2,3,2001,103169,2020-06-27,Renovated,Solar,YES,A
+1919,Penthouse,France,Marseille,Suburbs,268,8,1,,1977,1134094,2018-03-24,Old,,Yes,b
+2762,VILLA,France,Paris,,101,5,3,20,1957,1143699 EUR,2023-07-09,Good,Gas,NO,C
+1764,Penthouse,,Lisbon,City Center,394,5,4,11,1955,717776,2018-11-14,Renovated,CENTRAL,,E
+1918,HOUSE,Belgium,Liège,Historic,336,6,2,8,2023,933371,2022-03-20,New,Gas,,B
+2150, studio,Germany,Frankfurt,City Center,188,5,4,5,1989,381170,2023-05-26,New,CENTRAL,YES,b
+2297,VILLA,Belgium,Bruges,Residential,85,5,4,19,2020,1974114,2023-07-05,Good,Electric,NO,
+1216,Villa ,Switzerland,Bern,Historic,,4,3,0,1974,297898,2024-04-14,Good,,no,B
+1656,house,Netherlands,Groningen,city center,394,8,2,7,2004,1884448,2024-06-02,New,electric,0,c
+2451,Villa ,Portugal,Coimbra,city center,262,1,3,5,2009,453569,20.05.2018,Old,gas,yes,a
+2503, studio,Italy,Milan,city center,99,5,3,,1966,1494230,2022-02-21,New,electric,No,C
+1459,HOUSE,Spain,Zaragoza,city center,212,3,1,16,1970,1618981,2019-07-27,Old,Central,no,B
+2320, studio,Netherlands,Groningen,Historic,160,8,,20,1990,125662,2021-01-22,,gas,NO,D
+2617,VILLA,Italy,Genoa,city center,68,6,4,8,,1746846,2020-08-23,Renovated,gas,Yes,C
+1721,Penthouse,Spain,Madrid,city center,91,2,4,10,1996,1120589 EUR,2024-10-02,,Gas,no,B
+2846,APT,Netherlands,Groningen,Suburbs,128,4,4,13,1955,1315332,2022-01-30,,,yes,C
+2922,Penthouse,France,Toulouse,,104,6,3,18,1981,857795,2024-04-29,New,Solar,yes,B
+1693,VILLA,Netherlands,Groningen,Residential,324,8,2,2,1964,982093,2018-10-17,Renovated,,0,C
+1493,house,Spain,Madrid,Industrial,310,4,2,5,1982,1496403,2020-02-18,Good,,Yes,D
+2048,HOUSE,Portugal,Coimbra,Historic,184,8,2,13,2008,1681613,2024-09-02,New,CENTRAL,YES,A
+2870,HOUSE,Belgium,Antwerp,SUBURBS,42,,3,17,2002,568957 EUR,2019-11-01,Old,,1,E
+1054,HOUSE,France,Strasbourg,city center,195,2,2,7,1955,1533990,2024-09-14,Renovated,Electric,NO,B
+2122,Penthouse,,Groningen,Suburbs,163,5,1,16,1964,254589,2023-09-25,Good,Central,YES,a
+1851,VILLA,Germany,Munich,SUBURBS,217,1,1,5,1975,181034,02/05/2024,Old,Electric,YES,B
+2074,APT,Portugal,Coimbra,,240,8,3,0,2008,906860,20.05.2024,Good,,1,B
+2560,duplex,Switzerland,Bern,City Center,93,2,2,18,1994,1148247,2020-12-15,Renovated,Electric,yes,G
+2842,Penthouse,France,Marseille,Residential,79,1,,4,2007,696479,16.09.2020,New,Solar,NO,
+2251,apartment,Spain,Zaragoza,City Center,120,8,,20,1961,1838401,20.10.2019,Old,gas,1,A
+1952,apartment,Netherlands,The Hague,Historic,368,6,4,11,1954,316292,2018-07-03,,Solar,No,B
+2462,apartment,Netherlands,The Hague,Historic,63,8,2,5,2006,1003286 EUR,2020-08-25,New,Gas,No,D
+1437,apartment,France,Nice,Residential,331,6,3,0,1977,765012,2021-03-23,Old,gas,0,E
+1534,VILLA,Spain,Valencia,City Center,187,3,3,9,2000,1174618,08-07-2024,Old,Electric,No,D
+2571,duplex,Switzerland,Lausanne,,230,8,4,2,2017,1140136,2021-08-26,Renovated,Gas,No,B
+1046,VILLA,Spain,Barcelona,,389,4,4,7,,917829,03/02/2021,Renovated,Gas,0,A
+1711, studio,Spain,Zaragoza,SUBURBS,9999,5,3,1,1974,860786,2020-07-29,New,Electric,,
+2598,apartment,,Seville,Residential,229,7,4,2,1973,1684692,2023-11-03,,Gas,No,E
+1009,apartment,Italy,Venice,SUBURBS,104,7,1,8,1999,1993049,2020-04-02,Renovated,Central,Yes,b
+2807, studio,,Marseille,,75,6,1,,2010,1091256,2020-05-06,Good,gas,yes,A
+1375,apartment,,Florence,Historic,347,3,3,8,1967,1881616,2022-02-20,,,yes,G
+1573,HOUSE,France,Strasbourg,Industrial,277,3,4,18,1985,864068,2019-10-29,Old,Electric,yes,B
+2983,house,France,Paris,,330,7,2,0,1976,1720917,2023-06-27,Good,Solar,no,F
+2396,VILLA,Switzerland,Bern,,,3,2,1,,1602452,2018-10-06,Renovated,gas,No,
+2309,APT,Italy,Venice,SUBURBS,230,6,4,0,1951,1459726 EUR,2024-01-16,Good,gas,0,C
+1196,duplex,France,Lyon,city center,59,4,1,7,1962,1164974,2024-06-19,Old,Electric,yes,C
+2551,house,,Liège,Residential,,3,1,13,1976,1350977,2018-09-22,,electric,YES,B
+2775, studio,Spain,Barcelona,Residential,251,3,,16,1975,1611174,2024-05-14,Renovated,electric,,E
+2549,house,Netherlands,Rotterdam,Suburbs,20,8,1,14,1969,1257232 EUR,2021-04-25,Good,Central,no,D
+2234,VILLA,Portugal,Coimbra,Industrial,178,3,,9,,991637,2023-03-01,Good,Solar,yes,A
+2159,VILLA,,Leipzig,City Center,288,2,2,8,1954,1726145,2024-01-04,Renovated,gas,Yes,F
+2887,apartment,France,Lyon,City Center,147,3,1,4,2014,1826446,2023-11-01,New,gas,,B
+1702,APT,Belgium,Bruges,SUBURBS,310,5,1,10,1991,1283863,08-12-2023,New,CENTRAL,No,B
+1778,Penthouse,Portugal,Braga,city center,9999,8,3,6,1970,471615,2020-06-01,New,Solar,YES,E
+1712,HOUSE,Belgium,Bruges,,237,6,2,8,1985,583501,2018-09-28,Old,Electric,Yes,c
+1251,Villa ,Spain,Barcelona,,161,2,,4,2013,1884993,2018-03-29,Good,CENTRAL,,b
+1095,duplex,Spain,Madrid,Industrial,9999,6,3,,1963,233075 EUR,2021-08-21,Old,gas,No,a
+1876,house,Germany,Düsseldorf,SUBURBS,58,4,1,11,2011,536789,2022-06-21,Good,Central,,B
+1222,house,Germany,Berlin,Residential,365,1,1,1,1999,230605,2020-03-22,,Electric,1,b
+1141,Penthouse,Portugal,Faro,city center,153,5,4,15,,162568,2021-05-07,Good,Gas,YES,F
+1454,apartment,Germany,Berlin,City Center,214,2,3,17,1995,183095,2019-10-24,Good,Solar,Yes,A
+1994,HOUSE,France,Toulouse,Historic,252,3,3,10,1964,767242,2018-04-28,,gas,Yes,C
+2274,HOUSE,Portugal,Setúbal,,,6,4,20,2020,1983407,2019-04-11,Old,Central,,E
+2992,house,Switzerland,Lausanne,city center,109,6,3,11,,701862,2018-01-10,,gas,Yes,c
+1594,HOUSE,France,Strasbourg,,,6,2,16,1989,398012,2023-01-11,Old,CENTRAL,NO,E
+2867,house,,Setúbal,,165,8,3,19,1971,255466,2019-07-13,New,Gas,NO,C
+2324,house,France,Marseille,Historic,243,1,4,3,2018,1480386,2020-04-08,New,gas,No,E
+2422, studio,,Leipzig,Residential,195,8,1,11,1968,866614,2023-09-04,,Electric,NO,D
+1081,VILLA,Germany,Düsseldorf,,380,5,1,11,1987,1338962,2024-01-11,Good,Electric,0,
+1815,house,Switzerland,Zurich,,27,6,3,10,1983,1750549,2019-03-06,New,Solar,0,a
+2341,apartment,France,Lyon,City Center,208,6,,,1960,276548,2020-08-30,Old,Solar,1,b
+2956,apartment,Portugal,Setúbal,Historic,396,6,4,4,1991,1395130,2019-07-06,Good,Electric,No,a
+1170,Villa ,Germany,Berlin,Residential,152,3,4,20,2022,89049,2020-06-17,,Gas,0,E
+1987,VILLA,Germany,Hamburg,,99,5,1,8,2018,1037847 EUR,09.09.2023,Renovated,Electric,No,D
+2977,apartment,Spain,Barcelona,Historic,298,1,2,,1980,1218342,2021-12-28,Good,CENTRAL,,E
+1556, studio,Switzerland,Geneva,Historic,344,1,3,19,1995,1061987,2020-02-10,New,,Yes,D
+1768,Villa ,Germany,Berlin,SUBURBS,81,2,3,11,1953,1069823 EUR,18.07.2019,Old,electric,,E
+2910,Penthouse,Switzerland,Zurich,Industrial,,3,3,6,2020,441350,2021-08-20,Good,gas,0,G
+2090,Penthouse,Germany,Düsseldorf,Historic,204,2,4,11,2008,1639428,2024-02-22,New,Solar,0,B
+1921,apartment,France,Nantes,City Center,88,8,3,9,2013,1437446,2021-02-27,Good,Electric,No,a
+2884,VILLA,Belgium,Bruges,SUBURBS,,7,4,8,2016,1329082,2023-05-13,New,Central,no,D
+1312,apartment,France,Marseille,City Center,331,8,1,5,1951,916465,2022-12-29,Old,CENTRAL,,C
+1750, studio,Netherlands,Eindhoven,SUBURBS,135,4,3,1,1975,1746421 EUR,2020-12-29,Old,,1,F
+1301,APT,Italy,Florence,Historic,278,2,1,8,1997,1364892 EUR,2020-08-25,,Solar,NO,E
+2952,house,Spain,Seville,Industrial,167,8,2,18,2013,527457,2019-10-09,Good,Solar,YES,G
+1874,Villa ,Italy,Turin,city center,170,4,,18,1970,944969,2024/05/25,New,electric,NO,b
+2223,HOUSE,France,Toulouse,Suburbs,227,5,1,6,1994,974442,2024-11-14,Old,gas,1,G
+2698,house,Switzerland,Zurich,City Center,353,3,4,5,1955,1023306,2023-06-12,,Gas,YES,D
+1088, studio,Belgium,Brussels,,117,2,4,19,1981,1525909,2023-10-02,Old,CENTRAL,YES,F
+2417,Penthouse,Spain,Alicante,,,3,3,7,1965,100370,2024-01-26,,CENTRAL,No,E
+2738,house,Belgium,Namur,SUBURBS,234,5,1,18,1984,1817496 EUR,07-08-2024,Good,Gas,1,
+2482,HOUSE,Germany,Stuttgart,city center,107,3,3,9,,929354,10-25-2021,Old,CENTRAL,yes,D
+1602,Penthouse,Switzerland,Bern,,280,5,3,13,2001,1742330,10-04-2018,Good,Electric,no,F
+1292, studio,,Rome,,266,3,2,20,2005,235,16.08.2023,Good,,,A
+1340,HOUSE,Spain,Alicante,SUBURBS,118,1,2,4,1976,242433,04-14-2019,,electric,YES,E
+1686,house,Belgium,Brussels,Industrial,102,7,1,0,2019,1133917 EUR,2018-09-07,New,gas,1,B
+2688,Penthouse,Germany,Hamburg,City Center,161,,1,0,2020,862038,2024-04-08,,Solar,no,B
+1568,house,Netherlands,Groningen,City Center,250,3,1,16,1993,1975811,27.04.2024,New,Central,0,B
+1024,HOUSE,,Bilbao,SUBURBS,309,1,3,13,2018,1437310,2023-02-27,,,0,
+2732,house,Belgium,Namur,Historic,251,3,3,14,1977,780261,2020-02-07,New,electric,No,F
+1901,Villa ,France,Lyon,Industrial,25,5,2,5,1988,1429148,2018-02-06,,electric,,A
+2318,VILLA,Netherlands,Utrecht,SUBURBS,302,7,1,16,1954,769370,2024-08-18,Good,gas,no,E
+1622, studio,Switzerland,Lausanne,Suburbs,145,6,1,11,1993,1038563 EUR,2020-08-05,Old,gas,0,B
+2678, studio,Switzerland,Bern,Historic,379,5,4,19,2012,966500,2021-01-24,Renovated,Central,,b
+1151,house,Spain,Alicante,SUBURBS,181,2,,3,,896074,2020-04-27,Renovated,CENTRAL,Yes,D
+2657, studio,Italy,Naples,Industrial,82,8,4,1,2010,390077,2023-08-31,Renovated,,No,c
+1986,apartment,Switzerland,Zurich,Residential,21,7,4,19,2019,173720,04/12/2022,Good,Gas,YES,C
+2429,house,Switzerland,Lucerne,,224,6,4,12,2005,890686,2019-07-27,Renovated,Gas,No,
+1838,apartment,Portugal,Lisbon,Historic,316,2,4,20,2022,369329,2023-02-27,Old,Central,0,F
+2724,duplex,Germany,Leipzig,Industrial,365,7,2,12,,1960144,2020-04-25,New,electric,NO,
+2303,house,Spain,Barcelona,SUBURBS,289,3,1,1,1992,573298 EUR,2022-06-13,Old,Central,0,C
+2802,duplex,Spain,Bilbao,Residential,184,8,4,2,1998,918575,03/05/2021,New,electric,YES,c
+2694,duplex,Portugal,Coimbra,Historic,249,4,4,,1975,1239821,15/01/2024,New,Solar,1,D
+1925,apartment,Switzerland,Lausanne,SUBURBS,183,8,1,2,2023,1640629,2020-05-29,New,Solar,YES,F
+1868,house,Portugal,Faro,SUBURBS,,1,4,0,,1871065,11/01/2024,Good,Solar,yes,G
+2959,house,Spain,Alicante,SUBURBS,260,5,3,5,1968,354350,2023-10-04,,Central,YES,E
+1523, studio,Netherlands,The Hague,Industrial,183,6,1,10,1967,1853434,2024-01-02,,Solar,NO,c
+2873,APT,,Rome,City Center,,,3,4,1960,203898,2020-06-07,,electric,0,F
+2940,Villa ,France,Strasbourg,,212,6,,3,1957,1568715,2019-03-04,,Solar,yes,A
+1417,VILLA,Spain,Bilbao,,392,1,,7,2002,1432792,2021/11/04,Old,Gas,no,c
+1324,VILLA,Spain,Valencia,Industrial,218,6,4,14,2016,425387,2024-07-19,Good,electric,YES,G
+1577, studio,Switzerland,Geneva,,359,8,4,6,2011,257716,2024-02-16,Good,Solar,,c
+2531, studio,France,Marseille,Historic,358,1,3,13,1953,959579,2021/10/25,New,Gas,0,C
+1727,Villa ,Portugal,Faro,City Center,324,5,3,3,2010,917003,2024-01-15,New,Central,no,F
+1461,Villa ,Netherlands,Utrecht,city center,96,8,1,9,1950,1521077,2024-04-09,New,Solar,no,E
+1692,duplex,France,Lyon,Industrial,,7,2,6,1953,1029933,2018-04-23,Renovated,Electric,0,B
+1788,apartment,Portugal,Porto,,97,6,3,7,2001,964131,2020-01-07,Renovated,,0,A
+1422,Villa ,Portugal,Lisbon,Suburbs,334,5,2,11,,316914,2023-10-23,New,,No,F
+1109,APT,Switzerland,Zurich,Suburbs,123,3,3,8,1970,245748,2020-08-17,New,Central,YES,
+2218,Penthouse,,Paris,SUBURBS,120,8,1,13,2016,119783,2022-03-29,,CENTRAL,No,C
+1724,duplex,Germany,Stuttgart,City Center,22,1,1,16,2012,1417237 EUR,2022-05-15,Renovated,Central,1,B
+1758, studio,Italy,Milan,Residential,213,6,,16,1969,1676478,2019-06-08,Renovated,Solar,YES,C
+1608,APT,Portugal,Porto,,124,3,3,9,,699052,2018-09-28,Renovated,Gas,No,
+2645, studio,,Lausanne,Historic,265,3,1,3,1978,939718,2023-01-03,Good,Electric,1,a
+2824,Villa ,Switzerland,Bern,Suburbs,192,7,1,11,1961,1389310,2021-04-07,,Central,,C
+1885,HOUSE,Belgium,Ghent,Historic,242,5,2,3,1975,865979,2023-11-14,New,gas,YES,E
+2689,APT,,Paris,Historic,219,6,3,,2015,555092,2021-07-06,New,electric,Yes,G
+2652,APT,,Lyon,,296,5,3,13,1991,735017,2020-01-30,New,CENTRAL,No,F
+2753,VILLA,Germany,Frankfurt,SUBURBS,353,1,1,14,1977,117085,2024-05-13,Good,gas,Yes,
+2012, studio,France,Paris,Industrial,,,3,20,1982,192895 EUR,2021-09-14,New,,0,c
+1570,HOUSE,Switzerland,Geneva,city center,375,5,2,,2001,1780636,2018-10-20,New,gas,NO,c
+2377,apartment,France,Marseille,Historic,337,5,3,19,2005,1105279 EUR,10-04-2024,Renovated,Electric,,E
+2441,Villa ,Italy,Milan,Residential,328,1,2,3,2007,1494216,2018-12-25,New,Electric,,c
+2547,APT,Italy,Venice,City Center,343,6,3,11,2007,1116882,2018-10-02,Renovated,Solar,yes,F
+1689,APT,France,Toulouse,City Center,232,7,1,10,,1364573 EUR,2018-03-22,Good,Electric,no,b
+1805,VILLA,Netherlands,Utrecht,Industrial,225,6,2,1,1988,842366,2022-10-09,Good,Electric,Yes,F
+1681,duplex,Switzerland,Lucerne,Industrial,286,,2,5,1986,260677,2021-08-30,Renovated,gas,yes,A
+1667,VILLA,Germany,Frankfurt,,289,6,4,4,1970,743933,2023-01-17,Good,Gas,1,F
+2569,duplex,Belgium,Bruges,Industrial,241,1,2,6,1998,1164101,2018-03-06,Renovated,electric,NO,c
+2179,duplex,Switzerland,Geneva,Suburbs,238,3,3,15,2014,1555035,2020-09-24,Old,gas,0,
+1312,apartment,France,Marseille,City Center,331,8,1,5,1951,916465,2022-12-29,Old,CENTRAL,,C
+2997, studio,France,Lyon,,365,,2,16,1956,347197,2023-10-11,New,gas,no,b
+1717,duplex,,Bologna,City Center,229,6,1,0,1954,466401,2021-09-11,Old,Electric,NO,A
+2385,Penthouse,Italy,Rome,City Center,333,2,3,3,1987,1270196 EUR,2021-06-18,Old,Solar,,F
+1357,APT,Spain,Valencia,,378,1,4,17,2021,1693065 EUR,2019-04-26,Good,Central,0,
+2480,HOUSE,Switzerland,Basel,Industrial,107,2,1,16,1961,660195,2019-06-20,Renovated,Central,0,F
+1261,house,Germany,Berlin,City Center,198,5,3,14,1967,1915891 EUR,03-23-2023,New,gas,No,B
+1603,APT,Italy,Genoa,,,2,3,,,1426112,22.08.2021,Old,Gas,NO,G
+2379,house,Germany,Düsseldorf,city center,61,4,2,4,1951,706691,2023-04-26,Good,Solar,0,
+1930,APT,France,Paris,SUBURBS,165,4,2,5,1969,1672056,2018-11-05,New,gas,,E
+1785,APT,Germany,Munich,SUBURBS,110,7,3,18,1983,1893543,2021-04-02,New,,0,a
+1075,Villa ,Netherlands,Utrecht,Historic,231,4,4,19,2014,1980472,2022-03-24,,CENTRAL,0,F
+1189,HOUSE,,Cologne,Historic,346,,,19,1984,1081790,2018-02-03,Old,Solar,NO,G
+2644,Villa ,Germany,Frankfurt,,,3,2,5,1979,1950751,2024-06-15,New,Solar,1,A
+2769,house,Netherlands,Utrecht,city center,237,6,4,18,1970,840905,2020-02-20,New,Central,NO,G
+1476,APT,Belgium,Ghent,SUBURBS,365,8,1,13,1983,426476 EUR,2018-02-20,,gas,1,A
+1313,Penthouse,Spain,Alicante,city center,118,8,1,0,,1640524,2023-07-16,Old,Solar,Yes,D
+1779,HOUSE,Switzerland,Bern,Industrial,,2,4,11,2008,1760825,2018-08-21,Good,Central,No,C
+1315,apartment,,Setúbal,Suburbs,185,7,4,3,,104,2021-07-19,,Central,YES,G
+2666,house,Germany,Cologne,City Center,74,7,3,,2022,1279809,12/03/2022,Renovated,gas,1,a
+1177, studio,Netherlands,The Hague,,330,4,4,18,,59754,2024-01-13,Old,gas,1,D
+2474,APT,,Nantes,city center,397,7,1,12,1953,1746601,2018-09-19,New,gas,NO,A
+2545,house,Switzerland,Zurich,City Center,83,7,3,17,,1538949 EUR,2022-08-08,New,Central,,E
+1421, studio,Portugal,Coimbra,City Center,174,5,1,18,1988,1994308,2022-01-04,Old,gas,1,A
+2523, studio,Spain,Valencia,City Center,91,1,4,11,1973,554685,2024-11-15,,Solar,No,E
+1064,apartment,Belgium,Namur,Suburbs,58,7,3,5,,115306,2024-05-12,Old,CENTRAL,NO,
+2067,APT,Germany,Frankfurt,city center,180,5,1,17,1962,259459,2018-05-07,Renovated,Central,no,
+2882,APT,Netherlands,Amsterdam,City Center,220,7,4,,,1711038 EUR,2024-02-25,,Gas,NO,A
+2786,apartment,Spain,Alicante,Residential,273,,2,7,1960,318236,2021/06/15,,gas,YES,c
+1285,HOUSE,Switzerland,Bern,Suburbs,388,3,1,2,1994,477260,2018-01-17,Old,Electric,YES,
+2829,duplex,Belgium,Ghent,SUBURBS,,8,1,0,1991,1362012,2023-12-31,Good,Solar,No,C
+1231,house,France,Toulouse,City Center,62,3,1,8,1985,327953,2022-02-23,Good,electric,yes,a
+1676,house,Switzerland,Lausanne,SUBURBS,388,2,2,10,2012,339984,13/06/2024,New,,0,
+1274,APT,,Lausanne,,,1,2,8,1970,336115,2018-08-15,,,No,G
+1971,Penthouse,Portugal,Braga,SUBURBS,190,2,3,12,,380733 EUR,2022-02-22,,CENTRAL,yes,E
+1396, studio,,Bordeaux,,235,3,4,11,,489905,2019-05-26,Old,gas,,F
+1833,APT,Italy,Naples,City Center,348,6,3,7,1962,1985564,2021-01-12,Renovated,CENTRAL,No,G
+1393,house,Spain,Bilbao,Residential,39,,4,20,1968,497679,2018-08-10,Old,,no,c
+2854,VILLA,Italy,Venice,Suburbs,207,,3,17,1989,812658,2019-11-22,Renovated,Solar,Yes,G
+2097,apartment,France,Nantes,,167,1,2,8,1973,76830,2021-10-29,Renovated,Electric,0,b
+2715,apartment,Belgium,Brussels,,229,8,1,1,1952,1300818,2020-11-29,Good,gas,NO,a
+2212,house,Germany,Berlin,City Center,211,,1,,2001,1010310,2019-12-09,Good,,no,b
+1356,house,Belgium,Namur,,208,1,1,2,,305960,2024-08-25,Old,,yes,B
+1219,HOUSE,,Liège,Suburbs,274,4,3,9,,503278,2023-08-11,Old,,NO,C
+2779,Penthouse,Portugal,Coimbra,SUBURBS,147,6,2,18,2003,1133352,2018-12-17,Good,Solar,Yes,G
+1097,house,Portugal,Faro,Industrial,191,7,2,10,1988,1315025,2024-06-16,Renovated,gas,NO,B
+1464,Villa ,Spain,Seville,city center,344,5,2,17,2005,976200 EUR,2023-03-25,Old,Solar,0,D
+1795,Villa ,Italy,Turin,Suburbs,304,4,4,6,1976,1758250,2022-07-07,Good,gas,0,E
+1152,house,Netherlands,Eindhoven,SUBURBS,386,,4,3,1964,1642409,05.08.2019,Good,Electric,,D
+2734,APT,,Zurich,City Center,186,1,3,6,1971,1435509,2024-11-08,New,Solar,,b
+2723,apartment,Switzerland,Zurich,SUBURBS,199,,2,7,1991,1125285,2023-07-25,,Solar,yes,a
+1551,duplex,Netherlands,Utrecht,,,6,2,18,1979,407675,2023-03-18,Old,gas,Yes,C
+2119,APT,,Venice,Residential,364,4,3,18,2011,918318,2018-02-15,Good,CENTRAL,,F
+2419,HOUSE,Portugal,Porto,,269,7,3,9,1974,1318303,2023-01-14,,gas,0,F
+2525, studio,Germany,Munich,Residential,95,6,1,13,2017,412008,2023-09-27,Good,CENTRAL,0,
+1186,VILLA,Germany,Hamburg,Industrial,107,1,1,10,1995,1862445,2022-08-21,,,NO,
+2308,VILLA,Netherlands,The Hague,City Center,40,8,1,14,1987,483564,2021-06-22,Old,,Yes,
+1923,VILLA,Germany,Cologne,Suburbs,236,1,4,,1951,991431,01/06/2022,New,Electric,1,D
+2781,Penthouse,Belgium,Bruges,city center,226,3,2,17,2007,1405893,2018-04-14,Good,CENTRAL,No,D
+2123,APT,,Genoa,Residential,282,5,1,,2018,1857651,2020-09-22,New,Electric,yes,
+1484, studio,Spain,Zaragoza,SUBURBS,128,2,3,5,1972,1658252,2022-01-27,Renovated,gas,YES,G
+2316,APT,Italy,Rome,Historic,252,,4,12,1979,998102,2020-07-05,,gas,1,C
+2914,apartment,Portugal,Coimbra,SUBURBS,60,,1,6,1985,1974459 EUR,2021-11-10,,Gas,No,c
+2594,VILLA,France,Strasbourg,city center,270,6,4,20,2014,1852636,2023-04-05,,Solar,,G
+2199,apartment,France,Bordeaux,,150,,1,3,2010,1804833,2022-02-16,Renovated,CENTRAL,yes,A
+2733,Penthouse,Switzerland,Basel,Industrial,28,2,2,12,1977,998599,2018-09-06,Old,,No,c
+1639,HOUSE,France,Paris,,191,7,1,4,2020,1806567,2024-09-07,Old,Central,YES,G
+2647,apartment,,Bern,Historic,27,6,2,10,1995,1413173 EUR,2024-03-24,Good,CENTRAL,Yes,C
+1714,Villa ,Switzerland,Lucerne,Suburbs,149,7,2,2,1954,1857426,2020-07-16,Good,Solar,No,C
+2100,duplex,Italy,Naples,city center,177,,1,14,1983,1746342,07-16-2023,Renovated,Solar,yes,c
+2536,apartment,Switzerland,Basel,Residential,35,4,3,12,1995,1157030,2021-04-18,Old,gas,Yes,
+1841,apartment,France,Lyon,,301,3,3,4,1952,1531302,2021-03-29,Old,Gas,Yes,a
+1790,Villa ,,Eindhoven,SUBURBS,,7,4,9,2001,1924076,2019-07-02,New,gas,yes,b
+2776,VILLA,Switzerland,Geneva,Industrial,373,7,1,7,1976,1991629,2022-01-30,,Gas,NO,a
+1039,apartment,Belgium,Brussels,Historic,330,8,3,19,1979,1731773,2018-06-11,,CENTRAL,yes,B
+1068,Villa ,Belgium,Antwerp,Suburbs,,4,3,9,2016,1824051 EUR,2024-08-21,,CENTRAL,Yes,A
+2763,HOUSE,Netherlands,Rotterdam,SUBURBS,116,5,1,13,2007,441066,2021-04-15,Renovated,Gas,0,B
+1188,VILLA,Italy,Venice,Residential,243,7,2,20,1970,867308,2021-01-18,Renovated,gas,YES,B
+1753,HOUSE,Italy,Bologna,city center,156,3,4,9,1965,160392,2021-05-17,Good,Central,1,b
+1965,Penthouse,Italy,Milan,City Center,67,2,3,13,1979,1059529,2022-11-13,Renovated,electric,Yes,G
+2799,Penthouse,Portugal,Braga,Industrial,161,8,4,10,1953,521854,15.11.2018,New,Electric,yes,a
+2913,HOUSE,Italy,Rome,Historic,208,1,3,9,1994,1077753,2018-06-06,New,Central,NO,c
+1796, studio,France,Lyon,city center,99,3,2,19,1978,369510,2018-09-17,New,gas,1,
+1199,duplex,Italy,Turin,Suburbs,,2,4,6,2022,1589867,2023-05-02,Renovated,CENTRAL,,G
+1455,house,Spain,Zaragoza,Residential,41,3,,0,1988,532355,2021-01-10,,gas,Yes,A
+1258,duplex,France,Lyon,City Center,272,2,3,18,2011,964501,2019-10-30,Old,Gas,NO,C
+2362,duplex,France,Lyon,Suburbs,363,8,2,16,1999,321459,2018-04-26,Renovated,CENTRAL,,b
+1239,Penthouse,France,Paris,Residential,48,6,1,3,2001,493921,2018-06-01,New,electric,Yes,D
+1121,VILLA,Switzerland,Lausanne,SUBURBS,,2,4,4,1963,304705,2024-07-13,New,Central,No,D
+1798,house,Belgium,Ghent,Historic,111,1,2,12,2000,823092,2021-04-10,Good,CENTRAL,NO,D
+1896,duplex,France,Lyon,Suburbs,203,7,4,,1953,1305804,2020-04-18,Good,Central,yes,c
+1955,house,Switzerland,Geneva,,279,4,1,18,1995,1094841,2024-04-10,New,Gas,No,F
+1294,APT,Netherlands,Utrecht,Industrial,30,3,3,15,1974,771100,2021-04-16,Old,CENTRAL,1,C
+2538,HOUSE,Italy,Bologna,Suburbs,225,1,2,19,2000,1673520,2018-07-30,Old,Solar,,
+1042,duplex,France,Paris,SUBURBS,272,2,1,17,1980,334508,2019-02-10,Renovated,Central,NO,D
+1607, studio,France,Strasbourg,Historic,293,5,1,12,,1225987,2019-02-12,Renovated,Gas,no,c
+1565,house,Spain,Madrid,City Center,109,1,1,7,1961,259,22.07.2018,Old,gas,yes,A
+1762,Penthouse,Germany,Hamburg,SUBURBS,227,1,4,19,1973,757859,2018-10-01,New,,,c
+1107,Villa ,Germany,Frankfurt,City Center,384,6,2,15,2000,348155 EUR,2021-02-13,Old,electric,NO,b
+1098,house,Germany,Berlin,city center,382,4,4,2,1987,1767495,2022-03-25,Old,gas,0,a
+2095,APT,,Basel,Residential,107,7,4,0,1968,1159557,2021-12-11,,electric,Yes,D
+2674,APT,Belgium,Bruges,City Center,133,6,3,2,,1271464,2022-12-20,New,Solar,1,A
+1115,HOUSE,Belgium,Bruges,Residential,9999,2,4,16,2008,805234,01/09/2023,New,electric,NO,G
+1733,HOUSE,France,Strasbourg,Industrial,,4,2,19,2009,206,2018-07-17,,Solar,no,A
+1830, studio,Spain,Alicante,Residential,89,6,1,14,,503378 EUR,2022-04-09,Old,Electric,,
+1872,Villa ,France,Lyon,Residential,324,1,2,2,1973,1946073,2024-07-23,Renovated,Solar,YES,D
+1218,Penthouse,Belgium,Bruges,City Center,304,1,2,10,2023,1726747,2019-11-11,,Electric,no,F
+1730,apartment,Switzerland,Basel,Suburbs,221,6,4,11,1992,217901,2021-08-22,Renovated,Central,No,D
+2180,HOUSE,Belgium,Namur,City Center,143,5,,15,,1973950,2021-08-01,New,gas,yes,F
+2037,house,Germany,Düsseldorf,Industrial,130,,4,16,1988,706806,2021-04-05,Old,Solar,no,E
+2009,house,,Setúbal,Residential,26,7,2,20,2002,510764 EUR,01/03/2024,,,0,E
+1949,APT,Netherlands,Eindhoven,Suburbs,105,7,2,8,2014,1204469,22/07/2022,,Central,NO,B
+2158,Villa ,France,Toulouse,Industrial,48,6,4,11,,1450152,2022-01-24,Renovated,gas,No,A
+2585,APT,,Eindhoven,City Center,9999,8,2,16,2002,1442904,2020-10-02,New,CENTRAL,Yes,a
+1184,Villa ,Belgium,Liège,Residential,105,6,4,12,2023,1830273,2022-12-28,,electric,,C
+1174,VILLA,Germany,Stuttgart,City Center,304,8,3,18,1989,772167,2019-02-15,Renovated,Central,yes,G
+2920, studio,Switzerland,Lausanne,SUBURBS,331,1,2,0,,499532,2021-06-06,New,electric,no,a
+2106,apartment,Belgium,Liège,Historic,62,1,3,6,1951,462163,2023-11-29,Old,Electric,NO,F
+2671, studio,Netherlands,The Hague,city center,100,7,4,8,1968,1857566,2023-03-05,Good,,No,C
+1293,APT,France,Lyon,SUBURBS,232,8,3,15,1954,888190,2022-09-25,Renovated,gas,1,B
+1728,VILLA,Germany,Stuttgart,city center,359,7,2,2,1973,1032037,2021-10-13,,Central,,E
+1157,duplex,Italy,Turin,,249,3,1,5,1973,1591573,2019-09-27,,Central,no,
+2668,HOUSE,,Madrid,Residential,376,7,3,,1965,1402372 EUR,2021/10/04,Renovated,Electric,No,c
+2287,VILLA,Switzerland,Geneva,,25,2,1,5,1958,1844254 EUR,2019-01-07,,Electric,YES,G
+2193,Villa ,Netherlands,Amsterdam,city center,339,,3,2,,1485356,2019-06-12,Good,Central,Yes,D
+1554,Penthouse,Belgium,Ghent,,,3,3,15,2022,182382,2023-05-05,,CENTRAL,YES,C
+1280,VILLA,,Paris,Industrial,351,4,1,6,2009,274,2019-04-26,Old,electric,No,D
+1902,house,Portugal,Setúbal,city center,20,3,3,12,,717408,2018-11-21,Renovated,,Yes,D
+1076, studio,Switzerland,Geneva,Suburbs,162,5,2,9,1988,1528284,13.09.2023,Good,,Yes,E
+1361,Penthouse,Portugal,Lisbon,,347,2,,8,1992,356875 EUR,2019-12-21,,electric,No,a
+1737,Penthouse,Italy,Venice,City Center,150,3,4,9,1973,271811,2020-06-25,New,Central,Yes,b
+2276,house,France,Bordeaux,city center,334,8,2,2,1977,1504135,2022-01-26,New,Gas,NO,A
+2334,VILLA,Italy,Rome,city center,83,7,3,8,1988,1605544,2019-04-17,New,Gas,no,E
+1595,house,France,Lyon,Industrial,,7,1,18,2020,1111049,2019-08-06,,gas,no,G
+2850,Penthouse,Germany,Cologne,Residential,338,6,4,18,2004,723178,2020-05-08,Good,CENTRAL,no,B
+1333,Villa ,Portugal,Braga,Industrial,149,4,1,0,2009,203502 EUR,2019-07-14,Old,electric,No,B
+2838,apartment,Portugal,Lisbon,City Center,199,6,4,6,1996,88903 EUR,2024-11-02,,CENTRAL,yes,c
+1964,Penthouse,Switzerland,Lausanne,Historic,129,2,2,9,1951,79284 EUR,2022-03-12,,electric,YES,B
+1366,APT,,Rome,SUBURBS,131,5,1,19,2009,1829122,04.01.2020,,Gas,,B
+1238, studio,Switzerland,Basel,SUBURBS,110,1,4,9,1974,1509370,12-19-2018,,,1,a
+2669, studio,France,Bordeaux,Historic,308,1,3,13,1999,1476013,2023-05-27,Renovated,Gas,0,a
+2030,APT,Germany,Leipzig,Industrial,108,3,2,13,2004,962221,2021-08-23,,Central,1,E
+1936,Villa ,,Valencia,city center,124,8,4,10,1957,1428383,2020-11-12,Renovated,electric,0,E
+2754,Villa ,Germany,Leipzig,Suburbs,,5,3,18,1956,1206384,2018-04-22,Good,gas,yes,F
+1621,house,,Naples,city center,290,1,2,10,,1661646,2020-10-25,Good,gas,NO,B
+2549,house,Netherlands,Rotterdam,Suburbs,20,8,1,14,1969,1257232 EUR,2021-04-25,Good,Central,no,D
+1102,HOUSE,Italy,Florence,Residential,315,2,2,10,1996,463294,2021-11-26,Good,,No,c
+1159,Penthouse,Italy,Rome,City Center,215,2,4,17,1982,1568286 EUR,2020-02-28,New,Gas,0,a
+2229,Penthouse,Switzerland,Bern,city center,170,5,3,8,2015,1902786,2024-07-08,Old,Central,NO,b
+1884,house,Portugal,Lisbon,City Center,243,3,,6,1986,1536275,07-22-2024,Good,Solar,,B
+2803,Villa ,Portugal,Faro,Residential,128,,4,11,1997,640228,2023-02-07,Renovated,Central,No,b
+2105,VILLA,Netherlands,Groningen,City Center,,1,1,6,2000,1805575,09-26-2020,Good,electric,,G
+2661,Villa ,Portugal,Faro,City Center,195,4,1,13,2007,1863347,2018-04-18,Old,Solar,,
+2268,apartment,Italy,Genoa,Historic,323,,4,7,1955,1072189,2024-07-03,New,Solar,no,a
+2015,apartment,Spain,Alicante,city center,388,6,1,17,,484906,2020-10-08,Good,Gas,no,C
+1749,HOUSE,Switzerland,Lausanne,City Center,398,7,2,9,1980,1953039,2019-07-03,Renovated,electric,yes,F
+1342,house,Portugal,Coimbra,Suburbs,56,,2,6,2010,374480,2022-03-09,,Electric,,A
+1171,HOUSE,,Utrecht,Residential,137,7,4,3,1966,84734,2018-06-09,New,Electric,1,c
+1277,Penthouse,Belgium,Namur,SUBURBS,370,2,2,12,2006,66496,2019-10-19,Old,Central,no,B
+1243,VILLA,Netherlands,Eindhoven,Residential,132,8,2,1,1985,456258,07.05.2020,Old,Central,No,A
+1995,house,,Stuttgart,city center,51,4,2,4,1978,1351456,2019-07-25,Renovated,Central,yes,b
+1058,house,Belgium,Brussels,,210,2,1,2,1986,1650371,2018-04-20,Renovated,Solar,,B
+2508, studio,Germany,Berlin,City Center,344,4,1,5,1958,73921,2023/08/08,Old,CENTRAL,,
+2173,Penthouse,Portugal,Faro,Industrial,262,3,2,10,2008,1437040,2020-12-23,,electric,Yes,b
+2718,VILLA,Spain,Valencia,,103,2,1,5,1959,875123,2024-07-18,Old,Central,1,A
+1489,house,Germany,Frankfurt,City Center,,5,1,20,1992,1504828,2020-11-22,Good,Gas,0,E
+2029,APT,Italy,Genoa,city center,395,6,1,12,1963,1753504 EUR,2020-06-06,,CENTRAL,Yes,B
+1983,Penthouse,Italy,Milan,SUBURBS,131,6,1,19,2002,1441375,2023-07-29,New,Gas,NO,E
+1521,duplex,Spain,Zaragoza,SUBURBS,94,6,3,4,2000,1982018,2020-07-09,,Gas,no,A
+1626,apartment,Germany,Stuttgart,Industrial,292,3,4,2,1963,1653099,2023-12-15,,CENTRAL,1,C
+1349,Villa ,Germany,Berlin,Industrial,274,2,3,14,2020,402432,2019-03-09,Good,CENTRAL,,E
+2566, studio,Netherlands,Groningen,SUBURBS,,2,3,19,1981,203560,2023-04-04,Old,gas,1,E
+2019,duplex,Belgium,Namur,city center,270,4,1,15,,1829991,2019-05-08,Old,Electric,,F
+2361,apartment,France,Lyon,SUBURBS,,4,4,18,1950,1411792 EUR,23.08.2019,Renovated,electric,1,
+2630,house,Switzerland,Zurich,SUBURBS,385,5,1,0,2023,1481082,2020-02-26,New,electric,,B
+2342, studio,Germany,Berlin,Historic,298,8,2,17,1958,1166305,2022-07-14,Good,Central,0,D
+2832,duplex,Netherlands,Eindhoven,Historic,,1,1,14,1967,307,2024-09-30,Old,,no,
+2346,Villa ,Switzerland,Geneva,,46,4,,7,1976,1069153,2023-11-04,Good,Central,no,F
+1007,apartment,Italy,Milan,,189,2,2,15,1985,499287,12.07.2023,New,Electric,Yes,G
+1465,apartment,,Rotterdam,City Center,120,8,3,6,2017,61774,2023-05-15,Renovated,,Yes,b
+2326,HOUSE,France,Strasbourg,city center,345,2,2,7,1973,1901882,2024-08-06,New,Solar,YES,
+1600,Villa ,Spain,Madrid,City Center,296,,4,20,1961,368531,2022-01-03,Good,,NO,B
+1273,Villa ,Netherlands,Utrecht,SUBURBS,143,3,3,13,2005,718264,2020-08-25,Good,Central,YES,E
+1453, studio,Belgium,Bruges,,229,1,3,10,1983,912409,2021-06-17,Good,Solar,No,b
+1394,HOUSE,Spain,Valencia,Residential,160,7,1,14,1988,1877225,2021-05-01,Old,electric,1,a
+1770, studio,Germany,Düsseldorf,Historic,184,4,1,18,1997,1027171,2018-11-17,,CENTRAL,,F
+1228,APT,Germany,Leipzig,city center,9999,2,2,14,2003,1923978,2020-02-01,Old,Solar,0,E
+1460,duplex,Belgium,Namur,City Center,287,6,3,20,2022,398013,2021-09-14,Good,Gas,0,
+1941,apartment,France,Bordeaux,Historic,331,5,1,8,,1450841,2024-06-16,Renovated,CENTRAL,yes,a
+2562,HOUSE,Portugal,Faro,Suburbs,223,5,3,16,1955,858702,2018-04-05,Renovated,electric,,E
+2516,HOUSE,,Malaga,SUBURBS,133,4,1,15,1959,1118194 EUR,2024-04-07,New,Solar,Yes,C
+2394,VILLA,Italy,Milan,City Center,346,6,2,4,2000,119139 EUR,2020-10-27,,CENTRAL,,
+1165,Villa ,Belgium,Ghent,City Center,367,6,4,14,2009,802335,2020-03-15,New,Electric,Yes,a
+2321, studio,Netherlands,Amsterdam,City Center,245,6,3,1,2020,1670788,2020-02-04,Old,gas,no,a
+2255,VILLA,Germany,Frankfurt,Industrial,28,1,3,13,1980,585478,2019-02-07,New,Gas,Yes,G
+2975,duplex,France,Bordeaux,SUBURBS,307,,1,4,,667796,2024-07-10,,Solar,no,B
+1065,APT,Germany,Stuttgart,Suburbs,180,5,2,0,1964,1592822,2023-07-05,New,electric,yes,
+2739,duplex,France,Nice,Historic,367,3,4,5,2014,542386,01/11/2022,Renovated,electric,,b
+2712,APT,,Namur,SUBURBS,193,3,4,1,1995,1827057,2022-06-23,,electric,NO,F
+2581, studio,Italy,Genoa,Residential,329,7,3,15,1970,1983392,2021-10-02,,Central,1,B
+2283,house,Spain,Seville,,297,5,4,2,2006,1294481,2022-07-10,,Central,,C
+2695,Penthouse,Spain,Valencia,Suburbs,294,2,2,12,2005,1263417 EUR,2021-07-14,Renovated,CENTRAL,,a
+1401,APT,France,Lyon,Suburbs,32,3,4,5,1995,552733,2018-07-31,New,Electric,No,
+2587,VILLA,Italy,Genoa,Residential,393,7,4,12,1974,1697954,2022-07-31,Old,Gas,yes,G
+1567,house,Netherlands,Utrecht,,298,3,3,17,1997,1184070,2023-07-19,Old,Electric,no,C
+1303,house,Belgium,Bruges,city center,345,7,4,13,2012,1777658,2023-02-09,,CENTRAL,No,b
+1596,duplex,France,Paris,SUBURBS,26,3,2,18,2003,456143 EUR,09.01.2024,Good,electric,No,B
+1379,Villa ,Spain,Seville,city center,265,,2,10,1989,1054343 EUR,2023-09-27,New,Solar,Yes,D
+1441, studio,Spain,Barcelona,City Center,124,6,,2,2003,1396134,2021-04-19,New,,yes,b
+2382,APT,Germany,Frankfurt,Suburbs,351,,2,,2008,1415057,2023-02-14,,CENTRAL,YES,B
+2157,Villa ,Portugal,Porto,,283,3,3,7,2002,86594,2022-11-07,New,electric,,B
+2697, studio,,Turin,Historic,374,4,1,12,2022,58529 EUR,2020-10-01,Old,gas,,a
+1103, studio,Netherlands,Amsterdam,City Center,176,2,2,4,1997,1121277,2019-12-11,Good,Gas,NO,
+2822,duplex,Netherlands,Eindhoven,Industrial,238,6,2,9,2009,439508,2020-06-24,New,gas,,A
+1025,duplex,Portugal,Setúbal,Suburbs,185,4,1,14,1985,561418,2020-11-24,Renovated,Central,0,D
+2280,Villa ,,Geneva,city center,107,4,3,,2014,611830 EUR,2021-05-23,New,electric,YES,C
+1261,house,Germany,Berlin,City Center,198,5,3,14,1967,1915891 EUR,03-23-2023,New,gas,No,B
+2904,Villa ,,Florence,Industrial,269,3,3,14,2006,267264,03.03.2021,New,Solar,0,
+2886,APT,Switzerland,Basel,Suburbs,261,6,2,2,1991,1913541 EUR,02.03.2018,New,Solar,1,a
+2574,HOUSE,Portugal,Braga,Residential,343,1,1,8,1950,1373643,2021-04-15,,gas,,F
+1202,Penthouse,,Faro,,117,6,3,9,1953,404954,25/03/2020,,Gas,no,A
+1214,apartment,Netherlands,Amsterdam,Residential,75,7,2,9,1970,1331548,2024/05/11,Old,Electric,no,
+1929,HOUSE,Belgium,Liège,Suburbs,329,3,1,10,2011,1769409,2022-11-23,New,Solar,0,D
+2386,apartment,Netherlands,Groningen,Residential,148,2,4,15,1980,1901581,2018-06-11,Good,Solar,0,B
+2836,HOUSE,Netherlands,Groningen,Industrial,316,1,4,4,1950,1002826,2022-08-02,Good,,yes,G
+1581,APT,Belgium,Ghent,Industrial,362,4,2,6,1987,1490960 EUR,2021-04-08,Renovated,Gas,1,F
+1384,HOUSE,France,Marseille,Historic,,3,4,13,1953,829478 EUR,2019-02-01,Good,electric,yes,a
+1400,Villa ,Germany,Düsseldorf,Residential,226,6,2,7,2005,258830,2019-10-14,New,Central,,A
+1632,Villa ,,Venice,Residential,157,4,3,1,1997,817999,2020-09-11,,electric,NO,A
+2660,duplex,Netherlands,Rotterdam,Residential,95,6,1,3,2022,1843070,2022-06-28,New,Electric,YES,F
+1385,Penthouse,Switzerland,Bern,Residential,247,,3,,1964,175830,2024-03-19,,,YES,G
+1695,duplex,,Leipzig,city center,104,7,2,12,2009,1263403,2020-11-25,,gas,No,F
+1653,Penthouse,Germany,Stuttgart,SUBURBS,386,3,2,12,1994,277988,13/01/2019,,CENTRAL,yes,
+2343,duplex,Spain,Valencia,,115,7,4,15,1987,633205,2019-11-13,Old,gas,YES,
+2526,house,Belgium,Liège,City Center,360,,4,2,1976,881784,2023-10-07,Good,gas,no,b
+2204,HOUSE,Belgium,Ghent,Industrial,42,8,4,13,1971,334033,2022-05-21,Renovated,Solar,NO,b
+2347,Penthouse,Portugal,Setúbal,Industrial,365,8,,14,1997,1103642,2023-05-16,Renovated,,YES,G
+1410,Villa ,Belgium,Namur,Historic,90,8,1,10,1966,1857524,2023-05-12,Renovated,electric,YES,B
+1388,Penthouse,Belgium,Brussels,Residential,164,7,2,12,1990,1571878,2018-04-08,,Central,no,C
+1522, studio,Italy,Turin,city center,135,,2,0,1968,672420,2023-10-26,Old,,NO,E
+2587,VILLA,Italy,Genoa,Residential,393,7,4,12,1974,1697954,2022-07-31,Old,Gas,yes,G
+1004,HOUSE,Spain,Madrid,City Center,98,3,4,12,1958,850313 EUR,2020-12-28,Renovated,gas,yes,
+2315,duplex,Italy,Venice,SUBURBS,,,1,18,1983,1316069,2020-10-21,New,,No,F
+2597,apartment,Spain,Alicante,,279,5,1,10,,1542836,2022-11-27,Renovated,Central,1,A
+1276,house,Italy,Florence,city center,229,5,1,17,2012,500,2021/12/12,New,Central,YES,E
+1584,duplex,,Eindhoven,Historic,165,7,2,7,1979,1346694,2019-12-05,Good,Central,yes,B
+1481,Villa ,Belgium,Namur,Historic,9999,1,4,9,1973,621850,2019-02-02,Renovated,Solar,No,b
+2979,apartment,France,Paris,Industrial,355,4,3,4,2011,1143019,12-16-2021,Good,electric,,F
+2455, studio,,Marseille,Suburbs,82,7,4,1,1973,1798487,2021-08-04,New,Central,Yes,B
+2675,duplex,Spain,Alicante,City Center,310,4,1,11,,920009,2022-12-29,,electric,Yes,B
+2017,VILLA,Portugal,Coimbra,SUBURBS,351,4,3,2,1990,1387922,2019-01-26,New,electric,yes,A
+1245,Villa ,,Nantes,Residential,130,8,2,11,1999,336061,2019-04-01,Good,CENTRAL,YES,E
+2149,duplex,France,Lyon,Historic,342,1,1,4,1992,1028868,2021-09-06,New,Central,No,a
+1371,duplex,Belgium,Ghent,,,,2,1,1990,431160 EUR,2021/06/11,,Gas,NO,F
+1553,Villa ,Portugal,Braga,Residential,269,1,3,2,1963,727972,2019-10-12,,gas,No,b
+2270,duplex,Switzerland,Lausanne,,275,8,3,1,,456493,2018-08-27,Old,,NO,C
+2232,duplex,Germany,Cologne,Historic,253,6,4,,1974,1727303,2024-01-20,Old,gas,No,F
+2636,duplex,Italy,Rome,Residential,74,6,3,15,1986,692655,2022-11-05,New,gas,0,F
+2844,Penthouse,Switzerland,Bern,Suburbs,250,6,3,4,1994,745967,2023-08-14,Old,,0,
+1250,HOUSE,Belgium,Brussels,Historic,210,6,4,16,2012,1154533,2018-09-26,New,Electric,,C
+2852,Villa ,Portugal,Porto,city center,273,1,,3,1976,1024487 EUR,2023-06-08,Renovated,Solar,YES,E
+1191,duplex,Switzerland,Bern,City Center,185,3,1,16,2020,411,2021-08-22,New,gas,YES,A
+2368,apartment,Netherlands,Groningen,,181,6,4,15,,1687822,2021-12-03,New,Electric,NO,
+2454,VILLA,Italy,Milan,SUBURBS,207,3,1,20,,371471,2020-06-07,New,Gas,No,C
+2056, studio,,Bern,SUBURBS,392,4,1,3,1987,200194,2019-04-07,Old,Solar,,E
+2184, studio,Germany,Frankfurt,Residential,57,1,3,16,1983,311869,2021-07-22,Good,Gas,No,a
+2411,HOUSE,Netherlands,Amsterdam,SUBURBS,103,7,2,2,2014,307466,2024/11/10,,Gas,1,G
+2445,duplex,Portugal,Coimbra,city center,53,6,3,6,2002,748135,2023-08-13,,CENTRAL,,F
+2154,Villa ,Belgium,Brussels,SUBURBS,98,5,4,0,1982,1378631 EUR,2022-06-26,Good,CENTRAL,No,A
+2039,Villa ,Italy,Genoa,,,6,,20,1994,1487860 EUR,23/12/2019,Good,Electric,no,D
+2567,Villa ,Switzerland,Lucerne,Historic,46,2,1,9,1957,53222,2023-01-05,,CENTRAL,YES,D
+1709,HOUSE,Belgium,Antwerp,Residential,363,4,,11,1982,1721253,2021-10-18,New,Electric,yes,D
+2071,APT,Italy,Florence,Industrial,117,4,3,17,2016,1317745,2020-11-08,Renovated,,yes,E
+2883,APT,,The Hague,Suburbs,,5,1,,,1674949,2024-07-21,Old,Electric,No,c
+1124, studio,Netherlands,Eindhoven,Residential,35,5,1,16,2010,799591,2018-08-18,,gas,NO,C
+2489,house,France,Nantes,Residential,164,2,3,9,1965,691119,2020-11-10,,electric,YES,A
+1204,duplex,Spain,Zaragoza,Historic,359,6,1,9,1952,1869091,2018-12-27,Old,Central,Yes,D
+2800,Villa ,Belgium,Bruges,Historic,292,1,,0,1970,795223,10-06-2018,Renovated,Gas,no,A
+1756,Penthouse,Portugal,Braga,City Center,228,,2,0,2009,283780,2024-01-09,Renovated,CENTRAL,0,c
+2568,Penthouse,Germany,Hamburg,Suburbs,128,4,2,8,1967,318747,2019-11-07,,CENTRAL,yes,B
+2578,Penthouse,Portugal,Coimbra,Historic,386,3,3,,1991,984258,2023-08-07,,,1,G
+2638,Penthouse,Netherlands,Groningen,,,6,4,4,2023,1103169,2024-10-16,New,gas,No,B
+1575,VILLA,Portugal,Lisbon,Residential,375,6,1,15,,120331,2020-09-23,New,Central,yes,B
+2236,HOUSE,Belgium,Liège,City Center,400,1,4,17,1973,527219,2020-09-21,Good,Gas,1,
+2080,house,Portugal,Lisbon,SUBURBS,385,1,4,3,1978,1907885,2022-05-27,New,electric,1,E
+1179, studio,Netherlands,The Hague,,313,5,2,15,1974,1595836,03.02.2018,,Central,1,F
+1325,APT,Belgium,Liège,City Center,312,3,3,17,1982,227752,2023-03-31,Old,CENTRAL,no,G
+2875,HOUSE,Spain,Barcelona,Suburbs,383,7,2,3,2010,586985,2020-11-09,Good,CENTRAL,NO,D
+1850,apartment,Portugal,Faro,SUBURBS,197,2,1,5,1955,241067,2019-05-01,,gas,Yes,D
+1367,duplex,France,Marseille,City Center,135,8,4,9,1997,457,2022-11-13,Good,Electric,YES,E
+2859,Villa ,Portugal,Lisbon,Residential,93,4,2,13,,1474649,2019-08-20,Good,,YES,A
+2608,HOUSE,France,Strasbourg,Suburbs,258,4,,10,1961,1673209 EUR,2020-10-31,Renovated,Central,no,E
+2827,APT,Netherlands,Amsterdam,Historic,364,3,1,9,2021,780751,2022-02-05,Old,Solar,no,A
+2118,Penthouse,Italy,Bologna,Historic,380,7,1,1,2012,1003060,01/10/2019,Old,,yes,
+2397,apartment,Switzerland,Lausanne,Suburbs,163,2,1,17,1989,946581,2023-08-01,,gas,1,B
+1729,house,France,Nantes,SUBURBS,119,4,3,17,1988,1105664,2021-05-05,New,CENTRAL,NO,A
+1748,house,Portugal,Porto,City Center,117,3,2,4,1999,959828 EUR,2021-11-08,Renovated,,yes,B
+1942,Penthouse,Spain,Seville,City Center,,5,1,10,1988,1967579,2024-06-05,Good,,Yes,F
+2311, studio,Spain,Valencia,Industrial,149,5,2,16,,1751571,2021-12-10,Good,Electric,Yes,G
+1387,Penthouse,Spain,Barcelona,Suburbs,328,,1,9,1980,391333,2020-02-19,Old,Central,Yes,F
+2084,apartment,Spain,Barcelona,Historic,,4,3,13,1996,213151,2018-11-11,Renovated,gas,,B
+1699,HOUSE,Italy,Venice,Suburbs,139,4,4,0,2002,766657,2019-11-10,Renovated,electric,yes,E
+2087,HOUSE,France,Nice,,130,2,4,1,1998,696608,2019-11-18,Renovated,Gas,Yes,D
+1001,Penthouse,Germany,Frankfurt,Industrial,72,2,,11,1962,1827324 EUR,2024-12-08,Good,Electric,Yes,c
+1198,apartment,Belgium,Bruges,,285,3,3,9,1950,515330,2024-05-30,Renovated,Gas,yes,E
+1326, studio,,Leipzig,Residential,155,2,3,9,1960,1817067,2021-09-29,Renovated,,YES,b
+1763, studio,Belgium,Brussels,,23,8,3,17,,689401,2018-08-23,Old,Solar,1,c
+1463,HOUSE,Italy,Turin,,,3,2,15,1971,1884198,2019-04-26,Old,electric,NO,E
+1429,apartment,Italy,Milan,,,2,2,4,1954,1923367,2023-12-04,,electric,0,F
+1933,Penthouse,Switzerland,Basel,,324,8,2,16,1963,1990518,2024-09-16,,gas,Yes,b
+1796, studio,France,Lyon,city center,99,3,2,19,1978,369510,2018-09-17,New,gas,1,
+2848,APT,Belgium,Antwerp,Historic,313,5,4,19,1982,480952,2022-05-21,,electric,1,G
+2137,apartment,France,Nantes,,213,5,2,12,1950,1333398,08.06.2022,Old,,no,a
+2284, studio,France,Marseille,City Center,43,7,3,19,2000,1391716,27/03/2018,Good,electric,No,A
+2359,VILLA,Portugal,Coimbra,SUBURBS,116,4,1,18,,494349,2020/12/23,Good,CENTRAL,YES,F
+2140,VILLA,Switzerland,Lausanne,City Center,267,3,4,2,1975,577639,2022-05-26,New,Solar,YES,C
+2237,Penthouse,France,Toulouse,,129,6,3,6,2010,177707,2023-01-10,Good,,Yes,C
+2878,Villa ,Belgium,Bruges,,,5,2,10,1988,1771401,2022-06-01,,Electric,No,A
+2963,Penthouse,,Venice,Suburbs,71,4,2,13,2016,282739,2020-09-14,Old,Solar,,
+1480,HOUSE,Portugal,Coimbra,city center,192,5,4,0,2001,435729 EUR,2020-05-20,New,CENTRAL,1,D
+1330,VILLA,Belgium,Namur,Industrial,55,8,1,16,1997,73167,04-05-2024,Old,Gas,no,b
+1483,duplex,,Bologna,Suburbs,169,6,4,0,2009,376947,2023-07-04,,Gas,,b
+1879,APT,Switzerland,Zurich,,272,7,2,7,1976,1638705 EUR,2024-02-02,Renovated,Central,0,F
+2909, studio,Netherlands,Amsterdam,Suburbs,204,4,2,2,1972,119340 EUR,2024-10-15,Old,electric,Yes,D
+1106, studio,Germany,Hamburg,Residential,125,1,3,8,2018,1301701,2019-01-26,Old,Central,no,c
+2381,duplex,Germany,Stuttgart,Suburbs,113,7,3,2,1987,966178,2020-08-16,Good,Solar,0,c
+1100,VILLA,Switzerland,Lucerne,City Center,97,6,1,3,2011,669566,2023-06-02,Old,CENTRAL,No,E
+1977,apartment,Switzerland,Lucerne,Industrial,230,4,2,7,1992,1308463 EUR,2020-10-08,,Central,No,D
+2685,apartment,Belgium,Namur,City Center,288,2,2,11,1955,95,2024-01-19,Good,CENTRAL,,C
+1443,duplex,Switzerland,Basel,Industrial,119,5,2,7,1992,1725636,2022-01-22,New,CENTRAL,1,b
+1707,apartment,,Lisbon,city center,294,1,1,18,2010,1132697,2022-01-07,New,,1,C
+1989,duplex,,Madrid,Industrial,72,5,3,9,1981,211902,2024-03-26,Good,Central,yes,B
+2227,house,Netherlands,Eindhoven,city center,359,3,1,10,1992,671819,2022/03/03,,,1,E
+1140, studio,Netherlands,Groningen,Historic,371,8,3,9,2014,1822972,2020-01-20,New,Solar,NO,D
+2907,Penthouse,Germany,Frankfurt,Suburbs,,1,1,9,1974,1640616,2019-01-28,Renovated,Gas,yes,B
+1609,VILLA,,Alicante,Industrial,82,8,3,11,1960,1704652,2018-12-20,Renovated,Gas,0,a
+1910, studio,Germany,Stuttgart,Suburbs,,4,4,12,1990,253283,2018-12-19,Good,Central,yes,F
+1089, studio,Portugal,Lisbon,Residential,399,3,1,17,1983,1274803,2021-10-14,Old,electric,yes,F
+1299,APT,Portugal,Porto,Residential,51,7,1,18,1969,171235,2021-05-31,Renovated,Central,no,a
+2871,APT,,Zurich,,244,7,3,5,1986,1111710,2018-10-11,Renovated,,0,A
+1932,Penthouse,Portugal,Braga,Historic,279,3,4,13,2008,338819,2023-09-14,Old,,,B
+2752,duplex,Italy,Rome,Residential,79,7,3,14,1966,401198,2024-02-15,Renovated,Electric,YES,G
+2771,apartment,,Alicante,Residential,101,5,2,13,1980,1621506,2020-12-12,Renovated,electric,No,G
+1470,APT,Germany,Berlin,Residential,99,4,4,20,1994,1750598,2020-05-13,New,Electric,0,c
+1369,Penthouse,Germany,Hamburg,Suburbs,276,1,2,10,1956,951072,2022/03/08,Good,gas,YES,
+1281,duplex,Italy,Florence,SUBURBS,273,7,2,6,2005,1308464 EUR,2020-08-22,Renovated,electric,No,A
+1972,APT,Belgium,Liège,Suburbs,388,6,2,6,1993,1226907,2020-10-20,Old,electric,yes,E
+1589,VILLA,Belgium,Antwerp,,54,4,1,18,1956,1422841,20/04/2018,Good,Electric,1,a
+1381,duplex,Portugal,Porto,city center,339,5,3,8,1963,1971482,2019-08-24,Old,Electric,No,b
+2962,Penthouse,Germany,Cologne,,302,1,2,9,2015,776813,2018-12-16,Renovated,Solar,No,E
+2550,APT,Switzerland,Lucerne,City Center,256,7,2,14,,122657,2021-06-19,Old,Gas,NO,G
+1563, studio,Italy,Florence,City Center,281,1,3,6,1951,1789770,2023-07-07,Good,Electric,No,A
+1431,apartment,Belgium,Liège,city center,,2,4,20,1983,112868,2018-09-13,,Central,NO,B
+2387,HOUSE,Spain,Alicante,Historic,289,4,3,14,1989,1605507,2024-07-09,Old,Solar,No,B
+2951,Penthouse,Netherlands,Utrecht,Residential,142,1,,5,1956,1751978,2024-12-09,Good,electric,No,E
+2744,house,Portugal,Porto,,65,4,4,15,2018,66570,2018-11-05,Good,gas,NO,
+1416,apartment,Spain,Madrid,SUBURBS,310,5,2,16,2017,400863,2023-06-16,Renovated,,NO,a
+2467,Villa ,Germany,Leipzig,Historic,337,,2,15,1993,1920133,2022-10-02,,,,E
+1271,HOUSE,Italy,Genoa,Historic,294,4,3,1,1983,673525 EUR,2018-10-03,Old,Solar,NO,B
+2629,VILLA,Switzerland,Lausanne,Industrial,324,2,4,7,2020,256849,2023/09/10,Old,Solar,No,c
+2561, studio,Germany,Berlin,Industrial,134,2,3,11,2005,925043,2023-09-30,Renovated,CENTRAL,Yes,E
+2996, studio,Spain,Barcelona,SUBURBS,139,8,3,6,1970,473701,2019-08-16,,gas,YES,D
+1336,VILLA,Netherlands,The Hague,Industrial,340,4,2,12,2019,947330,2018-09-28,,CENTRAL,Yes,B
+1236,Villa ,,Venice,Residential,350,8,1,17,1968,259,2023-01-01,New,Central,,E
+1527, studio,Belgium,Liège,Industrial,136,6,1,14,,1626671 EUR,2022/01/01,,CENTRAL,No,C
+1334,house,,Geneva,Suburbs,162,3,2,19,1952,260795,2019-12-30,,Solar,1,A
+1310,VILLA,Italy,Venice,Suburbs,251,1,1,19,2009,656600,2020-05-21,New,Gas,0,b
+2711,HOUSE,Netherlands,Utrecht,Historic,43,8,1,12,,1624976,2018-04-02,Old,gas,no,D
+1514,Villa ,Germany,Leipzig,Suburbs,144,7,2,12,2003,1290290 EUR,2019-09-14,Renovated,CENTRAL,Yes,c
+1741, studio,Spain,Zaragoza,Industrial,294,6,3,17,2020,221029,2023-10-18,Renovated,Solar,1,a
+1249,apartment,Netherlands,Utrecht,city center,207,6,2,2,2021,1225995,2020-05-09,Renovated,CENTRAL,no,a
+2511,apartment,France,Toulouse,Industrial,66,5,,10,,1325899,2023-01-21,Renovated,,,
+1903,VILLA,Belgium,Bruges,Suburbs,95,2,3,14,2022,1095247 EUR,2022-04-11,,gas,no,b
+2960,house,Italy,Milan,Suburbs,187,2,1,18,,1996395,2020/04/24,Old,Solar,no,D
+2532,apartment,Germany,Hamburg,SUBURBS,112,2,3,1,1973,1117473 EUR,2019-10-09,Renovated,Central,NO,A
+1271,HOUSE,Italy,Genoa,Historic,294,4,3,1,1983,673525 EUR,2018-10-03,Old,Solar,NO,B
+2976, studio,Switzerland,Lucerne,SUBURBS,124,5,2,14,,282848,2022-11-12,Good,Electric,0,G
+1990, studio,France,Nantes,,196,8,1,14,1979,1220863,2020-09-08,,Central,NO,F
+1166, studio,Portugal,Coimbra,SUBURBS,38,5,4,11,1969,873128,2020-09-05,,Gas,0,C
+1998,apartment,,Paris,Historic,114,6,4,12,1962,356655,2024-09-22,,Gas,YES,A
+1439,apartment,France,Strasbourg,Residential,258,1,3,20,,1820678,2020-11-22,Old,Gas,YES,c
+2260,Penthouse,Spain,Zaragoza,city center,36,2,1,,1974,1735120,2021-01-19,Old,electric,Yes,A
+1448,Villa ,,Geneva,city center,167,5,1,8,1979,431,2020-03-10,Renovated,Solar,no,b
+2079, studio,Switzerland,Zurich,SUBURBS,218,6,4,1,1968,457482,2020-09-28,Good,Solar,YES,F
+1533,duplex,Germany,Frankfurt,SUBURBS,,5,2,13,1984,1497624,02.07.2023,New,Electric,No,C
+1696,VILLA,,Strasbourg,city center,348,4,2,9,2012,1463884,2022-06-19,,gas,no,b
+2022,Villa ,Portugal,Setúbal,Suburbs,234,1,1,1,2014,332172,2020-04-12,,Solar,NO,
+2942,APT,Belgium,Brussels,Residential,93,4,2,11,1962,301279,2021-10-13,New,,YES,E
+2264, studio,Germany,Frankfurt,Residential,267,3,4,12,1995,1430838,2023-02-13,New,CENTRAL,0,a
+2247,Villa ,Portugal,Setúbal,Historic,256,7,4,,1961,1085088 EUR,2020-04-14,New,Electric,no,b
+2439,Penthouse,Switzerland,Bern,Industrial,195,5,4,2,2000,967653,2020-01-07,New,CENTRAL,YES,b
+1894,APT,France,Nantes,Residential,125,3,1,12,1958,1650139,2024-09-27,,Gas,1,B
+2591,duplex,Switzerland,Bern,City Center,141,8,2,4,1960,516113,2022-10-27,,Solar,yes,C
+1458, studio,,Lausanne,Suburbs,50,8,3,9,2002,1602964,2023-06-25,Good,CENTRAL,1,
+1200,APT,Italy,Rome,Suburbs,47,5,1,17,,1234708,2023-08-30,Old,Gas,yes,F
+2220,Penthouse,Switzerland,Zurich,City Center,107,,4,20,,266972,2022-12-19,Good,,,B
+2923,HOUSE,Germany,Cologne,city center,274,7,1,3,1964,1905605,2019-07-10,New,Gas,No,G
+1486,house,Italy,Naples,City Center,370,2,3,19,1952,1902859,2023-04-19,Renovated,Gas,no,B
+1156,HOUSE,Netherlands,Utrecht,,335,4,4,16,,1694811,2024-03-11,Good,electric,YES,c
+1317,apartment,Spain,Barcelona,city center,37,7,3,4,1958,180028,2022-04-12,Old,Solar,Yes,
+1601,apartment,,Madrid,Residential,118,3,4,3,2012,610632,2023-10-10,Renovated,Central,,F
+2142,duplex,Spain,Madrid,Industrial,227,7,2,10,2009,1413639,2020-07-30,Old,CENTRAL,no,a
+2901,APT,Netherlands,Rotterdam,SUBURBS,356,5,2,1,1973,1845241,2020-04-02,New,Electric,0,c
+1974,APT,Italy,Milan,city center,69,6,2,2,2014,262873,2019-06-20,Good,Central,No,E
+1168,VILLA,Belgium,Bruges,Industrial,311,3,4,11,1998,1282451,2023-06-18,New,Gas,1,C
+1487,house,Italy,Genoa,Suburbs,145,8,2,14,1972,1099026,22.01.2023,Old,Electric,,E
+1512,APT,Spain,Valencia,Residential,281,4,2,0,1978,466656,2020-08-01,Good,CENTRAL,yes,B
+1050,Penthouse,,Ghent,City Center,81,1,4,5,2005,320922,2018/08/03,Old,,No,G
+2833, studio,France,Paris,Residential,34,3,2,20,2022,143793,15.04.2022,Old,CENTRAL,0,
+1469, studio,Belgium,Namur,SUBURBS,397,3,3,12,1956,1530408,2020-11-28,Old,CENTRAL,NO,F
+2250,duplex,France,Bordeaux,Industrial,154,6,4,15,1953,210669,2022-01-06,Good,Solar,No,G
+2147,duplex,Belgium,Antwerp,City Center,121,6,3,16,2009,1088944,2023-10-25,Good,Central,YES,E
+2812,VILLA,Switzerland,Zurich,city center,354,1,1,5,1958,171476,2020-10-31,New,gas,,c
+1035,VILLA,Netherlands,Eindhoven,Suburbs,213,8,3,7,1974,1249146,2019-09-16,,CENTRAL,No,
+2770,HOUSE,Netherlands,Groningen,Suburbs,155,2,2,6,1989,94160,2024-02-20,Old,Central,NO,c
+2998,apartment,,Zurich,Historic,168,3,3,0,1952,1524932 EUR,11-27-2024,Good,electric,1,c
+1776, studio,France,Bordeaux,,178,8,3,8,1973,902654,2022-06-12,New,Central,0,c
+1610,Penthouse,Switzerland,Lucerne,City Center,35,6,4,3,2005,1742978,27.04.2023,Renovated,CENTRAL,YES,A
+1806,house,Italy,Florence,,35,5,4,15,1989,1939044,04-18-2024,New,Gas,no,F
+2632,duplex,Spain,Malaga,city center,86,7,1,17,2006,1769465,2018-10-13,Old,CENTRAL,no,c
+2364,house,Portugal,Setúbal,Industrial,116,6,1,4,2020,1582646,2024-11-20,Renovated,,YES,a
+2093,house,Netherlands,The Hague,Suburbs,228,7,2,10,1989,1908800,2024-09-15,Old,,No,b
+2046,Penthouse,Spain,Barcelona,Suburbs,169,1,3,6,1983,1927580,2018-06-06,,electric,1,B
+2548,house,,Setúbal,SUBURBS,255,2,3,,1974,54241,2018-08-30,New,gas,,
+2047,APT,Netherlands,Amsterdam,Industrial,95,2,4,12,1966,1944252,24/02/2022,,Gas,yes,B
+2817,house,Portugal,Setúbal,City Center,392,,3,19,2012,224309,2023-06-02,Old,CENTRAL,yes,D
+2482,HOUSE,Germany,Stuttgart,city center,107,3,3,9,,929354,10-25-2021,Old,CENTRAL,yes,D
+1275,Villa ,Spain,Zaragoza,Residential,140,2,1,18,2016,1675535,2022-05-17,Old,Solar,yes,B
+1649,VILLA,Italy,Rome,Residential,266,7,1,6,1968,1742889,2020-09-12,,,Yes,A
+1327,duplex,Belgium,Brussels,Suburbs,164,6,4,18,2001,1639234,2023-04-28,,electric,1,F
+1651,apartment,Spain,Malaga,Residential,252,7,2,6,2016,1878382,2021-08-15,Old,Gas,,G
+2513,Villa ,Germany,Cologne,Industrial,,2,1,,1961,1426183,2020-01-14,,Central,YES,C
+1598,HOUSE,Belgium,Ghent,Residential,95,4,2,14,1981,1948288,16/10/2019,New,gas,,G
+2634,duplex,Germany,Frankfurt,Historic,372,7,4,4,1990,185538,2021-01-12,Old,Central,NO,c
+1139,Penthouse,Netherlands,The Hague,Industrial,161,5,3,4,1974,1134843,2023-07-31,Old,gas,,A
+2058,apartment,,Leipzig,city center,216,,2,2,1985,141605,16/05/2019,,Electric,1,b
+1633,apartment,Germany,Munich,Suburbs,157,1,1,8,2000,1800908,2024-02-21,Good,Solar,,D
+1993,house,Belgium,Antwerp,City Center,390,7,2,9,2000,614874 EUR,2020-01-25,Renovated,Gas,YES,E
+1743,duplex,Spain,Bilbao,Residential,269,5,2,16,1966,1618192 EUR,12-01-2023,New,,yes,D
+2640,house,Netherlands,Utrecht,Industrial,275,3,3,6,1950,1138638 EUR,2019-01-12,Old,electric,YES,C
+2420,HOUSE,Switzerland,Basel,Industrial,64,1,4,14,2005,1394497,2021-07-22,New,Gas,no,b
+1861,house,Portugal,Braga,Historic,,1,3,14,1958,263376,2020-07-30,Good,Electric,1,F
+1624,house,Germany,Berlin,Residential,130,7,3,2,1962,1106336,2018-04-21,,Central,no,D
+1529,house,Germany,Munich,Suburbs,118,3,3,17,2008,1794348,2020-02-11,New,electric,No,a
+1616,APT,,Düsseldorf,City Center,316,5,3,,1981,1845455,2019-06-10,,Electric,YES,C
+1580,HOUSE,Switzerland,Basel,city center,374,8,3,16,2018,1342614,2020-09-07,Renovated,Solar,NO,a
+2787,house,Spain,Madrid,,362,1,3,1,2000,1877560,25/01/2021,New,gas,No,c
+1206,VILLA,Spain,Zaragoza,Residential,367,4,4,18,1980,370338,2020-04-08,,Gas,,C
+1666,apartment,Netherlands,Amsterdam,,337,,2,9,1963,1664302 EUR,2023-04-21,Good,electric,Yes,E
+1786,duplex,Netherlands,Amsterdam,,257,1,2,11,,1337336,2020-11-20,Old,gas,YES,C
+2665,VILLA,Portugal,Braga,Historic,35,3,4,9,2005,604073,27.10.2021,Good,electric,1,
+1538, studio,Switzerland,Lucerne,Residential,369,8,3,20,1994,1004171,2022-05-11,Renovated,Central,,E
+2927,Penthouse,Netherlands,The Hague,Residential,66,5,3,5,1997,1355905,2023-11-19,Good,Central,yes,A
+1003,APT,France,Nice,SUBURBS,157,2,2,10,2022,495910,2024-07-22,Renovated,Solar,yes,a
+2201,apartment,Spain,Zaragoza,Industrial,301,6,4,3,1954,268,2018-09-06,Old,gas,No,C
+1526,Villa ,Italy,Turin,Residential,112,1,4,10,1965,236868,2020-01-20,Old,,1,B
+2165,Villa ,,Genoa,SUBURBS,178,7,1,6,2000,77660 EUR,2019-06-06,New,electric,no,B
+1472,house,Switzerland,Lausanne,Residential,323,7,4,,2010,579687,2023-09-08,Renovated,gas,Yes,C
+1843,Villa ,Portugal,Lisbon,City Center,343,6,3,0,,651598 EUR,2018-04-07,Good,Gas,1,B
+1738,apartment,Portugal,Setúbal,SUBURBS,202,4,,17,2019,1965799,2024-11-29,Renovated,electric,NO,b
+2713,Villa ,Netherlands,Eindhoven,Historic,50,5,1,10,1994,393200,08/12/2020,Good,electric,1,E
+1917,apartment,Spain,Zaragoza,Suburbs,171,8,2,0,1968,707539,2018-08-21,Good,Solar,No,
+1220,apartment,Germany,Frankfurt,Historic,255,7,1,,1950,142337,2024-06-23,Good,CENTRAL,YES,D
+2390,Villa ,,Bordeaux,,30,5,2,15,1989,154,01/07/2024,New,Solar,NO,F
+1257,APT,Italy,Naples,Industrial,168,8,1,18,1988,687354,2019-05-24,Old,Gas,1,c
+1582,duplex,,Braga,city center,,8,3,8,1968,1320840,2023-07-21,,,0,b
+1627,Villa ,Switzerland,Bern,SUBURBS,332,8,3,8,,1321464,2024-07-09,New,Solar,0,B
+2708,Penthouse,Netherlands,Utrecht,Historic,274,5,1,9,2021,471047,2018-01-17,New,Gas,,G
+2611,HOUSE,Portugal,Setúbal,,117,6,2,4,1986,732727,2020-11-13,Renovated,CENTRAL,No,A
+1513,VILLA,Italy,Naples,Residential,332,7,2,1,1985,890691,2020/12/18,,Electric,Yes,G
+2002,HOUSE,Italy,Genoa,city center,,5,2,6,1989,95242,2019-09-01,New,Solar,yes,E
+1591, studio,Germany,Munich,Residential,102,1,1,4,1998,51202,2023-10-30,Old,,0,G
+1112,APT,Italy,Turin,Suburbs,171,1,2,,2013,286440,2024-05-17,Good,electric,No,A
+2563,HOUSE,Germany,Düsseldorf,,131,6,3,8,2012,722336,2018-05-29,Renovated,Gas,1,a
+2841,Penthouse,Germany,Stuttgart,City Center,377,6,4,,2014,1522625,04-13-2024,,,1,c
+2349,VILLA,,Barcelona,SUBURBS,197,1,3,,2002,1365647,2019-03-23,Old,gas,YES,C
+1300, studio,Portugal,Braga,Historic,298,,3,6,2001,1897537,2019-01-16,Renovated,Gas,Yes,A
+2725,duplex,Spain,Bilbao,Suburbs,148,5,1,12,2022,1433616,2024-03-14,Good,electric,1,c
+1954, studio,France,Marseille,,347,5,3,,1995,1124534,2022-10-17,New,gas,YES,C
+2207,Penthouse,Italy,Venice,City Center,86,6,1,7,1973,232448,2021-09-17,Old,Gas,no,b
+2440,Villa ,Germany,Cologne,Industrial,256,1,2,11,1958,173457 EUR,2022-12-18,Good,,1,
+1576,VILLA,Italy,Genoa,Industrial,211,5,4,5,1958,1270795 EUR,2024-01-04,New,,yes,F
+2798,Villa ,Spain,Zaragoza,Historic,228,7,4,13,2017,196804,2019-08-07,Renovated,gas,no,A
+2138,house,Belgium,Bruges,,194,4,1,18,1964,1374878,2018-01-27,Old,,yes,F
+2112,APT,France,Strasbourg,Suburbs,375,4,3,,,491469,2023-02-07,,,YES,c
+2458, studio,France,Nice,Industrial,111,5,1,7,2019,341152,2018-12-28,Old,CENTRAL,no,C
+2050,apartment,France,Toulouse,Historic,329,4,3,14,2002,1474846,09-22-2019,Renovated,Electric,YES,D
+2168,VILLA,Switzerland,Lausanne,Residential,170,5,4,18,1954,1217849,2021-02-28,Good,Gas,no,a
+1338, studio,,Coimbra,Historic,277,1,2,19,1952,1641614,2019-09-14,Good,electric,NO,C
+1543,duplex,,Leipzig,Suburbs,373,4,1,14,1968,253568,2022-12-12,New,electric,NO,F
+1110,VILLA,,Frankfurt,City Center,368,8,1,10,1951,1763601,05.05.2020,Good,Gas,No,a
+2336,Penthouse,Switzerland,Basel,Historic,314,3,3,3,1986,314641,2018-03-11,Renovated,CENTRAL,no,a

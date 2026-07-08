@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: "{{ env_var('SNOWFLAKE_DATABASE') }}"
+    schema: BRONZE
+    tables:
+      - name: ODS_REALESTATE
+        description: Raw real estate listings from CSV
+        columns:
+          - name: LISTING_ID
+            tests:
+              - unique
+              - not_null
