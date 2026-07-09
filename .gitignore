@@ -6,4 +6,4 @@ dbt_project/profiles.yml
 .DS_Store
 __pycache__/
 *.pyc
-.venv 
+.venv
