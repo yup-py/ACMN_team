@@ -1,139 +1,214 @@
 {{ config(
     materialized='table',
-    schema='silver',
+    schema='SILVER',
     tags=['silver', 'cleaned']
 ) }}
 
-with source as (
-    select * from {{ source('bronze', 'ODS_REALESTATE') }}
+-- STEP 1 : REMOVE DUPLICATES
+WITH ranked AS (
+    SELECT *,
+           ROW_NUMBER() OVER (
+               PARTITION BY listing_id
+               ORDER BY ingestion_timestamp DESC
+           ) AS rn
+    FROM {{ source('bronze', 'ODS_REALESTATE') }}
 ),
 
-text_clean as (
-    select
-        try_cast(listing_id as int) as listing_id,
-        
-        -- standardization idea: map 'apt' to 'apartment' and ensure lowercase
-        case 
-            when lower(trim(property_type)) = 'apt' then 'apartment'
-            else lower(nullif(trim(property_type), ''))
-        end as property_type,
-        
-        lower(nullif(trim(country), '')) as country,
-        lower(nullif(trim(city), '')) as city,
-        lower(nullif(trim(neighborhood), '')) as neighborhood,
-        
-        try_cast(surface_m2 as float) as surface_m2,
-        try_cast(num_rooms as int) as num_rooms,
-        try_cast(num_bathrooms as int) as num_bathrooms,
-        try_cast(floor as int) as floor,
-        try_cast(year_built as int) as year_built,
-        
-        -- conversion idea: clear currencies/spaces/commas before casting
-        try_cast(regexp_replace(replace(replace(replace(lower(trim(price)), 'eur', ''), ' ', ''), ',', ''), '[^0-9.]', '') as float) as price,
-        
-        -- date parse idea: look through multiple string date formats safely
-        coalesce(
-            try_to_date(trim(listing_date), 'yyyy-mm-dd'),
-            try_to_date(trim(listing_date), 'dd/mm/yyyy'),
-            try_to_date(trim(listing_date), 'mm/dd/yyyy'),
-            try_to_date(trim(listing_date), 'yyyy/mm/dd'),
-            try_to_date(trim(listing_date), 'dd-mm-yyyy'),
-            try_to_date(trim(listing_date), 'mm-dd-yyyy')
-        ) as listing_date,
-        
-        case when lower(trim(condition)) in ('true', '1', 'yes') then 1 else 0 end as condition,
-        lower(nullif(trim(heating_type), '')) as heating_type,
-        case when lower(trim(parking)) in ('true', '1', 'yes') then 1 else 0 end as parking,
-        lower(nullif(trim(energy_rating), '')) as energy_rating,
-        ingestion_timestamp,
-        row_number() over (partition by listing_id order by ingestion_timestamp desc) as rn
-    from source
-),
+-- STEP 2 : STANDARDIZE VALUES & CONVERT BLANKS TO NULL
+standardized AS (
+    SELECT
+        listing_id,
 
-deduplicated as (
-    select * from text_clean where rn = 1
-),
+        CASE
+            WHEN LOWER(TRIM(property_type))='apt' THEN 'apartment'
+            ELSE NULLIF(LOWER(TRIM(property_type)), '')
+        END AS property_type,
 
--- calculating country mode via separate window partitions to bypass snowflake limits
-city_country_mode as (
-    select 
-        city,
-        country,
-        row_number() over (partition by city order by count(*) desc) as rn
-    from deduplicated
-    where country is not null
-    group by city, country
-),
+        NULLIF(INITCAP(TRIM(country)), '') AS country,
+        NULLIF(INITCAP(TRIM(city)), '') AS city,
+        NULLIF(INITCAP(TRIM(neighborhood)), '') AS neighborhood,
 
--- calculating neighborhood mode via separate window partitions to bypass snowflake limits
-city_neighborhood_mode as (
-    select 
-        city,
-        neighborhood,
-        row_number() over (partition by city order by count(*) desc) as rn
-    from deduplicated
-    where neighborhood is not null
-    group by city, neighborhood
-),
-
--- calculating floor mode via separate window partitions to bypass snowflake limits
-prop_floor_mode as (
-    select 
-        property_type,
-        neighborhood,
+        surface_m2,
+        num_rooms,
+        num_bathrooms,
         floor,
-        row_number() over (partition by property_type, neighborhood order by count(*) desc) as rn
-    from deduplicated
-    where floor is not null
-    group by property_type, neighborhood, floor
-),
+        year_built,
+        price,
+        listing_date,
 
-fill_nulls as (
-    select
-        d.listing_id,
-        coalesce(d.property_type, 'unknown') as property_type,
-        coalesce(d.country, cc.country, 'unknown') as country,
-        coalesce(d.city, 'unknown') as city,
-        coalesce(d.neighborhood, cn.neighborhood, 'unknown') as neighborhood,
-        coalesce(d.surface_m2, median(d.surface_m2) over (partition by d.property_type, d.neighborhood), 100.0) as surface_m2,
-        coalesce(d.num_rooms, median(d.num_rooms) over (partition by d.property_type, d.neighborhood), 2) as num_rooms,
-        coalesce(d.num_bathrooms, median(d.num_bathrooms) over (partition by d.property_type, d.neighborhood), 1) as num_bathrooms,
-        coalesce(d.floor, pf.floor, 0) as floor,
-        coalesce(d.year_built, median(d.year_built) over (partition by d.neighborhood), 2000) as year_built,
-        coalesce(d.price, median(d.price) over (partition by d.property_type, d.city), 0) as price,
-        coalesce(d.listing_date, current_date()) as listing_date,
-        coalesce(d.condition, 0) as condition,
-        coalesce(d.heating_type, 'unknown') as heating_type,
-        coalesce(d.parking, 0) as parking,
-        coalesce(d.energy_rating, 'unknown') as energy_rating,
+        NULLIF(LOWER(TRIM(condition)), '') AS condition,
+        NULLIF(LOWER(TRIM(heating_type)), '') AS heating_type,
+
+        CASE
+            WHEN LOWER(TRIM(parking)) IN ('yes','true','1') THEN 'YES'
+            WHEN LOWER(TRIM(parking)) IN ('no','false','0') THEN 'NO'
+            ELSE NULL
+        END AS parking,
+
+        NULLIF(UPPER(TRIM(energy_rating)), '') AS energy_rating,
         
-        -- derived metrics and calendar groupings
-        year(d.listing_date) as listing_year,
-        month(d.listing_date) as listing_month,
-        quarter(d.listing_date) as listing_quarter,
-        round(d.price / nullif(d.surface_m2, 0), 2) as price_per_m2,
-        year(current_date()) - d.year_built as property_age,
-        current_date() - d.listing_date as days_on_market,
-        d.ingestion_timestamp,
-        current_timestamp() as processed_at
-    from deduplicated d
-    left join city_country_mode cc on d.city = cc.city and cc.rn = 1
-    left join city_neighborhood_mode cn on d.city = cn.city and cn.rn = 1
-    left join prop_floor_mode pf on d.property_type = pf.property_type and d.neighborhood = pf.neighborhood and pf.rn = 1
+        ingestion_timestamp
+    FROM ranked
+    WHERE rn = 1
 ),
 
--- outlier removal idea: filter logical real estate thresholds
-remove_outliers as (
-    select *
-    from fill_nulls
-    where
+-- STEP 3 : CONVERT TYPES (TRY_CAST automatically turns invalid/blank strings to true NULLs)
+converted AS (
+    SELECT
+        listing_id,
+        property_type,
+        country,
+        city,
+        neighborhood,
+
+        TRY_CAST(surface_m2 as FLOAT) AS surface_m2,
+        TRY_CAST(num_rooms as INT) AS num_rooms,
+        TRY_CAST(num_bathrooms as INT) AS num_bathrooms,
+        TRY_CAST(floor as INT) AS floor,
+        TRY_CAST(year_built as INT) AS year_built,
+
+        TRY_CAST(
+            REGEXP_REPLACE(
+                REGEXP_REPLACE(
+                    REGEXP_REPLACE(TRIM(price), '[A-Z]', ''),
+                    ' ',
+                    ''
+                ),
+                ',',
+                ''
+            ) as FLOAT
+        ) AS price,
+        
+        COALESCE(
+             TRY_CAST(TRIM(listing_date) as DATE),
+             TRY_CAST(TRIM(listing_date) as TIMESTAMP)::DATE
+        ) AS listing_date,
+
+        condition,
+        heating_type,
+        parking,
+        energy_rating,
+        
+        ingestion_timestamp
+    FROM standardized
+),
+
+-- STEP 4 : CALCULATE MEDIANS
+stats AS (
+    SELECT
+        MEDIAN(surface_m2) AS median_surface,
+        MEDIAN(num_rooms) AS median_rooms,
+        MEDIAN(num_bathrooms) AS median_bathrooms,
+        MEDIAN(floor) AS median_floor,
+        MEDIAN(year_built) AS median_year,
+        MEDIAN(price) AS median_price
+    FROM converted
+),
+
+-- STEP 5 : HANDLE MISSING VALUES (Smart hierarchical imputation using city groups)
+cleaned AS (
+    SELECT
+        listing_id,
+
+        COALESCE(
+            property_type, 
+            MODE(property_type) OVER (PARTITION BY city), 
+            MODE(property_type) OVER (), 
+            'unknown'
+        ) AS property_type,
+        
+        COALESCE(
+            city, 
+            MODE(city) OVER (), 
+            'UNKNOWN'
+        ) AS city,
+
+        COALESCE(
+            country,
+            MODE(country) OVER (PARTITION BY city),
+            MODE(country) OVER (),
+            'UNKNOWN'
+        ) AS country,
+
+        COALESCE(
+            neighborhood,
+            MODE(neighborhood) OVER (PARTITION BY city),
+            'UNKNOWN'
+        ) AS neighborhood,
+
+        COALESCE(surface_m2, median_surface) AS surface_m2,
+        COALESCE(num_rooms, median_rooms) AS num_rooms,
+        COALESCE(num_bathrooms, median_bathrooms) AS num_bathrooms,
+        COALESCE(floor, median_floor, 0) AS floor,
+        COALESCE(year_built, median_year, 2000) AS year_built,
+        COALESCE(price, median_price, 100000) AS price,
+        COALESCE(listing_date, CURRENT_DATE()) AS listing_date,
+
+        COALESCE(
+            condition, 
+            MODE(condition) OVER (PARTITION BY city), 
+            MODE(condition) OVER (), 
+            'unknown'
+        ) AS condition,
+        
+        COALESCE(
+            heating_type, 
+            MODE(heating_type) OVER (PARTITION BY city), 
+            MODE(heating_type) OVER (), 
+            'unknown'
+        ) AS heating_type,
+        
+        COALESCE(parking, 'NO') AS parking,
+        
+        COALESCE(
+            energy_rating, 
+            MODE(energy_rating) OVER (PARTITION BY city), 
+            MODE(energy_rating) OVER (), 
+            'UNKNOWN'
+        ) AS energy_rating,
+        
+        ingestion_timestamp
+    FROM converted c1
+    CROSS JOIN stats
+),
+
+-- STEP 6 : REMOVE OUTLIERS
+silver AS (
+    SELECT
+        listing_id,
+        property_type,
+        country,
+        city,
+        neighborhood,
+        CAST(surface_m2 as INT) as surface_m2,
+        CAST(num_rooms as INT) as num_rooms,
+        CAST(num_bathrooms as INT) as num_bathrooms,
+        CAST(floor as INT) as floor,
+        CAST(year_built as INT) as year_built,
+        CAST(price as FLOAT) as price,
+        listing_date,
+        condition,
+        heating_type,
+        parking,
+        energy_rating,
+        YEAR(listing_date) as listing_year,
+        MONTH(listing_date) as listing_month,
+        QUARTER(listing_date) as listing_quarter,
+        ROUND(price / NULLIF(surface_m2, 0), 2) as price_per_m2,
+        YEAR(CURRENT_DATE()) - year_built as property_age,
+        CURRENT_DATE() - listing_date as days_on_market,
+        ingestion_timestamp,
+        CURRENT_TIMESTAMP() as processed_at
+    FROM cleaned
+    WHERE
         price > 0
-        and surface_m2 between 20 and 608
-        and num_rooms between 1 and 8
-        and num_bathrooms between 1 and 4
-        and floor between 0 and 20
-        and year_built between 1950 and year(current_date())
-        and listing_date <= current_date()
+        AND surface_m2 BETWEEN 20 AND 1000
+        AND num_rooms BETWEEN 1 AND 10
+        AND num_bathrooms BETWEEN 1 AND 5
+        AND floor BETWEEN 0 AND 30
+        AND year_built BETWEEN 1850 AND YEAR(CURRENT_DATE())
+        AND listing_date <= CURRENT_DATE()
 )
 
-select * from remove_outliers
+-- FINAL RESULT
+SELECT * FROM silver
